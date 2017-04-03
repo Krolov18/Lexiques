@@ -1,0 +1,54 @@
+quod erat demonstrandum	quod erat demonstrandum	
+q.e.d..	quod erat demonstrandum	
+qed	quod erat demonstrandum	
+opus citatum	opus citatum	
+op. cit..	opus citatum	
+nota bene	nota bene	
+N.B..	nota bene	
+id est	id est	
+i.e.	id est	
+exempli gratia	exempli gratia	
+e.g.	exempli gratia	
+idem	idem	
+id..	idem	
+à tout va	à tout va	
+à tout-va	à tout va	
+à-tout-va	à tout va	
+petit-à-petit	petit-à-petit	
+petit à petit	petit-à-petit	
+au delà	au-delà	
+au-delà	au-delà	
+en deçà	en-deçà	
+en-deçà	en-deçà	
+et al..	et alii	
+e.a..	et alii	
+ibidem	ibidem	
+ibid..	ibidem	
+grosso merdo	grosso modo	
+gratis pro deo	gratis	
+
+±	plus ou moins	
++/-	plus ou moins	
++	plus	
+asap	dès que possible	
+bcp	beaucoup	
+cpdt	cependant	
+p-ê	peut-être	
+qqpart	quelque part	
+stp	s'il te plaît	
+svp	s'il vous plaît	
+tjrs	toujours	
+tjs	toujours	
+vivi	oui	
+vi	oui	
+voui	oui	
+yeah	oui	
+~	environ	
+chtou	tout	
+chtoute	tout	
+svt	souvent	
+cahin caha	cahin-caha	
+dare-dare	dare dare	
+sur les chapeaux de roue	sur les chapeaux de roues	
+nan	non	
+plus__adv	plus	

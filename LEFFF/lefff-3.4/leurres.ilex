@@ -1,0 +1,4 @@
+contrepoindre	v57	100;Lemma;v;<Suj:cln|sn>;cat=v;%actif
+blatération	nc-2f	100;Lemma;nc;<Suj:(sn),Objde:(de-sinf|de-sn),ObjÃ :(Ã -sinf)>;cat=nc;%default
+extasique	adj-2	100;Lemma;adj;<Suj:(sn),Objde:(de-scompl|de-sinf|de-sn),ObjÃ :(Ã -scompl|Ã -sinf|Ã -sn)>;cat=adj;%adj_personnel
+piluler	v-er	100;Lemma;v;<Suj:cln|sn,Obj:(cla|sn)>;cat=v;%ppp_employÃ©_comme_adj,%actif,%passif

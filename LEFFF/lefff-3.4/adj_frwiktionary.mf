@@ -1,0 +1,274 @@
+embesogné	embesogné	
+embesognée	embesogné	f
+poplité	poplité	
+poplitée	poplité	f
+névrosant	névrosant	
+névrosante	névrosant	fs
+névrosantes	névrosant	fs
+névrosants	névrosant	mp
+sympathisant	sympathisant	
+sympathisante	sympathisant	fs
+sympathisantes	sympathisant	fs
+sympathisants	sympathisant	mp
+fictionnel	fictionnel	
+fictionnelle	fictionnel	fs
+fictionnelles	fictionnel	fp
+fictionnels	fictionnel	mp
+tel	tel	
+telle	tel	fs
+telles	tel	fp
+tels	tel	mp
+boulot	boulot	
+boulots	boulot	mp
+boulottes	boulot	fp
+douillet	douillet	
+douillets	douillet	mp
+douillettes	douillet	fp
+linot	linot	
+linotte	linot	fs
+violet	violet	
+violette	violet	fs
+chou	chou	
+choute	chou	fs
+choutes	chou	fp
+mignonnet	mignonnet	
+mignonnette	mignonnet	fs
+mignonnettes	mignonnet	fp
+arabisant	arabisant	__HIDDEN_LEMMA__
+arabisante	arabisant	fs
+arabisants	arabisant	mp
+chafouin	chafouin	__HIDDEN_LEMMA__
+chafouine	chafouin	fs
+chafouins	chafouin	mp
+bardousien	bardousien	__HIDDEN_LEMMA__
+bardousienne	bardousien	fs
+bardousiennes	bardousien	fp
+bardousiens	bardousien	mp
+jovien	jovien	__HIDDEN_LEMMA__
+jovienne	jovien	fs
+joviennes	jovien	fp
+joviens	jovien	mp
+bussinier	bussinier	__HIDDEN_LEMMA__
+bussinière	bussinier	fs
+vanautier	vanautier	__HIDDEN_LEMMA__
+vanautière	vanautier	fs
+dissimulateur	dissimulateur	
+dissimulatrice	dissimulateur	fs
+dissimulatrices	dissimulateur	fp
+semiconducteur	semiconducteur	
+semiconductrice	semiconducteur	fs
+semiconductrices	semiconducteur	fp
+monoparental	monoparental	
+monoparentales	monoparental	fp
+monoparentaux	monoparental	mp
+moral	moral	
+morales	moral	fp
+moraux	moral	mp
+nivéal	nivéal	__HIDDEN_LEMMA__
+nivéale	nivéal	fs
+nivéales	nivéal	fp
+nivéaux	nivéal	mp
+submarginal	submarginal	__HIDDEN_LEMMA__
+submarginale	submarginal	fs
+submarginales	submarginal	fp
+submarginaux	submarginal	mp
+demi-bourgeois	demi-bourgeois	
+demi-bourgeoise	demi-bourgeois	f
+demi-bourgeoises	demi-bourgeois	fp
+gélosé	gélosé	
+gélosée	gélosé	fs
+gélosées	gélosé	fp
+gélosés	gélosé	p
+factoriel	factoriel	
+factorielle	factoriel	fs
+factorielles	factoriel	fp
+prémenstruel	prémenstruel	
+prémenstruelle	prémenstruel	fs
+prémenstruels	prémenstruel	mp
+circassien	circassien	
+circassienne	circassien	f
+érasmien	érasmien	
+érasmienne	érasmien	fs
+érasmiens	érasmien	mp
+évryen	évryen	
+évryennes	évryen	fp
+évryens	évryen	mp
+vaccinifère	vaccinifère	
+vaccinifères	vaccinifère	mp
+vaccinifères	vaccinifère	p
+voyou	voyou	
+voyous	voyou	mp
+voyoute	voyou	fs
+voyoutes	voyou	fp
+maître	maître	
+maîtresses	maître	fp
+marmot	marmot	
+marmottes	marmot	fp
+néyau	néyau	
+néyaux	néyau	p
+rubané	rubané	__HIDDEN_LEMMA__
+rubanée	rubané	f
+rubanées	rubané	f
+rubanés	rubané	mp
+nippon	nippon	__HIDDEN_LEMMA__
+nippone	nippon	fs
+nippones	nippon	fp
+nipponne	nippon	fs
+nipponnes	nippon	fp
+nippons	nippon	mp
+hexavalent	hexavalent	__HIDDEN_LEMMA__
+hexavalente	hexavalent	mp
+hexavalentes	hexavalent	fp
+hexavalents	hexavalent	mp
+communicationnel	communicationnel	__HIDDEN_LEMMA__
+communicationnelle	communicationnel	fs
+montécaldien	montécaldien	__HIDDEN_LEMMA__
+montécaldienne	montécaldien	fs
+montécaldiennes	montécaldien	fp
+sous-financé	sous-financé	__HIDDEN_LEMMA__
+sous-financés	sous-financé	
+concentré#-fr-adj|concentré	concentré#-fr-adj|concentré	__HIDDEN_LEMMA__
+concentrés	concentré#-fr-adj|concentré	mp
+burlesque#Adjectif|burlesque	burlesque#Adjectif|burlesque	__HIDDEN_LEMMA__
+burlesques	burlesque#Adjectif|burlesque	p
+grotesque#Adjectif|grotesque	grotesque#Adjectif|grotesque	__HIDDEN_LEMMA__
+grotesques	grotesque#Adjectif|grotesque	p
+muet#Adjectif|muet	muet#Adjectif|muet	__HIDDEN_LEMMA__
+muets	muet#Adjectif|muet	mp
+muette	muet#Adjectif|muet	fs
+muettes	muet#Adjectif|muet	fp
+nivernais#Adjectif|nivernais	nivernais#Adjectif|nivernais	__HIDDEN_LEMMA__
+nivernaises	nivernais#Adjectif|nivernais	fp
+laitier#adj|laitier	laitier#adj|laitier	__HIDDEN_LEMMA__
+laitiers	laitier#adj|laitier	mp
+janséniste#f-adj|janséniste	janséniste#f-adj|janséniste	__HIDDEN_LEMMA__
+jansénistes	janséniste#f-adj|janséniste	p
+feu#fr-adj-2|feu	feu#fr-adj-2|feu	__HIDDEN_LEMMA__
+feus	feu#fr-adj-2|feu	mp
+pie#fr-adj-2|pie	pie#fr-adj-2|pie	__HIDDEN_LEMMA__
+pies	pie#fr-adj-2|pie	fp
+pomme#fr-adj-2|pomme	pomme#fr-adj-2|pomme	__HIDDEN_LEMMA__
+pommes	pomme#fr-adj-2|pomme	fp
+naine#fr-nom|naine	naine#fr-nom|naine	__HIDDEN_LEMMA__
+naines	naine#fr-nom|naine	fp
+parasympathomimétique#fr-nom|parasympathomimétique	parasympathomimétique#fr-nom|parasympathomimétique	__HIDDEN_LEMMA__
+parasympathomimétiques	parasympathomimétique#fr-nom|parasympathomimétique	p
+propitiatoire#fr-nom|propitiatoire	propitiatoire#fr-nom|propitiatoire	__HIDDEN_LEMMA__
+propitiatoires	propitiatoire#fr-nom|propitiatoire	mp
+unaire#fr-nom|unaire	unaire#fr-nom|unaire	__HIDDEN_LEMMA__
+unaires	unaire#fr-nom|unaire	p
+femme-enfant	femme-enfant	
+femmes-enfants	femme-enfant	fp
+dissylabe	dissylabe	__HIDDEN_LEMMA__
+dissyllabes	dissylabe	p
+manceau	manceau	
+manceaux	manceau	mp
+mancelle	manceau	fs
+mancelles	manceau	fp
+théier	théier	
+théières	théier	fp
+réétirer	réétirer	__HIDDEN_LEMMA__
+réétirée	réétirer	
+autoprotéger	autoprotéger	__HIDDEN_LEMMA__
+autoprotégés	autoprotéger	mp
+complet	complet	
+complète	complet	fs
+complètes	complet	fp
+supraconducteur	supraconducteur	
+supraconducteurs	supraconducteur	mp
+supraconductrice	supraconducteur	fs
+vociférateur	vociférateur	
+vociférateurs	vociférateur	p
+vocifératrice	vociférateur	f
+vocifératrices	vociférateur	fp
+constructeur	constructeur	
+constructeurs	constructeur	p
+constructrice	constructeur	fs
+constructrices	constructeur	fp
+fascinateur	fascinateur	
+fascinatrice	fascinateur	f
+bissecteur	bissecteur	
+bissectrice	bissecteur	fs
+bissectrices	bissecteur	fs
+attractif	attractif	
+attractifs	attractif	mp
+attractives	attractif	fp
+prépositif	prépositif	
+prépositive	prépositif	f
+performatif	performatif	
+performatives	performatif	fp
+infinitif	infinitif	__HIDDEN_LEMMA__
+infinitifs	infinitif	mp
+infinitive	infinitif	
+infinitives	infinitif	
+préemptif	préemptif	__HIDDEN_LEMMA__
+préemptifs	préemptif	mp
+préemptive	préemptif	fs
+préemptives	préemptif	fp
+introspectif	introspectif	__HIDDEN_LEMMA__
+introspective	introspectif	fs
+introspectives	introspectif	fp
+substantif#Adjectif|substantif	substantif#Adjectif|substantif	__HIDDEN_LEMMA__
+substantive	substantif#Adjectif|substantif	fs
+substantives	substantif#Adjectif|substantif	fp
+idéal	idéal	
+idéale	idéal	fs
+idéales	idéal	fp
+idéals	idéal	mp
+idéaux	idéal	mp
+dissylabiques	dissyllabique	p
+dissyllabique	dissyllabique	
+dissyllabiques	dissyllabique	p
+post-prandiale	postprandial	fs
+postprandial	postprandial	
+postprandiale	postprandial	fs
+postprandiales	postprandial	fp
+postprandiaux	postprandial	mp
+truqueur	truqueur	
+truqueurs	truqueur	m
+truqueuse	truqueur	fs
+fléchisseur	fléchisseur	
+fléchisseurs	fléchisseur	mp
+fléchisseuse	fléchisseur	f
+fléchisseuses	fléchisseur	fp
+démolisseur	démolisseur	
+démolisseurs	démolisseur	mp
+démolisseuse	démolisseur	fs
+démerdeur	démerdeur	
+démerdeurs	démerdeur	p
+démerdeuse	démerdeur	f
+démerdeuses	démerdeur	fp
+voleur	voleur	
+voleuse	voleur	fs
+circonvoisine	circonvoisiner	
+circonvoisiner	circonvoisiner	__HIDDEN_LEMMA__
+tresseur	tresseur	__HIDDEN_LEMMA__
+tresseuse	tresseur	f
+folles	fou	fp
+fou	fou	
+capsuleuse	capsuleux	fs
+capsuleux	capsuleux	__HIDDEN_LEMMA__
+venimeuse	venimeux	fs
+venimeuses	venimeux	fp
+venimeux	venimeux	__HIDDEN_LEMMA__
+tories	tory	p
+tory	tory	
+apache de l’Ouest	apache de l’Ouest	
+apaches de l’Ouest	apache de l’Ouest	p
+ araméen	araméen	
+araméen	araméen	__HIDDEN_LEMMA__
+araméenne	araméen	fs
+araméennes	araméen	fp
+araméens	araméen	mp
+dé à jouer	dé à jouer	__HIDDEN_LEMMA__
+dés à jouer	dé à jouer	mp
+ géostationnaire	géostationnaire	
+géostationnaire	géostationnaire	__HIDDEN_LEMMA__
+ inapproprié	inapproprié	
+inapproprié	inapproprié	__HIDDEN_LEMMA__
+miwok de la côte	miwok de la côte	
+miwoks de la côte	miwok de la côte	p
+miwok du lac	miwok du lac	
+miwoks du lac	miwok du lac	p
+pomme de terre en robe de chambre	pomme de terre en robe de chambre	__HIDDEN_LEMMA__
+pommes de terre en robe de chambre	pomme de terre en robe de chambre	fp

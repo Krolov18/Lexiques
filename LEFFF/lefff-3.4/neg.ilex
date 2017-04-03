@@ -1,0 +1,16 @@
+point	inv	100;Lemma;advneg;;neg=+;%default
+jamais plus	inv	100;Lemma;advneg;;neg=+;%default
+guère	inv	100;Lemma;advneg;;neg=+;%default
+pas	inv	100;Lemma;advneg;;neg=+;%default
+plus	inv	100;Lemma;advneg;;neg=+;%default
+nullement	inv	100;Lemma;advneg;;neg=+;%default
+jamais	inv	100;Lemma;advneg;;neg=+;%default
+prou	inv	100;Lemma;advneg;;neg=+;%default
+plus jamais	inv	100;Lemma;advneg;;neg=+;%default
+ne	inv-e	100;0;clneg;;clneg=+;%default
+vraiment pas	inv	100;Lemma;advneg;;neg=+;%default
+pas encore	inv	100;Lemma;advneg;;neg=+;%default
+toujours pas	inv	100;Lemma;advneg;;neg=+;%default
+pas du tout	inv	100;Lemma;advneg;;neg=+;%default	#tagger-based acquisition (Molinero), manually selected (BS)
+
+que	inv	100;Lemma;que_restr;;neg=+;%default

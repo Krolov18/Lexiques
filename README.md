@@ -1,1 +1,1 @@
-# Lexiques
+# RESSOURCES_LEXICALES

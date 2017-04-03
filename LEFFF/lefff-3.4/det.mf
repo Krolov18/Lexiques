@@ -1,0 +1,72 @@
+les__det	le	p
+le__det	le	ms
+ladite	ledit	fs
+ledit	ledit	ms
+lesdites	ledit	fp
+lesdits	ledit	mp
+du	du	ms
+de la	du	fs
+de l'	du	s
+un	un	ms
+une	un	fs
+de	un	p
+d'	un	p
+des	un	p
+ma	son	fs_P1s
+mon	son	s_P1s
+ta	son	fs_P2s
+ton	son	s_P2s
+sa	son	fs_P3s
+son	son	s_P3s
+mes	son	p_P1s
+tes	son	p_P2s
+ses	son	p_P3s
+notre	son	s_P1p
+nos	son	p_P1p
+votre	son	s_P2p
+vot'	son	s_P2p
+vos	son	p_P2p
+leur	son	s_P3p
+leurs	son	p_P3p
+plusieurs	plusieurs	p
+chaque	chaque	s
+aucun	aucun	ms
+aucune	aucun	fs
+c't'	ce	
+ct'	ce	
+tel et tel	tel et tel	ms
+telle et telle	tel et tel	fs
+tels et tels	tel et tel	mp
+telles et telles	tel et tel	fp
+tel ou tel	tel ou tel	ms
+telle ou telle	tel ou tel	fs
+tels ou tels	tel ou tel	mp
+telles ou telles	tel ou tel	fp
+un tel	un tel	ms
+une telle	un tel	fs
+de tels	un tel	mp
+de telles	un tel	fp
+des tels	un tel	mp
+des telles	un tel	fp
+# entre autre	entre autres	
+bcp de	beaucoup de	
+qq	quelque	
+qqs	quelque	p
+qqes	quelque	p
+
+cet	ce	ms
+
+le	le	ms
+la	le	fs
+l'	le	s
+les	le	p
+
+quelque	quelque	s
+quelqu'	quelque	s
+quelques	quelque	p
+
+tout	tout	ms
+toute	tout	fs
+tous	tout	mp
+toutes	tout	fp
+

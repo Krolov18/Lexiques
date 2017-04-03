@@ -1,0 +1,534 @@
+# table C_c1rpn
+# POSTVERB = C1 pN2
+accorder foi	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+aller plus avant	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+aller trop avant	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+y {aller} franc jeu	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;@pseudo-y,synt_head=$0;%default
+aller loin	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+aller plus loin	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+n' {aller} loin	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;clneg =c +,synt_head=$0;%default
+en {apprendre} de belles	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default	0+	passivable
+n' en {apprendre} bézef	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+en {apprendre} un bout	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+en {apprendre} de drôles	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:(sur-sn)>;@pseudo-en,synt_head=$0;%default	0+	passivable
+n' en {apprendre} gras	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+en {apprendre} long	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+n' en {apprendre} lourd	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+en {apprendre} un rayon	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+n' {arracher} pas une larme	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+la {bailler} belle	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+baisser pavillon	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+battre froid	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+en {boucher} un coin	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default
+en {boucher} une surface	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default
+casser quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+causer affaire	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+causer boutique	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+causer chiffons	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+ne {céder} pas un pouce de terrain	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+ne {changer} un iota	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+ne {changer} une virgule	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+chanter quoi ?	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+chercher abri	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+chercher asile	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+chercher chicane	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+chercher fortune	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+chercher malice	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+chercher noise	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+chercher querelle	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+chercher refuge	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+compter beaucoup	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+compter énormément	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+ne {compter} guère	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;clneg =c +,synt_head=$0;%default
+compter peu	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+en {connaître} un bout	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+en {connaître} un rayon	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+conserver un chien de sa chienne	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+se constituer partie civile	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;@pron,@être,synt_head=$0;%default
+en {conter} de belles	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default	0+	passivable
+conter fleurette	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+courir sus	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+coûter chaud	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+coûter cher	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+coûter tant	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+crier casse-cou	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+crier haro	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+décliner toute responsabilité	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+demander abri	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander aide	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander asile	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander assistance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander audience	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander confirmation	0+	100;Lemma;cf;<Suj:cln|sn,Obl:de_la_part_de-sn>;synt_head=$0;%default
+demander conseil	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander considération	0+	100;Lemma;cf;<Suj:cln|sn,Obl:de_la_part_de-sn>;synt_head=$0;%default
+demander justice	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander merci	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander réflexion	0+	100;Lemma;cf;<Suj:cln|sn,Obl:de_la_part_de-sn>;synt_head=$0;%default
+demander refuge	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+demander secours	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+en {demander} trop	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default	0+	passivable
+ne {demander} pas si sa grand mère fait du vélo	0+0+inv+inv+det-sa+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+n' en {demander} pas plus	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+n' en {demander} pas tant	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+n' en {demander} pas trop	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+demeurer court	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+demeurer couvert	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+demeurer sec	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+devoir une fière chandelle	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+devoir un chien de sa chienne	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire adieu	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire adieu	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire bonjour	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire bonsoir	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {dire} un traître mot d'anglais	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+ne {dire} un traître mot de N-hum	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+dire deux mots	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire que non	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire des nouvelles de N	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire bonne nuit	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire que oui	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {dire} rien de bien bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {dire} rien de bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {dire} rien de très bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {dire} rien qui vaille	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+dire que si	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire bonne soirée	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire tout	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire tu	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire ce que Il-0 veut	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+dire vous	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+dire vrai	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {dire} pas grand chose de bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {dire} pas grand chose qui vaille	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+donner abri	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner quel âge ?	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner Dnum an	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner asile	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner audience	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {donner} bézef	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;clneg =c +,synt_head=$0;%default
+ne {donner} cher	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;clneg =c +,synt_head=$0;%default
+donner congé	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner corps	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner courage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner cours	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner Dnum jour	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner lieu	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {donner} lourd	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;clneg =c +,synt_head=$0;%default
+donner matière	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner Dnum mois	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner du Monsieur le Comte	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner naissance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner passage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner du plat de la langue	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner protection	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner quitus	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner raison	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner refuge	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner satisfaction	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner Dnum semaine	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner signe de vie	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {donner} signe de vie	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+donner suite	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner sujet	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner tort	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner vie	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+donner de la voix	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;synt_head=$0;%default
+élire domicile	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+en {entendre} une bien bonne	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+espérer beaucoup	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+n' {espérer} rien	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;clneg =c +,synt_head=$0;%default
+établir domicile	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+en {être} où ?	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn>;@pseudo-en,synt_head=$0;%default
+en {être} quelque part ?	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn>;@pseudo-en,synt_head=$0;%default
+exiger lecture du texte	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+fabriquer quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire bon accueil	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire mauvais accueil	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire acte d'allégeance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire affaire	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire affront	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire allégeance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire alliance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire amende honorable	0+	100;Lemma;cf;<Suj:cln|sn,Obl:auprès_de-sn>;synt_head=$0;%default
+faire appel	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire assaut de amabilité	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire assaut de politesse	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire autorité	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire barrage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire bloc	0+	100;Lemma;cf;<Suj:cln|sn,Obl:autour_de-sn>;synt_head=$0;%default
+faire bobo	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire faux bond	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire grand bruit	0+	100;Lemma;cf;<Suj:cln|sn,Obl:autour_de-sn>;synt_head=$0;%default
+faire ça	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire ça	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+ne {faire} de cadeau	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+faire camarade	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire campagne	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;synt_head=$0;%default
+faire campagne	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+faire carrière	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire chorus	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire chut	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire classe	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire commerce	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire concurrence	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire connaissance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire plus ample connaissance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire bonne contenance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+faire corps	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire coucou	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire crédit	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire une croix	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+ne {faire} de difficulté	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {faire} de doute	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;clneg =c +,synt_head=$0;%default
+faire droit	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire drôle	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire échec	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire bon effet	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire excellent effet	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire mauvais effet	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire piètre effet	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire équipe	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire escale	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire étalage	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire exception	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire face	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire face	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire faute	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire fête	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire feu	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire force de rames	0+	100;Lemma;cf;<Suj:cln|sn,Obl:vers-sn>;synt_head=$0;%default
+faire force de vapeur	0+	100;Lemma;cf;<Suj:cln|sn,Obl:vers-sn>;synt_head=$0;%default
+faire force de voiles	0+	100;Lemma;cf;<Suj:cln|sn,Obl:vers-sn>;synt_head=$0;%default
+faire fortune	0+	100;Lemma;cf;<Suj:cln|sn,Obl:auprès_de-sn>;synt_head=$0;%default
+faire foule	0+	100;Lemma;cf;<Suj:cln|sn,Obl:autour_de-sn>;synt_head=$0;%default
+faire des frais	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+faire front	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;synt_head=$0;%default
+faire bonne garde	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire du genou	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire grâce	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire grrr	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire hé	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire hep	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire ho	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire honneur	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire beaucoup de honneur	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire trop de honneur	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire honte	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire impression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire bonne impression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire grosse impression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire grande impression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire excellente impression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire mauvaise impression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire piètre impression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire injure	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire insulte	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire intrusion	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire invasion	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire irruption	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire une belle jambe	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire jeu égal	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire joujou	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire levier	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire main basse	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire mal	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire marche	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire bon ménage	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire excellent ménage	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire mauvais ménage	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire merveille	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire bonne mesure	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire bonne mine	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire mauvaise mine	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire mumuse	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+faire de l'oeil	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire ohé	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire ouhouh	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire outrage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire pan	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+se faire petit	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;@pron,@être,synt_head=$0;%default
+faire pièce	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire du pied	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire pitié	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire place	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire plaisir	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire du plat de la langue	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire pression	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire problème	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {faire} de problème	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;clneg =c +,synt_head=$0;%default
+faire psitt	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire pstt	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {faire} de quartier	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+faire quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+faire quelque chose ?	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire quelque chose ?	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire toutes réserves	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire retour	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire retraite	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire risette	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire route	0+	100;Lemma;cf;<Suj:cln|sn,Obl:vers-sn>;synt_head=$0;%default
+faire un saut	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire signe	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire silence	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+faire souche	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire suite	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire tache	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire tête	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire tort	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+faire bon usage	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire excellent usage	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire mauvais usage	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire piètre usage	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire ce que Il-0 veut	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire du vilain	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+faire violence	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {faire} pas peur	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {faire} que une bouchée	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;clneg =c +,synt_head=$0;%default
+ne {faire} que un	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;clneg =c +,synt_head=$0;%default
+fausser compagnie	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ferait quoi ?	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sans-sn>;synt_head=$0;%default
+en {fiche} un coup	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default
+fiche quelque chose ?	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+fixer domicile	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+fixer rendez-vous	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+en {flanquer} un coup	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default
+en {foutre} un coup	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default
+foutre quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+frapper un coup	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+gagner ce que N perdre	0+	100;Lemma;cf;<Suj:cln|sn,Obl:en-sn>;synt_head=$0;%default
+garder un chien de sa chienne	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+imposer silence	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+inspirer confiance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+interjeter appel	0+	100;Lemma;cf;<Suj:cln|sn,Obl:auprès_de-sn>;synt_head=$0;%default
+jouer double jeu	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+jouer franc jeu	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+jouer gros jeu	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+jouer serré	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+jurer amitié	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+jurer fidélité	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+jurer obéissance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+lier amitié	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+lier connaissance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+lier conversation	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+lier partie	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+livrer passage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+mener grand bruit	0+	100;Lemma;cf;<Suj:cln|sn,Obl:autour_de-sn>;synt_head=$0;%default
+mener campagne	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;synt_head=$0;%default
+mener campagne	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+mener grand tapage	0+	100;Lemma;cf;<Suj:cln|sn,Obl:autour_de-sn>;synt_head=$0;%default
+mener grand train	0+	100;Lemma;cf;<Suj:cln|sn,Obl:autour_de-sn>;synt_head=$0;%default
+mériter beaucoup	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mériter confirmation	0+	100;Lemma;cf;<Suj:cln|sn,Obl:de_la_part_de-sn>;synt_head=$0;%default
+se mettre bien	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;@pron,@être,synt_head=$0;%default
+mettre pleins feux	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+se mettre mal	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;@pron,@être,synt_head=$0;%default
+mettre du sel	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+miser gros	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+ne {modifier} une virgule	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+montrer de quel bois Il-0 se chauffe	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+montrer patte blanche	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+nécessiter confirmation	0+	100;Lemma;cf;<Suj:cln|sn,Obl:de_la_part_de-sn>;synt_head=$0;%default
+nouer connaissance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+obtenir compensation	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+obtenir justice	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+obtenir réparation	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+obtenir satisfaction	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+s' {opposer} diamétralement	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ouvrir boutique	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+ouvrir boutique	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+parler affaire	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+parler boutique	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+parler chiffons	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+passer commande de N-hum	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+passer maître	0+	100;Lemma;cf;<Suj:cln|sn,Obl:dans-sn>;synt_head=$0;%default
+passer tout	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+payer tribut	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+perdre confiance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:en-sn>;synt_head=$0;%default
+perdre contenance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+perdre ce que N gagner	0+	100;Lemma;cf;<Suj:cln|sn,Obl:en-sn>;synt_head=$0;%default
+perdre patience	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+perdre pied	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+ne {peser} lourd	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;clneg =c +,synt_head=$0;%default
+pleurer misère	0+	100;Lemma;cf;<Suj:cln|sn,Obl:auprès_de-sn>;synt_head=$0;%default
+se porter acheteur	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;@pron,@être,synt_head=$0;%default
+se porter acquéreur	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;@pron,@être,synt_head=$0;%default
+porter assistance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter atteinte	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter bonheur	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+se porter candidat	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pron,@être,synt_head=$0;%default
+se porter caution	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;@pron,@être,synt_head=$0;%default
+porter chance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter confiance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter dommage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter intérêt	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter malheur	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter ombrage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+se porter partie civile	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;@pron,@être,synt_head=$0;%default
+porter plainte	0+	100;Lemma;cf;<Suj:cln|sn,Obl:(contre-sn)>;synt_head=$0;%default	#lexfix3
+porter préjudice	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter rancune	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter remède	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+porter secours	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+poser problème	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+pouvoir beaucoup	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+pouvoir quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+pouvoir quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;synt_head=$0;%default
+pouvoir quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+pouvoir quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+#s' y {prendre} Advm	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre appui	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+prendre asile	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre assise	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+prendre avis	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+prendre congé	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+prendre contact	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre date	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre domicile	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre effet	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+prendre exemple	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+prendre feu	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+prendre jour	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre langue	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre livraison	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+s'y {prendre} mal	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre modèle	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+prendre naissance	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre part	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+prendre parti	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+prendre pension	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre pied	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre place	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre place	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre position	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre position	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+prendre possession	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+prendre quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre racine	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre rang	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+prendre rendez-vous	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+prendre souche	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+ne {présager} rien de bien bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {présager} rien de bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {présager} rien de très bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {présager} rien qui vaille	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {présager} pas grand chose de bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+prêter assistance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+prêter main forte	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+prêter serment de N-hum	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+promettre un chien de sa chienne	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+promettre merveille de N	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {promettre} rien de bien bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {promettre} rien de bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {promettre} rien de très bon	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+en {raconter} une bien bonne	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default
+recevoir livraison	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+recevoir notification	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+recevoir satisfaction	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+réclamer justice	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+réclamer justice	0+	100;Lemma;cf;<Suj:cln|sn,Obl:de_la_part_de-sn>;synt_head=$0;%default
+redonner courage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+redonner vie	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+refuser obéissance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {refuser} rien	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default	0+	passivable
+ne {rencontrer} pas âme qui vive	0+0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;clneg =c +,synt_head=$0;%default
+ne {rencontrer} pas un chat	0+0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;clneg =c +,synt_head=$0;%default
+le {rendre} bien	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre confiance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre copie blanche	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+rendre espoir	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre feuille blanche	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+rendre gloire	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre hommage	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre justice	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre service	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre vie	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rendre visite	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+renouveler connaissance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+rentrer dedans	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+répondre affirmativement	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+répondre mal	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+répondre négativement	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+répondre non	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+répondre oui	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+reprendre confiance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:en-sn>;synt_head=$0;%default
+réserver un chien de sa chienne	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+rester court	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+rester couvert	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+rester sec	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+revaloir ça	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+revenir cher	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+en {savoir} beaucoup	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+en {savoir} de belles	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+n' en {savoir} bézef	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+en {savoir} un bout	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+en {savoir} de drôles	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+n' en {savoir} gras	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+n' en {savoir} lerche	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+en {savoir} long	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+n' en {savoir} lourd	0+0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,clneg =c +,synt_head=$0;%default
+en {savoir} un rayon	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+ne {savoir} rien	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;clneg =c +,synt_head=$0;%default
+savoir tout	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+en {savoir} trop	0+0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;@pseudo-en,synt_head=$0;%default
+signifier beaucoup	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+signifier peu	0+	100;Lemma;cf;<Suj:cln|sn,Obl:pour-sn>;synt_head=$0;%default
+en {sortir} une bien bonne	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default	0+	passivable
+en {sortir} de drôles	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;@pseudo-en,synt_head=$0;%default	0+	passivable
+sortir grandi	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+souhaiter bonne chance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+souhaiter bien des choses	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+souhaiter du plaisir	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+souhaiter bien du plaisir	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenir bon	0+	100;Lemma;cf;<Suj:cln|sn,Obl:contre-sn>;synt_head=$0;%default
+tenir boutique	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+tenir chaud	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenir compagnie	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenir conseil	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+tenir école	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+tenir frais	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenir froid	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenir garnison	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+tenir parole	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenir promesse	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenir registre	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+tenir tête	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+tenter fortune	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+tirer quelque chose	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+tirer vengeance	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+tomber bien	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+tomber faible	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+tomber mal	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+trouver abri	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver appui	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver asile	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver assistance	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+ne {trouver} un chat	0+0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;clneg =c +,synt_head=$0;%default
+se trouver court	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;@pron,@être,synt_head=$0;%default
+trouver créance	0+	100;Lemma;cf;<Suj:cln|sn,Obl:auprès_de-sn>;synt_head=$0;%default
+trouver écho	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver faveur	0+	100;Lemma;cf;<Suj:cln|sn,Obl:auprès_de-sn>;synt_head=$0;%default
+trouver fortune	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver grâce	0+	100;Lemma;cf;<Suj:cln|sn,Obl:devant-sn>;synt_head=$0;%default
+trouver malice	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver naissance	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver place	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+trouver prise	0+	100;Lemma;cf;<Suj:cln|sn,Obl:sur-sn>;synt_head=$0;%default
+trouver refuge	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+ne {trouver} pas âme qui vive	0+0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;clneg =c +,synt_head=$0;%default
+ne {valoir} rien	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+ne {valoir} pas grand chose	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+venir tout seul	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+vivre maritalement	0+	100;Lemma;cf;<Suj:cln|sn,Obl:avec-sn>;synt_head=$0;%default
+voir clair	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+voir malice	0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;synt_head=$0;%default
+voir tout	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+ne {voir} pas âme qui vive	0+0+	100;Lemma;cf;<Suj:cln|sn,Loc:loc-sn|y>;clneg =c +,synt_head=$0;%default
+vouer obéissance	0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;synt_head=$0;%default
+
+ne {valoir} pas tripette	0+0+	100;Lemma;cf;<Suj:cln|sn,Objà:à-sn>;clneg =c +,synt_head=$0;%default
+
+se {laver} les mains	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;@pron,@être,synt_head=$0;%default

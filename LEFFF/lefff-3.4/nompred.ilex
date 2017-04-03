@@ -1,0 +1,317 @@
+### noms prédicatifs: ajoutés manuellement à l'aide des occurrences du patron VN
+### dans le monde diplo taggé (168 Mmots) 
+
+# noms prédicatifs avoir (occ>=50)
+cure	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+coutume	inv	100;Lemma;cfi;<Suj:cln|sn,Objde:de-sinf>;lightverb=avoir;%default
+possibilité	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+mission	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+hâte	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+dessein	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+occasion	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+
+
+faim	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+froid	inv	100;Lemma;cfi;<Suj:cln|sn>;lightverb=avoir|prendre;%default
+chaud	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+consensus	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+pignon sur rue	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+voix au chapitre	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+
+prise	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:sur-sn>;lightverb=avoir;%default
+préséance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:sur-sn>;lightverb=avoir;%default
+
+idée	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=avoir;%default
+besoin	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=avoir;%default
+soif	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=avoir;%default
+
+valeur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=avoir;%default
+vent	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=avoir;%default
+
+recours	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+égard	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+trait	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+réponse	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+
+avantage	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sinf|à-sn>;lightverb=avoir;%default
+intérêt	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sinf|à-sn>;lightverb=avoir;%default
+vocation	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sinf|à-sn>;lightverb=avoir;%default
+tendance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sinf|à-sn>;lightverb=avoir;%default
+
+maille à partir	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:avec-sn>;lightverb=avoir;%default
+
+marre	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:(de-sn|de-scompl|de-sinf)>en;@CtrlSujObjde,lightverb=avoir;%default
+
+# noms prédicatifs avoir / prendre (occ>=50/30)
+conscience	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=prendre;%default
+conscience	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf|de-sn|en|de-scompl>;lightverb=avoir;%default
+soin	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=prendre;%default
+soin	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+espoir	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:en-sn>;lightverb=prendre;%default
+espoir	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obj:scompl>;lightverb=avoir;%default
+confiance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+confiance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+confiance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:en-sn>;lightverb=prendre|avoir;%default
+
+# noms prédicatifs prendre (occ>=50)
+
+garde	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:(scompl|à-scompl|à-sinf|à-sn)>;lightverb=prendre;%default
+goût	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:scompl|à-scompl|à-sinf|à-sn>;lightverb=prendre;%default
+
+fin	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+position	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:(sur-sn),Obl2:(pour-sn|contre-sn)>;lightverb=prendre;%default
+forme	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+pied	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+haleine	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+patience	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+racine	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+courage	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+conseil	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+vie	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+fait et cause	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:pour-sn|contre-sn>;lightverb=prendre;%default
+parti	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+contact	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+
+congé	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|de-sinf|en>;lightverb=prendre;%default	#lexfix3
+
+connaissance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:avec-sn>;lightverb=faire;%default
+connaissance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+connaissance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=prendre;%default
+
+possession	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=prendre;%default
+note	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=prendre;%default
+livraison	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=prendre;%default
+
+appui	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Loc:sur-sn|y>;lightverb=prendre;%default
+exemple	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Loc:sur-sn|y>;lightverb=prendre;%default
+
+# noms prédicatifs prendre / faire
+
+jour	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre|faire;%default
+date	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre|faire;%default
+feu	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre|faire;%default
+
+part	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+part	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:scompl|à-scompl|à-sinf|à-sn>;lightverb=prendre;%default
+part	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+
+plaisir	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:scompl|à-scompl|à-sinf|à-sn>;lightverb=prendre;%default
+plaisir	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+plaisir	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sinf|à-sn>;lightverb=avoir;%default
+
+acte	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+acte	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=prendre;%default
+
+place	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+place	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+
+# noms prédicatifs avoir / faire
+
+pitié	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=prendre;%default
+pitié	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+
+tort	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+tort	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:(de-sinf)>;lightverb=avoir;%default	#Objde facultatif: lexfix4_frmg
+tort	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+autorité	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:sur-sn>;lightverb=avoir;%default
+autorité	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+
+honte	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=avoir;%default
+honte	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+horreur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=avoir;%default
+horreur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+
+affaire	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+affaire	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+
+peine	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+peine	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sinf|à-sn>;lightverb=avoir;%default
+
+rapport	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+rapport	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:avec-sn>;lightverb=avoir;%default
+
+foi	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:dans-sn|en-sn>;lightverb=avoir;%default
+foi	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+
+# noms prédicatifs avoir / faire / prendre
+
+peur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=avoir;%default
+peur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+peur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+
+envie	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-scompl|de-sinf|de-sn|en|scompl>;lightverb=avoir;%default
+envie	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+envie	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+envie	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=donner;%default
+
+
+# noms prédicatifs faire (occ>=40)
+
+partie	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+mention	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+état	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+preuve	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+abstraction	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+figure	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+mine	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+oeuvre	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+montre	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+don	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+mystère	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+profession	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+voeu	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+cas	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+gloire	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+étalage	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+
+office	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+
+semblant	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf|de-sn|en>;lightverb=faire;%default
+choix	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf|de-sn|en>;lightverb=faire;%default
+serment	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf|de-sn|en>;lightverb=faire;%default
+
+boule de neige	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+carrière	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+faillite	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+campagne	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+fortune	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+rage	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+volte-face	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+erreur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+illusion	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+grève	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+front	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+route	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+surface	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+naufrage	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+merveille	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+irruption	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+halte	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+problème	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+silence	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+école	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+recette	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+banqueroute	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+voile	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+loi	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+scandale	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+fureur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+diversion	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+bloc	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+sensation	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+sécession	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+enquête	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=faire;%default
+
+défaut	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld>;lightverb=faire;%default
+exception	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|y>;lightverb=faire;%default
+crédit	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld>;lightverb=faire;%default
+face	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld|y>;lightverb=faire;%default
+appel	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|y>;lightverb=faire;%default
+concurrence	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld>;lightverb=faire;%default
+obstacle	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld|y>;lightverb=faire;%default
+honneur	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld|y>;lightverb=faire;%default
+référence	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|y>;lightverb=faire;%default
+échec	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld|y>;lightverb=faire;%default
+écho	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld|y>;lightverb=faire;%default
+obstruction	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld|y>;lightverb=faire;%default
+allusion	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|y>;lightverb=faire;%default
+violence	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn|cld>;lightverb=faire;%default
+
+attention	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:scompl|à-scompl|à-sinf|à-sn>;lightverb=faire;%default
+
+grâce	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en,Objà:à-sn|cld>;lightverb=faire;%default
+cadeau	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en,Objà:à-sn|cld>;lightverb=faire;%default
+
+alliance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:avec-sn>;lightverb=faire;%default
+
+table rase	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:en|de-sn>;lightverb=faire;%default
+
+# noms prédicatifs donner
+
+asile	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+justice	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+instruction	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf,Objà:à-sn>;lightverb=donner;%default
+carte blanche	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+satisfaction	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+droit	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en,Objà:à-sn>;lightverb=faire;%default
+droit	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+droit	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf,Objà:à-sn>;lightverb=donner;%default
+
+suite	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+suite	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+signe	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=donner;%default
+signe	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=faire;%default
+
+raison	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+raison	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+priorité	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:sur-sn>;lightverb=avoir;%default
+priorité	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+ordre	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf,Objà:à-sn>;lightverb=donner;%default
+ordre	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sinf>;lightverb=avoir;%default
+
+naissance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+naissance	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+effet	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+effet	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+matière	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sinf|à-sn>;lightverb=avoir;%default
+matière	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+lieu	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+lieu	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+lecture	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en,Objà:à-sn>;lightverb=donner;%default
+lecture	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=faire;%default
+
+gain de cause	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+gain de cause	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+cours	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=avoir;%default
+cours	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+corps	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn>;lightverb=prendre;%default
+corps	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Obl:avec-sn>;lightverb=faire;%default
+corps	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+congé	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=prendre;%default
+congé	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+accès	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=avoir;%default
+accès	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objà:à-sn>;lightverb=donner;%default
+
+en compte	inv	100;Lemma;cf;<Suj:cln|scompl|sinf|sn,Obj:cla|sn|scompl>;lightverb=prendre;%default
+au sérieux	inv	100;Lemma;cf;<Suj:cln|scompl|sinf|sn,Obj:cla|sn|scompl>;lightverb=prendre;%default
+en main	inv	100;Lemma;cf;<Suj:cln|scompl|sinf|sn,Obj:cla|sn>;lightverb=prendre;%default	#lexfix3
+
+compte	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en|de-scompl>;lightverb=tenir;%default
+lieu	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|en>;lightverb=tenir;%default	#lexfix2
+
+à bras le corps	inv	100;Lemma;cf;<Suj:cln|sn,Obj:cla|sn>;lightverb=prendre;%default
+
+# noms prédicatifs tirer
+
+profit	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|de-scompl|de-sinf|en>;@CtrlSujObjde,lightverb=tirer;%default
+parti	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|de-scompl|de-sinf|en>;@CtrlSujObjde,lightverb=tirer;%default
+avantage	inv	100;Lemma;cfi;<Suj:cln|scompl|sinf|sn,Objde:de-sn|de-scompl|de-sinf|en>;@CtrlSujObjde,lightverb=tirer;%default
+
+# noms prédicatifs se_rendre
+
+compte	inv	100;se rendre Lemma;cfi;<Suj:cln|sn,Objde:de-sn|en|de-scompl>;lightverb=se_rendre;%default
+
+
+
+# avis, préavis ?
+
+# se faire jour
+# faire main basse sur
+# faire cause commune
+# faire machine arrière
+# faire peau neuve
+# faire amende honorable
+

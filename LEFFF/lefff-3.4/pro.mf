@@ -1,0 +1,296 @@
+# clitique accusatif
+-la	cla	3fs	La
+-le	cla	3ms	Le
+-les	cla	3p	Les
+-moi	cla	1s
+-nous	cla	1p
+-toi	cla	2s
+-vous	cla	2p
+-vs	cla	2p
+l'	cla	3ms	Le
+l'	cla	3fs	La
+la	cla	3fs	La
+le	cla	3ms	Le
+les	cla	3p	Les
+m'	cla	1s
+me	cla	1s
+moi	cla	1s
+nous	cla	1p
+t'	cla	2s
+te	cla	2s
+toi	cla	2s
+vous	cla	2p
+vs	cla	2p
+# clitique datif
+-leur	cld	3p
+-lui	cld	3s
+-moi	cld	1s
+-m'	cld	1s
+-nous	cld	1p
+-t-y	cld	
+-toi	cld	2s
+-t'	cld	2s
+-vous	cld	2p
+-vs	cld	2p
+-y	cld	
+leur	cld	3p
+lui	cld	3s
+m'	cld	1s
+me	cld	1s
+moi	cld	1s
+nous	cld	1p
+t'	cld	2s
+te	cld	2s
+toi	cld	2s
+vous	cld	2p
+vs	cld	2p
+y	cld	
+# clitique génitif	
+en	clg	
+-en	clg	
+# clitique locatif
+en	cll	
+-en	cll	
+-t-en	cll	
+y	cll	
+-y	cll	
+# impersonnel nominatif
+-t-il	ilimp	3ms
+-il	ilimp	3ms
+il	ilimp	3ms
+cela	çaimp	3ms
+ça	çaimp	3ms
+# clitique nominatif
+-elle	cln	3fs
+-elles	cln	3fp
+-il	cln	3ms
+-ils	cln	3mp
+-je	cln	1s
+-nous	cln	1p
+-on	cln	3s
+-t-elle	cln	3fs
+-t-elles	cln	3fp
+-t-il	cln	3ms
+-t-ils	cln	3mp
+-t-on	cln	3s
+-tu	cln	2s
+-vous	cln	2p
+-vs	cln	2p
+elle	cln	3fs
+elles	cln	3fp
+il	cln	3ms
+ils	cln	3mp
+j'	cln	1s
+ch'	cln	1s
+je	cln	1s
+nous	cln	1p
+on	cln	3s
+l'on	cln	3s
+t'	cln	2s
+tu	cln	2s
+vous	cln	2p
+vs	cln	2p
+# clitique réfléchi
+m'	clr	1s
+me	clr	1s
+nous	clr	1p
+s'	clr	3s
+se	clr	3s
+s'	clr	3p
+se	clr	3p
+t'	clr	2s
+te	clr	2s
+vous	clr	2p
+vs	clr	2p
+s'	clar	3s
+se	clar	3s
+s'	clar	3p
+se	clar	3p
+s'	cldr	3s
+se	cldr	3s
+s'	cldr	3p
+se	cldr	3p
+# pronoms relatifs
+dont	dont	
+où	où	
+qu'	que	
+que	que	
+qui	qui	
+quoi	quoi	
+# pronoms relatifs et interrogatifs	
+laquelle	lequel	fs
+lequel	lequel	ms
+lesquelles	lequel	fp
+lesquels	lequel	mp
+# pronoms interrogatifs
+où	où?	
+qu'	que?	
+que	que?	
+qui	quiNom?	
+qui	quiAcc?	
+quoi	quoi?	
+quand	quand?	
+pourquoi	pourquoi?	
+comment	comment?	
+combien	combien?	
+
+# pronoms indéfinis
+toi-même	lui-même	
+vous-même	lui-même	
+vous-mêmes	lui-même	
+soi-même	lui-même	
+elle-même	lui-même	
+elles-même	lui-même	
+elles-mêmes	lui-même	
+eux-même	lui-même	
+eux-mêmes	lui-même	
+lui-même	lui-même	
+moi-même	lui-même	
+nous-même	lui-même	
+nous-mêmes	lui-même	
+aucun	aucun	ms
+aucune	aucun	fs
+autre	autre	s
+autres	autre	p
+autrui	autrui	s
+c'	ce	s
+ce	ce	
+-ce	ce	
+ceci	ceci	s
+cela	cela	s
+celle	celui	fs
+celle-ci	celui-ci	fs
+celle-là	celui-là	fs
+celles	celui	fp
+celles-ci	celui-ci	fp
+celles-là	celui-là	fp
+celui	celui	ms
+celui-ci	celui-ci	ms
+celui-là	celui-là	ms
+certaines	certains	fp
+certains	certains	mp
+ceux	celui	mp
+ceux-ci	celui-ci	mp
+ceux-là	celui-là	mp
+icelui	icelui	ms
+icelle	icelui	fs
+iceux	icelui	mp
+icelles	icelui	fp
+chacun	chacun	m
+chacune	chacun	f
+l'un	l'un	ms
+l'une	l'un	fs
+les uns	l'un	mp
+les unes	l'un	fp
+même	même	s
+mêmes	même	p
+nul	nul	ms
+nulle	nul	fs
+nul	nul_____2	ms
+nulle	nul_____2	fs
+pas grand-chose	pas grand-chose	s
+pas grand-chose	pas grand-chose_____2	s
+personne	personne	s
+personne	personne_____2	s
+plus d'un	plus d'un	m
+plus d'une	plus d'un	f
+plus d'un	plus d'un_____2	m
+plus d'une	plus d'un_____2	f
+plusieurs	plusieurs	p
+plusieurs	plusieurs_____2	p
+quelqu'un	quelqu'un	s
+qqn	quelqu'un	s
+quelqu'une	quelqu'un	fs
+quelqu'un	quelqu'un_____2	s
+qqn	quelqu'un_____2	s
+quelqu'une	quelqu'un_____2	fs
+quelque chose	quelque chose	ms
+qqch	quelque chose	ms
+qqc	quelque chose	ms
+qqchose	quelque chose	ms
+quelque chose	quelque chose_____2	ms
+qqch	quelque chose_____2	ms
+qqc	quelque chose_____2	ms
+qqchose	quelque chose_____2	ms
+quelques-unes	quelques-uns	fp
+quelques-uns	quelques-uns	fp
+quiconque	quiconque	s
+quiconque	quiconque_____2	s
+rien	rien	s
+rien	rien_____2	s
+tel	tel	ms
+telle	tel	fs
+telles	tel	fp
+tels	tel	mp
+tous	tout	mp
+tout	tout	ms
+toute	tout	fs
+toutes	tout	fp
+un	un	ms
+une	un	fs
+unes	un	fp
+uns	un	mp
+ça	cela	ms
+l'autre	l'autre	s
+les autres	l'autre	p
+la leur	le sien	fs_P3p
+le leur	le sien	ms_P3p
+les leurs	le sien	mp_P3p
+les leurs	le sien	fp_P3p
+le mien	le sien	ms_P1s
+la mienne	le sien	fs_P1s
+les miennes	le sien	fp_P1s
+les miens	le sien	mp_P1s
+la nôtre	le sien	fs_P1p
+le nôtre	le sien	ms_P1p
+les nôtres	le sien	mp_P1p
+les nôtres	le sien	fp_P1p
+le sien	le sien	ms_P3s
+la sienne	le sien	fs_P3s
+les siennes	le sien	fp_P3s
+les siens	le sien	mp_P3s
+le tien	le sien	ms_P2s
+la tienne	le sien	fs_P2s
+les tiennes	le sien	fp_P2s
+les tiens	le sien	mp_P2s
+la vôtre	le sien	fs_P2p
+le vôtre	le sien	ms_P2p
+les vôtres	le sien	mp_P2p
+les vôtres	le sien	fp_P2p
+
+#easy...
+autre chose	autre chose	3m
+la plupart	la plupart	3
+l'un et l'autre	l'un et l'autre	3mp
+l'une et l'autre	l'un et l'autre	3fp
+l'un ou l'autre	l'un ou l'autre	3mp
+l'une ou l'autre	l'un ou l'autre	3fp
+ni l'un ni l'autre	ni l'un ni l'autre	3mp
+ni l'une ni l'autre	ni l'un ni l'autre	3fp
+n'importe où	n'importe où	
+peu de chose	peu de chose	3
+qui de droit	qui de droit	3s
+qui que ce soit	qui que ce soit	3s
+tel et tel	tel et tel	3ms
+telle et telle	tel et tel	3fs
+tels et tels	tel et tel	3mp
+telles et telles	tel et tel	3fp
+tel ou tel	tel ou tel	3ms
+telle ou telle	tel ou tel	3fs
+tels ou tels	tel ou tel	3mp
+telles ou telles	tel ou tel	3fp
+tout le monde	tout le monde	3ms
+
+pkoi	pourquoi?	
+
+est -ce que	est-ce que?	
+qu' est -ce que	qu'est-ce que?	
+qui est -ce qui	qui est-ce qui?	
+
+tout un chacun	tout un chacun	3ms
+tout un chacune	tout un chacun	3fs
+
+n'importe qui	n'importe qui	
+n'importe quoi	n'importe quoi	
+n'importe comment	n'importe comment	
+n'importe quand	n'importe quand	

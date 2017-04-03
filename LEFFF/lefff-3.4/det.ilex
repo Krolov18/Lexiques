@@ -1,0 +1,64 @@
+# démonstratif	0	100;0;det;;define=-,det=+;%default
+ce	det-ce	100;0;det;;demonstrative=+,det=+;%default
+ce putain de	det-ce+inv+inv-e	100;0;det;;demonstrative=+,det=+;%default
+
+# indéfini	0	100;0;det;;define=-,det=+;%default
+un	0	100;0;det;;define=-,det=+;%default
+plusieurs	0	100;0;det;;define=-,det=+;%default
+chaque	0	100;0;det;;define=-,det=+;%default
+aucun	0	100;0;det;;define=-,det=+;%default
+quelque	0	100;0;det;;define=-,det=+;%default
+un tel	0	100;0;det;;define=-,det=+;%default
+tel ou tel	0	100;0;det;;define=-,det=+;%default
+tel et tel	0	100;0;det;;define=-,det=+;%default
+certain	adj-4	100;0;det;;define=-,det=+;%default
+
+du	0	100;0;det;;define=-,det=+;%default
+
+un drôle de	det-un+inv+inv-e	100;0;det;;define=-,det=+;%default
+
+assez de	inv-e	100;0;det;;define=-,det=+;%default
+autant de	inv-e	100;0;det;;define=-,det=+;%default
+beaucoup de	inv-e	100;0;det;;define=-,det=+;%default
+bien du	det-du	100;0;det;;define=-,det=+;%default
+combien de	inv-e	100;0;det;;define=-,det=+;%default
+dieu sait quel	det-el	100;0;det;;define=-,det=+;%default
+plus de	inv-e	100;0;det;;define=-,det=+;%default
+le plus de	inv-e	100;0;det;;define=+,det=+;%default
+moins de	inv-e	100;0;det;;define=-,det=+;%default
+le moins de	inv-e	100;0;det;;define=+,det=+;%default
+n'importe quel	det-el	100;0;det;;define=-,det=+;%default
+pas mal de	inv-e	100;0;det;;define=-,det=+;%default
+tant de	inv-e	100;0;det;;define=-,det=+;%default
+un peu de	inv-e	100;0;det;;define=-,det=+;%default
+plein de	inv-e	100;0;det;;define=-,det=+;%default
+pas de	inv-e	100;0;det;;define=-,det=+;%default
+maint	adj-4	100;0;det;;define=-,det=+;%default
+pareil	adj-l4	100;0;det;;define=+,det=+;%default
+nul	adj-l4	100;0;det;;define=-,det=+;%default
+force	adj-1	100;0;det;;define=-,det=+;%default
+
+# défini	0	100;0;det;;define=-,det=+;%default
+le	0	100;0;det;;define=+,det=+;%default
+tel	det-el	100;0;det;;define=+,det=+;%default
+ledit	0	100;0;det;;define=+,det=+;%default
+la plupart du	det-du	100;0;det;;define=+,det=+;%default
+
+assez du	det-du	100;0;det;;define=+,det=+;%default
+autant du	det-du	100;0;det;;define=+,det=+;%default
+beaucoup du	det-du	100;0;det;;define=+,det=+;%default
+combien du	det-du	100;0;det;;define=+,det=+;%default
+plus du	det-du	100;0;det;;define=+,det=+;%default
+moins du	det-du	100;0;det;;define=+,det=+;%default
+pas mal du	det-du	100;0;det;;define=+,det=+;%default
+tant du	det-du	100;0;det;;define=+,det=+;%default
+un peu du	det-du	100;0;det;;define=+,det=+;%default
+
+# possessif	0	100;0;det;;define=-,det=+;%default
+son	0	100;0;det;;@poss,det=+;%default
+
+# interrogatif	0	100;0;det;;define=-,det=+;%default
+quel	det-el	100;0;det;;det=+,qu=+;%default
+
+# tout	0	100;0;det;;define=-,det=+;%default
+tout	0	100;0;det;;define=-,det=+;%default

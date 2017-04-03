@@ -1,0 +1,384 @@
+afin	inv	120;Lemma;prep;<Objde:de-sn|de-sinf|scompl>;;%default
+ainsi	inv	120;Lemma;prep;<Obj:scompl>;;%default
+alors même	inv	100;Lemma;prep;<Obj:scompl>;;%default
+alors	inv	100;Lemma;prep;<Obj:scompl>;;%default
+après	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn|scompl>;pcas = loc|après;%default
+attendu	inv	100;Lemma;prep;<Obj:scompl>;;%default
+au beau milieu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+au bord	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+au bout	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au cas où	inv	100;Lemma;csu;;;%default
+au centre	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au comble	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au cours	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au côté	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au dehors	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au delà	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+au dessous	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au devant	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+au fond	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au fur et à mesure	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn|scompl)>;;%default
+au grand dam	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au gré	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au large	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au lieu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn|scompl>;;%default
+au long	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au milieu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+au moment	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;;%default
+au moment où	inv	100;0;csu;;;%default
+au moyen	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au même titre	inv	100;Lemma;prep;<Obj:(scompl)>;;%default
+au nom	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au point	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn|scompl>;;%default
+au prorata	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au ras	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au sein	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au sortir	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au sujet	inv	120;Lemma de;prep;<Obj:de-sa|de-sn|de-sinf>;pcas= au_sujet_de;%default
+au terme	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au travers	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc|au_travers_de;%default
+au tréfonds	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+au titre	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au vu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au vu et au su	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+au-delà	0	120;Lemma (de);prep;<Objde:(de-sa|de-sn|de-sinf|de-scompl)>;pcas = loc;%default
+au-dessous	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn|de-sinf)>;pcas = loc|au_dessous_de;%default
+au-dessus	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn|de-sinf)>;pcas = loc|au_dessus_de;%default
+au-devant	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sinf|de-sn)>;pcas = loc;%default
+auprès	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+aussi	inv	100;0;csu;;;%default
+aussi bien que	inv-e	100;0;csu;;wh=+;%default
+aussi longtemps que	inv-e	100;0;csu;;wh=+;%default
+aussitôt que	inv-e	100;0;csu;;wh=+;%default
+autant dire que	inv-e	100;0;csu;;wh=+;%default
+autant que	inv-e	100;0;csu;;wh=+;%default
+autour	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn)>;pcas = loc|autour_de;%default
+aux bons soins	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+aux confins	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+aux cotés	inv	120;Lemma (de);prep;<Objde:de-sn>;pcas = loc;%default
+aux dépens	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn)>;;%default
+avant	inv	120;Lemma;prep;<Obj:(sa|sadv|sn|que_de-sinf|de-sinf|scompl)>;pcas = loc|tps;%default
+avant même	inv	120;Lemma;prep;<Obj:(sa|sadv|sn|que_de-sinf|de-sinf|scompl)>;pcas = loc|tps;%default
+avec	inv	120;Lemma;prep;<Obj:(sa|sadv|sn)>;pcas = avec;%default
+because	inv	100;0;csu;;;%default
+bien que	inv-e	100;0;csu;;wh=+;%default
+c'est pourquoi	inv	100;0;csu;;wh=+;%default
+c'est-à-dire	inv	100;0;coo;;;%default
+c'est-à-dire que	inv-e	100;0;csu;;wh=+;%default
+cause	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+cependant que	inv-e	100;0;csu;;wh=+;%default
+cette fois que	inv-e	100;0;csu;;wh=+;%default
+cf	0	120;Lemma;prep;<Obj:sa|sn>;;%default
+chaque fois que	inv-e	100;0;csu;;wh=+;%default
+chez	inv	120;Lemma;prep;<Obj:sa|sn>;pcas = loc|chez;%default
+ci-devant	inv	120;Lemma;prep;<Obj:sa|sn>;;%default
+comme	inv	100;0;csu;;;%default
+comme	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = comme;%default
+comme si	inv	100;0;csu;;;%default
+compte tenu	inv	120;Lemma;prep;<Objde:de-sn|de-scompl|scompl>;;%default
+concernant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;chunk_type=NV;%default
+considérant	inv	120;Lemma;prep;<Obj:(sn|scompl)>;;%default
+considéré	inv	120;Lemma;prep;<Obj:(sn|scompl)>;;%default
+contre	inv	120;Lemma;prep;<Obj:(sa|sinf|sn|scompl)>;pcas = loc|contre;%default
+d'après	inv	120;Lemma;prep;<Obj:sa|sn>;;%default
+d'autant plus que	inv-e	100;0;csu;;wh=+;%default
+d'autant que	inv-e	100;0;csu;;wh=+;%default
+d'avec	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#KF
+d'avis	inv	120;Lemma;prep;<Objde:de-sinf|scompl>;;%default
+d'entre	inv	120;Lemma;prep;<Obj:sa|sn>;;%default
+d'ici	inv	120;Lemma;prep;<Obj:sa|sn>;;%default
+d'ici	inv	120;Lemma;prep;<Objà:à-sa|à-sinf|à-sn|à-scompl|scompl>;;%default
+d'où	inv	100;0;csu;;;%default
+dans	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|dans;%default
+dans l' espoir	inv	120;Lemma (de/que);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+dans l' idée	inv	120;Lemma (de/que);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+dans la crainte	inv	120;Lemma (de/que);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+dans la mesure où	inv	100;0;csu;;;%default
+dans le but	inv	120;Lemma (de/que);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+dans le sens	inv	120;Lemma (de/que);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+de	inv	120;Lemma;prep;<Obj:sa|sadv|scompl|sinf|sn>;pcas = de;%default
+à ce que	inv-e	100;0;csu;;wh=+,pcas=à;%default
+de ce que	inv-e	100;0;csu;;wh=+,pcas=de;%default
+de chez	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas=de_chez;%default
+de crainte	inv	120;Lemma (de/que);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+de derrière	inv	120;Lemma;prep;<Obj:sa|sn>;;%default
+de façon	inv	100;Lemma à;prep;Objà:à-sinf|à-scompl|scompl;wh=+;%default
+de l'ordre	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+de manière	inv	100;Lemma à;prep;Objà:à-sinf|à-scompl|scompl;wh=+;%default
+de même que	inv-e	100;0;csu;;wh=+;%default
+de par	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+de parce que	inv-e	100;0;csu;;wh=+;%default
+de part et d'autre	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+de peur que	inv	120;Lemma (de/que);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+de près	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+de sorte	inv	100;Lemma à;prep;Objà:à-sinf|à-scompl|scompl;wh=+;%default
+de telle façon que	inv-e	100;0;csu;;wh=+;%default
+de telle manière que	inv-e	100;0;csu;;wh=+;%default
+de telle sorte que	inv-e	100;0;csu;;wh=+;%default
+depuis	inv	120;Lemma;prep;<Obj:(sa|sadv|sn|scompl)>;pcas=depuis;%default
+derrière	inv	120;Lemma;prep;<Obj:(sa|sadv|sn)>;pcas = loc;%default
+des fois que	inv-e	100;0;csu;;wh=+;%default
+dessous	inv	120;Lemma;prep;<Obj:(sa|sadv|sn)>;pcas = loc;%default
+dessus	inv	120;Lemma;prep;<Obj:(sa|sadv|sn)>;pcas = loc;%default
+devant	inv	120;Lemma;prep;<Obj:(sa|sadv|sn)>;pcas = loc|devant;%default
+devers	inv	120;Lemma;prep;<Obj:(sa|sadv|sn)>;pcas = loc;%default
+dixit	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+du côté	inv	120;Lemma;prep;<Obj:de-sa|de-sn>;pcas = loc|du_côté_de;%default
+du fait que	inv-e	100;0;csu;;wh=+;%default
+du moment que	inv-e	100;0;csu;;wh=+;%default
+durant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+dès	inv	120;Lemma;prep;<Obj:sa|sadv|sn|scompl>;;%default
+dès avant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+dès lors que	inv-e	100;0;csu;;wh=+;%default
+déjà que	inv-e	100;0;csu;;wh=+;%default
+en	inv	120;Lemma;prep;<Obj:sa|sadv|sn|sprespart>;pcas = loc|en;%default
+en absence	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn)>;;%default
+en l'absence	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en accord	inv	120;Lemma avec;prep;<Obl:(avec-sn)>;;%default
+en admettant	inv	120;Lemma;prep;<Obj:sn|scompl>;;%default
+en amont	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en arrière	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en aval	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en avant	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en cas	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en ce que	inv-e	100;0;csu;;wh=+;%default
+en ce sens que	inv-e	100;0;csu;;wh=+;%default
+en contrebas	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en dedans	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en dehors	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en delà	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en dessous	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en début	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en dépit	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn|scompl>;;%default
+en face	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+en fait	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;;%default
+en faveur	inv	120;Lemma de;prep;<Objde:de-sa|de-sinf|de-sn|de-scompl>;pcas= en_faveur_de;%default
+en fin	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+en guise	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en haut	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en hommage	inv	120;Lemma;prep;<Objà:à-sa|à-sn>;;%default
+en instance	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en manière	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en manque	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en matière	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en milieu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+en même temps que	inv-e	100;0;csu;;wh=+;%default
+en outre	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en perte	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en plein	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en plein centre	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+en plein dans	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en plein sur	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en plus	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;;%default
+en proie	inv	120;Lemma;prep;<Objà:à-sn>;;%default
+en quête	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en raison	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en regard	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn)>;pcas = loc;%default
+en relation	inv	120;Lemma;prep;<Obl:(avec-sn)>;;%default
+en règlement	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en signe	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en sorte que	inv-e	100;0;csu;;wh=+;%default
+en supposant	inv	120;Lemma (que);prep;<Obj:sa|sn|scompl>;;%default
+en tant que	inv-e	100;0;csu;;wh=+;%default
+en tant que	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = comme;%default
+en terme	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en termes	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en train	inv	120;Lemma (de);prep;<Objde:(de-sinf)>;;%default
+en vertu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+en voie	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;;%default
+en vue	inv	120;Lemma de;prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+en âge	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;;%default
+en-deçà	0	120;Lemma (de);prep;<Objde:de-sa|de-sadv|de-sinf|de-sn>;pcas = loc;%default
+encore que	inv-e	100;0;csu;;wh=+;%default
+endéans	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+entre	inv	120;Lemma;prep;<Obj:(sa|sadv|sinf|sn)>;pcas = loc|entre;%default
+envers	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas= envers;%default
+et même	inv	100;0;csu;;;%default
+eu égard	inv	120;Lemma;prep;<Objà:à-sn|à-scompl>;;%default
+excepté	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn|scompl>;;%default
+face	inv	120;Lemma à;prep;<Objà:à-sa|à-sinf|à-sn>;pcas = loc|face_à;%default
+faute	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;;%default
+grâce	inv	120;Lemma à;prep;<Objà:à-sa|à-sinf|à-sn>;pcas = loc;%default
+hormis	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn|scompl>;;%default
+hors	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+hors	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+il y a	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+jusqu'en	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+jusqu'où	inv	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+jusqu'à	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+jusqu'à ce que	inv-e	100;0;csu;;wh=+;%default
+jusque	inv	100;Lemma;adv;;adv_kind=modprep,cat=adv;%default
+jusque	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas=jusque;%default
+le long	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn)>;pcas = loc|le_long_de;%default
+le moins que	inv-e	100;0;csu;;wh=+;%default
+le temps que	inv-e	100;0;csu;;wh=+;%default
+lors	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+lorsque	inv-e	100;0;csu;;wh=+;%default
+lès	0	120;Lemma;prep;<Obj:sa|sn>;pcas = loc;%default
+maintenant que	inv-e	100;0;csu;;wh=+;%default
+malgré	inv	120;Lemma;prep;<Obj:sa|sadv|sn|scompl>;;%default
+mis à part	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn|scompl>;;%default
+moyennant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+même si	inv	100;0;csu;;;%default
+n'en déplaise	inv	120;Lemma à;prep;<Objà:à-sn>;;%default
+non plus que	inv-e	100;0;csu;;wh=+;%default
+non que	inv-e	100;0;csu;;wh=+;%default
+non sans	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+nonobstant	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn|scompl>;;%default
+outre	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn|scompl>;;%default
+par	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|par;%default
+par delà	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+par devers	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+par l'entremise	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+par rapport	inv	120;Lemma à;prep;<Objà:à-sa|à-sadv|à-sinf|à-sn>;;%default
+par égard pour	inv	120;Lemma;prep;<Objà:à-sn|pour-sn>;;%default
+par-delà	0	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+par-dessous	inv	120;Lemma;prep;<Obj:(sa|sadv|sn)>;pcas = loc;%default
+par-dessus	inv	120;Lemma;prep;<Obj:(sa|sadv|sinf|sn)>;pcas = loc;%default
+parce que	0	100;0;csu;;mod_kind = causal,wh=+;%default
+parmi	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|parmi;%default
+partant	inv	100;0;csu;;;%default
+passé	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#KF
+pendant	inv	120;Lemma;prep;<Obj:(sa|sadv|sn|scompl)>;;%default
+#peu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+plein	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default	# plein les poches
+plus que	inv-e	100;0;csu;;wh=+;%default
+plutôt que de	prep-e	120;Lemma;prep;<Obj:sadv|sn|sa|sinf|de-sinf>;;%default
+pour	inv	120;Lemma;prep;<Obj:(sa|sadv|sinf|sn|scompl)>;pcas = pour;%default
+pour autant que	inv-e	100;0;csu;;wh=+;%default
+pour cause	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+pour cette raison que	inv-e	100;0;csu;;wh=+;%default
+pour comble	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+pour peu que	inv-e	100;0;csu;;wh=+;%default
+pour une fois que	inv-e	100;0;csu;;wh=+;%default
+pourvu que	inv-e	100;0;csu;;wh=+;%default
+preuve	inv	100;Lemma (de/que);prep;<Obj:de-sn|scompl>;;%default
+près	inv	120;Lemma (de);prep;<(Objde:de-sa|de-sinf|de-sn)>;pcas = loc;%default
+puis	inv	100;0;csu;;;%default
+puisque	inv-e	100;0;csu;;wh=+;%default
+quand	inv	100;0;csu;;wh=+;%default
+quand bien même	inv	100;0;csu;;wh=+;%default
+quant à	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+que	inv-e	100;0;que;;wh=+;%default
+quoi que	inv-e	100;0;csu;;wh=+;%default
+quoique	inv-e	100;0;csu;;wh=+;%default
+reste à savoir	inv	100;Lemma;prep;<Obj:qcompl|sn>;;%default
+sachant	inv	100;Lemma;prep;<Obj:sn|scompl|qcompl>;wh=+;%default
+sans	inv	120;Lemma;prep;<Obj:(sa|sadv|sinf|sn|scompl)>;pcas= sans;%default
+sans compter	inv	100;Lemma;prep;<Obj:sn|scompl|qcompl>;wh=+;%default
+sans oublier	inv	100;Lemma;prep;<Obj:sn|scompl|qcompl>;wh=+;%default
+sauf	inv	120;Lemma;prep;<Obj:sa|sadv|sn|scompl>;;%default
+sauf que	inv-e	100;0;csu;;wh=+;%default
+sauf à	inv	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+selon__according to	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas= selon;%default
+selon__depending on	inv	120;Lemma;prep;<Obj:(sa|sadv|sn|scompl)>;pcas= selon;%default
+si	inv	100;0;csu;;;%default
+si bien que	inv-e	100;0;csu;;wh=+;%default
+si ce n' est que	inv-e	100;0;csu;;wh=+;%default
+si peu que	inv-e	100;0;csu;;wh=+;%default
+si tant est que	inv-e	100;0;csu;;wh=+;%default
+sinon	inv	100;0;csu;;;%default
+sinon que	inv-e	100;0;csu;;wh=+;%default
+sitôt que	inv-e	100;0;csu;;wh=+;%default
+soit	inv	100;0;csu;;;%default
+sous	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|sous;%default
+sous l'effet	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+sous la forme	inv	120;Lemma de;prep;<Obj:de-sn>;pcas= sous_la_forme_de;%default
+sous le coup	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+sous prétexte	inv	100;Lemma de;<Objde:de-sinf|de-sn|scompl>;;;%default
+sous réserve	inv	100;Lemma de;<Objde:de-sinf|de-sn|scompl>;;;%default
+suite	inv	120;Lemma à;prep;<Objà:à-sa|à-sn>;;%default
+suivant	inv	120;Lemma;prep;<Obj:sa|sadv|sn|scompl>;pcas= suivant;%default
+sur	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|sur;%default
+surtout que	inv-e	100;0;csu;;wh=+;%default
+tandis que	inv-e	100;0;csu;;wh=+;%default
+tant et si bien que	inv-e	100;0;csu;;wh=+;%default
+tant que	inv-e	100;0;csu;;wh=+;%default
+tout au bout	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+tout au long	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+tout en haut	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+tout plein	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+tout près	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+un jour que	inv-e	100;0;csu;;wh=+;%default
+une fois que	inv-e	100;0;csu;;wh=+;%default
+vers	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|vers;%default
+via	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+vis-à-vis	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|vis-à-vis;%default
+vis-à-vis	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sn)>;pcas = loc|vis_à_vis_de;%default
+voici	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#voici 3 ans - KF
+voilà	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#voilà bientôt 1 an - KF
+vs	0	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+vu	inv	100;Lemma (que);prep;<Obj:(sn|scompl)>;;%default
+y compris	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+à	inv	120;Lemma;prep;<Obj:sa|sadv|scompl|sinf|sn>;pcas = loc|à;%default
+à cause	inv	120;Lemma;prep;<Obj:de-sa|de-sadv|de-sn>;mod_kind = causal;%default
+à ceci près que	inv-e	100;0;csu;;wh=+;%default
+à cela près que	inv-e	100;0;csu;;wh=+;%default
+à chaque fois que	inv-e	100;0;csu;;wh=+;%default
+à condition que	inv-e	100;0;csu;;wh=+;%default
+à côté	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+à défaut	inv	120;Lemma (de);prep;<Objde:(de-sa|de-sinf|de-sn|scompl)>;;%default
+à force	inv	120;Lemma (de/que);prep;<Obj:(de-sa|de-sadv|de-sinf|de-sn|scompl)>;mod_kind = causal;%default
+à hauteur	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;pcas = loc;%default
+à l'aune	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+à l'encontre	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;pcas = loc;%default
+à l'heure où	inv	100;0;csu;;;%default
+à l'instar	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+à l'insu	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+à l'égard	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+à mesure	inv	100;Lemma (de/que);prep;<Obj:de-sn|scompl>;;%default
+à moins	inv	120;Lemma (de/que);prep;<Objde:de-sa|de-sinf|de-sn|scompl>;;%default
+à même	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+à partir	inv	120;Lemma;prep;<Obj:de-sa|de-sadv|de-sn>;pcas=à_partir_de;%default
+à partir du moment où	inv	100;0;csu;;;%default
+à proportion	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+à propos	inv	120;Lemma (de);prep;<Objde:de-sa|de-sinf|de-sn>;;%default
+à présent que	inv-e	100;0;csu;;wh=+;%default
+à raison	inv	120;Lemma (de);prep;<Objde:de-sa|de-sn>;;%default
+à seule fin	inv	120;Lemma (de);prep;<Objde:de-sinf|scompl|de-sn>;;%default
+à supposer	inv	120;Lemma;prep;<Obj:de-sinf|scompl|sn>;;%default
+à tel point que	inv-e	100;0;csu;;wh=+;%default
+à telle enseigne que	inv-e	100;0;csu;;wh=+;%default
+à travers	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|à_travers;%default
+à ça près que	inv-e	100;0;csu;;wh=+;%default
+étant donné	inv	120;Lemma;prep;<Obj:scompl|sn>;;%default
+
+s'agissant	inv	120;Lemma;prep;<Objde:de-sn|de-sinf>;;%default
+
+à condition de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default	# from LexConn
+à mesure de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+à seule fin de	prep-e	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+à supposer	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+#attendu	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+avant même	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+considérant	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+considéré	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+dans le but de	prep-e	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+dans l'espoir de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default	# from LexConn
+dans l'intention de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default	# from LexConn
+de façon à	prep	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+d'où	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+du fait de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+en admettant	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+en dépit du fait de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+en supposant	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+étant donné	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+histoire de	prep-e	120;Lemma;prep;<Obj:sn|sinf>;;%default	# from LexConn
+le temps de	prep-e	120;Lemma;prep;<Obj:sn|sinf>;;%default	# from LexConn
+mis à part	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+par le fait de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+plutôt que	prep	120;Lemma;prep;<Obj:de-sinf|sinf>;;%default	# from LexConn
+pourvu de	prep-e	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+preuve de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+quitte à	prep	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+sachant	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+sans compter	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+sans oublier	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+si ce n'est	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+sitôt	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+une fois	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+vu	prep	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+
+#en	prep-V-ant		# from LexConn
+#tout en	prep-V-ant		# from LexConn
+tout en	inv	120;Lemma;prep;<Obj:sa|sadv|sn|sprespart>;pcas = en;%default

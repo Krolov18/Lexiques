@@ -1,0 +1,105 @@
+# clitique accusatif
+cla	0	100;Lemma;cla;;case=acc;%default
+# clitique datif
+cld	0	100;Lemma;cld;;case=dat;%default
+# clitique géntif
+clg	0	100;Lemma;clg;;case=gen,clgen=+;%default
+# clitique locatif
+cll	0	100;Lemma;cll;;case=loc,clloc=+;%default
+# clitique nominatif
+cln	0	100;Lemma;cln;;case=nom;%default
+# impersonnels
+ilimp	0	100;0;ilimp;;imp=+;%default
+çaimp	0	100;0;caimp;;imp=+;%default
+# clitique réfléchi
+clr	0	100;0;clr;;refl=+;%default
+clar	0	100;Lemma;clar;;case=acc;%default
+cldr	0	100;Lemma;cldr;;case=dat;%default
+# pronoms relatifs
+dont	0	100;Lemma;prel;;@pro_gen;%default
+où	0	100;Lemma;prel;;@pro_loc;%default
+que	0	100;Lemma;prel;;@pro_acc;%default
+qui	0	100;Lemma;prel;;@pro_nom;%default
+quoi	0	100;Lemma;prel;;;%default
+lequel	0	100;Lemma;prel;;@pro_nom;%default
+# pronoms interrogatifs
+où?	0	100;Lemma;pri;;@pro_loc;%default
+que?	0	100;Lemma;pri;;@pro_acc;%default
+qu'est-ce que?	0	100;Lemma;pri;;@pro_acc;%default
+quiNom?	0	100;Lemma;pri;;@pro_nom;%default
+qui est-ce qui?	0	100;Lemma;pri;;@pro_nom;%default
+quiAcc?	0	100;Lemma;pri;;@pro_acc;%default
+quoi?	0	100;Lemma;pri;;;%default
+lequel	0	100;Lemma;pri;;@pro_nom;%default
+lequel	0	100;Lemma;pri;;@pro_acc;%default
+quand?	0	100;Lemma;pri;;;%default
+pourquoi?	0	100;Lemma;pri;;;%default
+comment?	0	100;Lemma;pri;;;%default
+combien?	0	100;Lemma;pri;;;%default
+est-ce que?	0	100;Lemma;pri;;;%default
+# pronom personnel lourd
+lui	pro-lui	100;Lemma;pro;;;%default
+lui-même	0	100;Lemma;pro;;;%default
+# pronoms indéfinis
+autre	0	100;Lemma;pro;;define=-;%default
+autrui	0	100;Lemma;pro;;define=-;%default
+tel	0	100;Lemma;pro;;define=-;%default
+tout	0	100;Lemma;pro;;define=-;%default
+même	0	100;Lemma;pro;;define=-;%default
+
+aucun	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+un	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+l'un	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+l'autre	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+certains	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+quelques-uns	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+chacun	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+
+quid	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+
+nul	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+nul	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+plus d'un	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+plus d'un	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+plusieurs	inv	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+plusieurs	inv	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+quelqu'un	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+quelqu'un	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+quelque chose	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+quelque chose	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+quiconque	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+quiconque	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+rien	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+rien	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+pas grand-chose	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+pas grand-chose	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+personne	0	100;Lemma;pro;<Objde:(de-sn)>;define=-;%default
+personne	0	100;Lemma;pro;<Att:(de-sa),Obl:(parmi-sn)>;define=-;%default
+pas un chat	0	100;Lemma;pro;;define=-;%default
+# autres pronoms
+ce	0	100;Lemma;cln;;case=nom;%default
+ce	0	100;Lemma;ce;;;%default
+ceci	0	100;Lemma;pro;;;%default
+cela	0	100;Lemma;pro;;;%default
+celui	0	100;Lemma;pro;;;%default
+celui-ci	0	100;Lemma;pro;;;%default
+celui-là	0	100;Lemma;pro;;;%default
+icelui	0	100;Lemma;pro;;;%default
+le sien	0	100;Lemma;pro;;;%default
+autre chose	0	100;Lemma;pro;;;%default
+la plupart	0	100;Lemma;pro;;;%default
+l'un et l'autre	0	100;Lemma;pro;;;%default
+l'un ou l'autre	0	100;Lemma;pro;;;%default
+ni l'un ni l'autre	0	100;Lemma;pro;;;%default
+n'importe où	0	100;Lemma;pro;;;%default
+peu de chose	0	100;Lemma;pro;;;%default
+qui de droit	0	100;Lemma;pro;;;%default
+qui que ce soit	0	100;Lemma;pro;;;%default
+tel et tel	0	100;Lemma;pro;;;%default
+tel ou tel	0	100;Lemma;pro;;;%default
+tout le monde	0	100;Lemma;pro;;;%default
+tout un chacun	0	100;Lemma;pro;;;%default
+n'importe qui	0	100;Lemma;pro;;;%default
+n'importe comment	0	100;Lemma;pro;;;%default
+n'importe quand	0	100;Lemma;pro;;;%default
+n'importe quoi	0	100;Lemma;pro;;;%default

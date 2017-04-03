@@ -1,0 +1,96 @@
+Jésus Christ	Jésus-Christ	ms
+J-C	Jésus-Christ	ms
+J.-C.	Jésus-Christ	ms
+J.-C	Jésus-Christ	ms
+Notre-Dame	Notre-Dame	fs
+N.-D.	Notre-Dame	fs
+
+Vietnam	Viêt-Nam	ms
+Venezuela	Vénézuela	ms
+
+U.R.S.S.	Union des Républiques Socialistes Soviétiques	fs
+URSS	Union des Républiques Socialistes Soviétiques	fs
+
+Canal+	Canal Plus	ms
+
+U.E.	Union Européenne	fs
+UE	Union Européenne	fs
+
+États-Unis	États-Unis d'Amérique	mp
+États Unis	États-Unis d'Amérique	mp
+États Unis d'Amérique	États-Unis d'Amérique	mp
+U.S.A.	États-Unis d'Amérique	mp
+USA	États-Unis d'Amérique	mp
+
+La-Varenne-St-Hilaire	La-Varenne-Saint-Hilaire	fs
+la Varenne-St-Hilaire	La-Varenne-Saint-Hilaire	fs
+la Varenne-Saint-Hilaire	La-Varenne-Saint-Hilaire	fs
+
+Ch.	Charles	ms
+Th.	Thomas	ms
+Th.	Théophile	ms
+
+EDF	Électricité de France	fs
+GDF	Gaz de France	fs
+PSA	PSA Peugeot Citroën	ms
+ISR	International Survey Research	ms
+PPR	Pinaut Printemps Redoute	ms
+
+Nations unies	Nations Unies	fp
+
+George W. Bush	George Bush	ms
+George Walker Bush	George Bush	ms
+Bush	George Bush	ms
+
+Sarkozy	Nicolas Sarkozy	ms
+Sarko	Nicolas Sarkozy	ms
+
+Ségo	Ségolène Royal	fs
+
+UE	Union Européenne	fs
+
+Edinburg	Édimbourg	ms
+
+Aachen	Aix-la-Chapelle	ms
+
+PACA	Provence-Alpes-Côte d'Azur	s
+al Qaeda	al Qaïda	ms
+
+Monop'	Monoprix	ms
+
+Flushing Meadows	US Open	ms
+
+JO	Jeux Olympiques	fp
+J.O.	Jeux Olympiques	fp
+
+Beijing	Pékin	ms
+
+Mississippi	Mississippi-Missouri	ms
+Ienisseï	Ienisseï-Angara	ms
+Vltava	Vistule	fs
+Tiranë	Tirana	ms
+Frankfurt	Francfort	ms
+
+Oursense	Orense	fs
+Tarragona	Tarragone	fs
+Lerida	Lleida	fs
+Salamanca	Salamanque	fs
+Donostia	Saint-Sébastien	fs
+San Sebastian	Saint-Sébastien	fs
+Pamplona	Pampelune	fs
+Elx	Elche	fs
+La Coruña	La Corogne	fs
+A Coruña	La Corogne	fs
+Cordoba	Cordoue	fs
+Murcia	Murcie	fs
+Zaragoza	Saragosse	fs
+Sevilla	Séville	fs
+Valencia	Valence	fs
+Barcelona	Barcelone	fs
+
+O.N.U.	ONU	fs
+
+Attac	ATTAC	ms
+
+Wikipédia	Wikipedia	fs
+Wiktionary	Wiktionnaire	ms

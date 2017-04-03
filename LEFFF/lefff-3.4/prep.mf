@@ -1,0 +1,42 @@
+de__prep	de	
+à__prep	à	
+en__prep	en	
+cf	cf	
+cf.	cf	
+conf.	cf	
+confer	cf	
+en deçà d'	en-deçà de	e
+en deçà de	en-deçà de	
+en-deçà d'	en-deçà de	e
+en-deçà de	en-deçà de	
+par delà	par-delà	
+par-delà	par-delà	
+vs	vs	
+vs.	vs	
+versus	vs	
+au delà d'	au-delà de	e
+au delà de	au-delà de	
+au-delà d'	au-delà de	e
+au-delà de	au-delà de	
+lès	lès	
+lez	lès	
+av.	avant	
+avt	avant	
+apr.	après	
+pdt	pendant	
+pr	pour	
+@	à	
+conformément à__prep	conformément à	
+d'ici à__prep	d'ici à	
+de manière à__prep	de manière à	
+en hommage à__prep	en hommage à	
+en proie à__prep	en proie à	
+eu égard à__prep	eu égard à	
+face à__prep	face à	
+grâce à__prep	grâce à	
+par rapport à__prep	par rapport à	
+par égard à__prep	par égard à	
+quant à__prep	quant à	
+sauf à__prep	sauf à	
+suite à__prep	suite à	
+/	sur	

@@ -1,0 +1,287 @@
+afin de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+après	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|après;%default
+au-delà de	0	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+auprès de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+autour de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|autour_de;%default
+avant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+# avant <Obj:(sn|de-sinf|scompl)>
+avant de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+avec	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = avec;%default
+cause de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+cf	0	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+chez	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|chez;%default
+ci-devant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+contre	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|contre;%default
+d'après	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+d'entre	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+d'ici	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+d'ici à	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+dans	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|dans;%default
+de	prep-e	120;Lemma;prep;<Obj:sa|sadv|scompl|sinf|sn>;pcas = de;%default
+de l'ordre de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+de manière à	inv	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+de près	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+depuis	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas=depuis;%default
+derrière	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+dessous	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+dessus	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+devant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|devant;%default
+devers	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+dixit	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+du côté de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|du_côté_de;%default
+durant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+dès	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|en;%default
+en arrière de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en avant de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en cas de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en dedans de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en dehors de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en dessous de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en début de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en dépit de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+en face de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+en fait de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+en faveur de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas= en_faveur_de;%default
+en fin de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+en plein	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en raison de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en train de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+en-deçà de	0	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+endéans	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+entre	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|entre;%default
+envers	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas= envers;%default
+eu égard à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+excepté	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+face à	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|face_à;%default
+faute de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+grâce à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;mod_kind = causal;%default
+hormis	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+hors	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+hors de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+jusqu'en	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+jusqu'à	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+jusque	prep-e	100;Lemma;adv;;adv_kind=modprep,cat=adv;%default
+jusque	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas=jusque;%default
+le long de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|le_long_de;%default
+lors de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+malgré	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+moyennant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+nonobstant	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+outre	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+par	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|par;%default
+par delà	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+par rapport à	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+par-delà	0	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+par-dessous	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+par-dessus	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+parmi	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|parmi;%default
+pendant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+peu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+plein de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+#plus de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+pour	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = pour;%default
+pour cause de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+#proche de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+près de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+sans	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas= sans;%default
+sauf	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+sauf à	inv	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+selon	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas= selon;%default
+sous	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|sous;%default
+suivant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas= suivant;%default
+sur	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|sur;%default
+tout au long de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+vers	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc|vers;%default
+via	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+vis-à-vis	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|vis-à-vis;%default
+vis-à-vis de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|vis-à-vis_de;%default
+vs	0	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+y compris	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+à	inv	120;Lemma;prep;<Obj:sa|sadv|scompl|sinf|sn>;pcas = loc|à;%default
+à cause de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;mod_kind = causal;%default
+à côté de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+à force de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;mod_kind = causal;%default
+à l'aune de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+à l'encontre de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+à l'instar de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+à l'insu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au bord de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+au bout de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au cours de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au côté de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au delà de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+au devant de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+au large de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au lieu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+au milieu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+au moment de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+au moyen de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au nom de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au point de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+au sein de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au sujet de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas= au_sujet_de;%default
+au terme de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au travers de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|au_travers_de;%default
+au-dessous de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au-dessus de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|au_dessus_de;%default
+au-devant de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+à moins de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+à même	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+à partir de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas=à_partir_de;%default
+à propos de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+à travers	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc|à_travers;%default
+lès	0	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+à hauteur de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+à l'égard de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+
+dès avant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+à proportion de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+à raison de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au beau milieu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+au centre de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au comble de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au dehors de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au dessous de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au fur et à mesure de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au grand dam de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au gré de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au long de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au prorata de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au ras de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au sortir de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au tréfonds de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+au vu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+au vu et au su de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+aux bons soins de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+aux confins de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+aux dépens de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+avant même de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+avant que de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+d'avis de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+de chez	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas=de_chez;%default
+de derrière	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+de par	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+de part et d'autre de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en absence de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en accord avec	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en âge de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+en amont de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en aval de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en contrebas de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en delà de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en guise de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en haut de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en hommage à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en instance de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en manière de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en manque de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en milieu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+en outre de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en perte de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en plein centre de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en plein dans	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en plein sur	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en plus de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+en proie à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en quête de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en regard de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+en règlement de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en relation avec	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en signe de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en terme de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en termes de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en vertu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+en voie de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+en vue de	inv-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+jusqu'où	inv	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+non sans	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+par devers	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+par égard à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+par égard pour	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+plutôt que de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default
+pour comble de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+si près de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+sous le coup de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+sous l'effet de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+tout au bout de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+tout en haut de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+tout plein de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+tout près de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;pcas = loc;%default
+
+en tant que	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = comme;%default
+comme	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = comme;%default
+au fond de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = loc;%default
+suite à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+à défaut de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+
+il y a	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+
+conformément à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+#inférieur à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+#supérieur à	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+quant à	inv	120;Lemma;prep;<Obj:sa|sadv|sinf|sn>;;%default
+
+concernant	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;chunk_type=NV;%default
+
+voici	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#voici 3 ans - KF
+voilà	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#voilà bientôt 1 an - KF
+
+d'avec	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#KF
+passé	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default	#KF
+
+par l'entremise de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+
+en matière de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;;%default
+
+compte tenu de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn|scompl>;;%default
+n'en déplaise à	inv	120;Lemma;prep;<Obj:sn>;;%default
+
+sous la forme de	prep-e	120;Lemma;prep;<Obj:sn>;pcas= sous_la_forme_de;%default
+aux cotés de	prep-e	120;Lemma;prep;<Obj:sn>;pcas = loc;%default
+en phase de	prep-e	120;Lemma;prep;<Obj:sn|sinf>;pcas = loc;%default
+
+afin	inv	120;Lemma;prep;<Objde:de-sn|de-sinf>;;%default	# supprimer 'afin de' dqp
+
+s'agissant	inv	120;Lemma;prep;<Objde:de-sn|de-sinf>;;%default
+
+à condition de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default	# from LexConn
+à mesure de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+à seule fin de	prep-e	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+à supposer	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+#attendu	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+avant même	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+considérant	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+considéré	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+dans le but de	prep-e	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+dans l'espoir de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default	# from LexConn
+dans l'intention de	prep-e	120;Lemma;prep;<Obj:sadv|sinf>;;%default	# from LexConn
+de façon à	inv	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+d'où	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+du fait de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+en admettant	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+en dépit du fait de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+en supposant	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+étant donné	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+histoire de	prep-e	120;Lemma;prep;<Obj:sn|sinf>;;%default	# from LexConn
+le temps de	prep-e	120;Lemma;prep;<Obj:sn|sinf>;;%default	# from LexConn
+mis à part	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+par le fait de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+plutôt que	inv	120;Lemma;prep;<Obj:de-sinf|sinf>;;%default	# from LexConn
+pourvu de	prep-e	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+preuve de	prep-e	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+quitte à	inv	120;Lemma;prep;<Obj:sinf>;;%default	# from LexConn
+sachant	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+sans compter	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+sans oublier	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+si ce n'est	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+sitôt	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+une fois	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+vu	inv	120;Lemma;prep;<Obj:sn>;;%default	# from LexConn
+
+#en	prep-V-ant		# from LexConn
+#tout en	prep-V-ant		# from LexConn
+tout en	inv	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas = en;%default
+
+à compter de	prep-e	120;Lemma;prep;<Obj:sa|sadv|sn>;pcas=à_partir_de;%default
+à la tête de	prep-e	120;Lemma;prep;<Obj:sn>;;%default

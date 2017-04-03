@@ -1,0 +1,189 @@
+# Include this file at the end of the Makefile.am of your Alexina lexicon, which must define before that the following variables:
+# LANGUAGE
+# LEXFILES
+# DOC (not mandatory)
+
+AUTOMAKE_OPTIONS = foreign
+
+pkgdata_DATA = $(LEXFILES) \
+	       constructions \
+	       templates \
+	       cmpnd \
+	       amlgm \
+	       pctabr \
+	       encoding
+
+pkgdata_SCRIPTS = morpho.$(LANGUAGE).check.pl \
+		  morpho.$(LANGUAGE).dir \
+		  morpho.$(LANGUAGE).rev \
+		  morpho.$(LANGUAGE).der \
+		  morpho.$(LANGUAGE).pder
+
+EXTRA_DIST = morpho.$(LANGUAGE) \
+	     $(srcdir)/*.ilex \
+	     $(srcdir)/*.mf \
+	     $(DOC) \
+	     LICENSE \
+	     uw \
+	     constructions \
+	     templates \
+	     amlgm
+
+CLEANFILES =	*.lex *.f *.dls *.df *.fsa *.tbl *.flt cmpnd pctabr constr.pl encoding \
+		morpho.$(LANGUAGE).* $(LANGUAGE).morpho
+
+LC_COLLATE = C
+LC_CTYPE = C
+LC_ALL = C
+LANG = C
+
+MORPHOLOGICAL_COMPILER = morpho2msa.pl
+
+install-data-hook:
+	@echo Creating symlink from $(datadir)/alexina/$(LANGUAGE) to $(pkgdatadir).
+	test -d "$(datadir)/alexina" || mkdir $(datadir)/alexina
+	chmod +w $(datadir)/alexina
+	for p in `ls $(datadir)/alexina/*`; do chmod +w $(datadir)/alexina/*; done;
+	if test -L "$(datadir)/alexina/$(LANGUAGE)"; then rm $(datadir)/alexina/$(LANGUAGE); fi;
+	ln -s $(pkgdatadir) $(datadir)/alexina/$(LANGUAGE)
+
+uninstall-hook:
+	if test -L "$(datadir)/alexina/$(LANGUAGE)"; then rm "$(datadir)/alexina/$(LANGUAGE)"; fi;
+	if test -d "$(pkgdatadir)"; then rmdir "$(pkgdatadir)"; fi;
+
+.SECONDARY: $(LANGUAGE).morpho
+
+%.morpho: $(srcdir)/morpho.% $(alexinatoolsdir)/morpho2msa.pl
+	@echo Building morphological scripts for language $(LANGUAGE); \
+	if grep -q '<category' "$(srcdir)/morpho.$*" 2>/dev/null; then\
+	  $(PERL) $(alexinatoolsdir)/alemorph_builder.pl < $(srcdir)/morpho.$* > morpho.$*.dir.pl;\
+	  $(PERLCC_OR_CP) morpho.$*.dir.pl $(PERLCC_OR_CP_INTERARG) morpho.$*.dir;\
+	  chmod +x morpho.$*.dir ;\
+	else\
+	  $(PERL) $(alexinatoolsdir)/morpho2msa.pl $(srcdir)/morpho.$* -od=$(top_builddir);\
+	  $(PERLCC_OR_CP) morpho.$*.dir.pl $(PERLCC_OR_CP_INTERARG) morpho.$*.dir;\
+	  $(PERLCC_OR_CP) morpho.$*.rev.pl $(PERLCC_OR_CP_INTERARG) morpho.$*.rev;\
+	  $(PERLCC_OR_CP) morpho.$*.der.pl $(PERLCC_OR_CP_INTERARG) morpho.$*.der;\
+	  $(PERLCC_OR_CP) morpho.$*.pder.pl $(PERLCC_OR_CP_INTERARG) morpho.$*.pder;\
+	  chmod +x morpho.$*.dir ;\
+	  chmod +x morpho.$*.der ;\
+	  chmod +x morpho.$*.pder ;\
+	  chmod +x morpho.$*.rev ;\
+	fi
+	touch $@
+
+morpho.$(LANGUAGE).check.pl: $(LANGUAGE).morpho
+	touch $@
+
+morpho.$(LANGUAGE).dir: $(LANGUAGE).morpho
+	touch $@
+
+morpho.$(LANGUAGE).rev: $(LANGUAGE).morpho
+	touch $@
+
+morpho.$(LANGUAGE).der: $(LANGUAGE).morpho
+	touch $@
+
+morpho.$(LANGUAGE).pder: $(LANGUAGE).morpho
+	touch $@
+
+# DEPENDENCY REMOVED: %.df
+%.f: $(srcdir)/%.ilex $(srcdir)/%.mf $(LANGUAGE).morpho \
+     $(alexinatoolsdir)/add_lemma_uid.pl $(alexinatoolsdir)/add_mf_lemma_uid.pl \
+     $(alexinatoolsdir)/sqlite_loader.pl $(alexinatoolsdir)/sqlite_reader.pl
+	@echo Building $@;\
+	cut -f1-3 $(srcdir)/$*.ilex | grep -v "	0	" | $(PERL) ./morpho.$(LANGUAGE).dir -vars -nosep -synt -onerad \
+		| $(PERL) -pe "s/^(.*?)\t(.*?)\t(.*?)\t(.*?)\t(.*?)\t([^\t\n]*|$$)/\3\t\1\t\2\t\4\t\6\t\5/" \
+		> $$$$af; \
+	cut -f2,5,6 $$$$af | sort -u > $$$$af1;\
+	cat $(srcdir)/$*.ilex | $(PERL) $(alexinatoolsdir)/add_lemma_uid.pl > $$$$ilex0;\
+	cat $$$$ilex0 | cut -f1-3 | $(PERL) -pe "s/\t(.*?)\t(.*)/\t\2\t\1/" | sort -u > $$$$af2;\
+	cat $$$$af1 $$$$af2 | $(PERL) $(alexinatoolsdir)/sqlite_loader.pl $$$$s.dat;\
+	cat $(srcdir)/$*.mf | grep -v "__HIDDEN_LEMMA__" | $(PERL) $(alexinatoolsdir)/add_mf_lemma_uid.pl $$$$ilex0 > $$$$mf1; \
+	cut -f2 $$$$mf1 | $(PERL) $(alexinatoolsdir)/sqlite_reader.pl $$$$s.dat > $$$$mf2;\
+	paste $$$$mf1 $$$$mf2 > $$$$mf ;\
+	sort -u $$$$af $$$$mf > $@;\
+	rm $$$$*
+
+# LINES AFTER "paste..." were:
+#	cat $*.df | grep -vE '^(#|[ 	]*$$)' \
+#	        | $(PERL) -an -F"\t" -e 'chomp $$F[-1]; print join("\t",$$F[2], $$F[0], $$F[1], $$F[3], $$F[5])."\n";' > $$$$df;\
+#	sort -u $$$$af $$$$mf $$$$df > $@;\
+#	rm $$$$*
+
+# %.dls: $(srcdir)/%.ilex $(LANGUAGE).morpho $(alexinatoolsdir)/prepare_der.pl
+# 	@echo "=================== Building $* files ==================="
+# 	@echo Building $@; \
+# 	echo "###### File $@ ######" > $@;\
+# 	cat $< | grep -v "	0$$" | $(alexinatoolsdir)/prepare_der.pl \
+# 		| ./morpho.$(LANGUAGE).der -nosep | cut -f3- \
+# 		>> $@
+
+# %.df: %.dls $(LANGUAGE).morpho
+# 	@echo Building $@; \
+# 	echo "###### File $@ ######" > $@;\
+# 	cat $< | ./morpho.$(LANGUAGE).dir -vars -nosep -synt -onerad \
+# 		>> $@
+
+uw.lex: uw
+	cp $(srcdir)/uw uw.lex
+
+constr.pl: constructions $(alexinatoolsdir)/constructions_builder.pl
+	$(PERL) $(alexinatoolsdir)/constructions_builder.pl $< > $@
+	chmod +x $@
+
+%.lex: %.f constr.pl $(alexinatoolsdir)/lex_generator.pl
+	@echo Building $@; \
+	cat $< | $(PERL) constr.pl | $(PERL) $(alexinatoolsdir)/lex_generator.pl \
+	$(PRERECODING) \
+	| iconv -f UTF-8 -t $(LEX_ENCODING) \
+	> $@
+
+%.flt: %.lex
+	@echo Building $@; \
+	$(PERL) -pe "\
+		s/ [a-z]+ \[pred=.//; \
+		s/\].*//; \
+		s/<.*>//; \
+		s/\t(.*)\'[^\']*@/\t$$1\t@/; \
+		s/\t(.*)\'[^\'@]*$$/\t$$1\t/; \
+		s/\t@/	/; \
+		" $*.lex \
+		| sort -u | sort -k2 > $@
+
+cmpnd: $(LEXFILES) amlgm $(alexinatoolsdir)/lex2cmpnd.pl
+	@echo Building the compounds file; \
+	cat $(LEXFILES) $(srcdir)/amlgm | $(PERL) $(alexinatoolsdir)/lex2cmpnd.pl -l $(LANGUAGE) > $@
+
+pctabr: $(LEXFILES)
+	@echo Building the file of abbreviations containing a \".\"; \
+	echo "xxxxxxxxxxxx." > $@
+	cut -f1 *.lex | grep -v '^[ 	]*$$' | grep '\.' >> $@
+
+encoding:
+	echo $(LEX_ENCODING) > $@
+
+mlex: $(LEXFILES)
+	cat $(LEXFILES) | grep -v "^#" | $(PERL) $(alexinatoolsdir)/lex2mlex.pl $(LEX_ENCODING) $(LANGUAGE) | sort -u > $(PACKAGE)-$(VERSION).mlex
+
+mlex.gz: mlex
+	cat $(PACKAGE).mlex | GZIP=$(GZIP_ENV) gzip -c > $(PACKAGE)-$(VERSION).mlex.gz
+
+$(PACKAGE): $(LEXFILES) $(DOC) LICENSE
+	@echo "Building $(PACKAGE)-ext-$(VERSION).tgz";\
+	mkdir $(PACKAGE)-ext-$(VERSION);\
+	cp LICENSE $(PACKAGE)-ext-$(VERSION)/;\
+	cp $(DOC) $(PACKAGE)-ext-$(VERSION)/;\
+	cat $(LEXFILES) | grep -v "^#" | sort -u > $(PACKAGE)-ext-$(VERSION)/$(PACKAGE)-ext-$(VERSION).txt;\
+	cp amlgm $(PACKAGE)-ext-$(VERSION)/$(PACKAGE)-ext-$(VERSION).amlgm.txt;\
+	tar -cvzf $(PACKAGE)-ext-$(VERSION).tgz $(PACKAGE)-ext-$(VERSION);\
+	rm -rf $(PACKAGE)-ext-$(VERSION);\
+	touch $(PACKAGE)
+
+edylex_data:
+	$(PERL) ilex2edylex_data.pl -l $(LANGUAGE) > $@
+
+######
+
+%.pdf: $(srcdir)/%.tex
+	pdflatex $<

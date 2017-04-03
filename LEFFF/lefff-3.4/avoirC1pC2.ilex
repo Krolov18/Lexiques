@@ -1,0 +1,609 @@
+# table C_a1p2
+# V=avoir; POSTVERB = C1 pC2
+avoir affaire à la justice	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir affaire à forte partie	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir affaire à la police	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir affaire aux tribunaux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+en {avoir} l'air mais pas la chanson	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+avoir la âme en peine	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une ampoule à la main	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir une ampoule au pied	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir une ampoule au talon	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des ampoules à la main	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des ampoules au pied	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des ampoules au talon	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un an de plus que la année dernière	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de belles années devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des années de labeur derrière lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des années de N-hum derrière lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des années de N-hum devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des années de travail devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM ans et toutes ses dents	0+inv+inv+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir l'appartement à payer	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une araignée dans le plafond	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'argent en caisse	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'argent de côté	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'argent devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'argent sur lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'argent plein les poches	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du vif-argent dans les veines	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un atout dans son jeu	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un atout dans sa manche	0++inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des atouts dans son jeu	0++inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des atouts dans sa manche	0++inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir tous les atouts en main	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir en autant à la adresse de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+en {avoir} autant à son service	0+0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+avoir de l'avance à l'allumage	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la bague au doigt	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir douze balles dans la peau	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un bandeau sur les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la barbe au menton	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une barre au creux de l'estomac	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une barre dans la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des bâtons dans les roues	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du baume au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir beaucoup à faire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le bec dans l'eau	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le bérêt sur l'oreille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le beurre et l'argent du beurre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du beurre dans les épinards	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du bien au soleil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir six bières pour le prix d'une	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir bobo au Npc	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir un bobo au Npc	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir bobo à l'oreille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un bobo à l'oreille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un boeuf sur la langue	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la bouche en coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une boule au creux de l'estomac	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une boule dans la gorge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un boulet au pied	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du boulot par dessus la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des bourdonnements dans les oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les bras le long du corps	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les bras à la retourne	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la bride sur le cou	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un but dans la vie	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} que ça à la bouche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} que ça à faire	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir une carte à jouer	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des cartes dans son jeu	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une case en moins	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un casque en plomb	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un centime de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un centime devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un centime sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un centime en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir un cerveau comme une passoire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une cervelle comme une passoire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir du champ par rapport à N	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la chance en amour	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la chance au jeu	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le chapeau sur l'oreille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un chat dans la gorge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir d'autres chats à fouetter	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir chaud au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir chaud aux fesses	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir chaud au Npc	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir chaud aux oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un cheveu sur le caillou	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir un cheveu sur la langue	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les cheveux en coup de vent	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les cheveux au vent	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir chevillé la âme au corps de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les chevilles qui enflent	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas grand chose à faire	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas grand chose à perdre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir autre chose en tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un cigare à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une cigarette à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une cigarette aux lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir cinq sur cinq	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un clope à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une clope à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un clope aux lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une clope aux lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une cochonnerie dans l'oeil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le coeur sur la main	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du coeur au ouvrage	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le coeur au ouvrage	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} le coeur à rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir du coeur au ventre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un coeur d'or sous des dehors hautains	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir un coeur d'or sous des dehors Modif	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un coeur d'or derrière une façade arrogante	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir un coeur d'or derrière une façade Modif	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la colère dans le regard	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la colère dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le compas dans l'oeil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance dans l'avenir	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance en l'avenir	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance dans son étoile	0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance dans sa bonne étoile	0+inv+inv+det-sa+inv+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance en son étoile	0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance en sa bonne étoile	0+inv+inv+det-sa+inv+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance en lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir confiance dans le progrès	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un contrat en poche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une coquetterie dans l'oeil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un cor au pied	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la corde au cou	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir plusieurs cordes à son arc	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les côtes en long	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du coton dans les oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les coudes sur la table	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des couilles au cul	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un coup dans l'aile	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un sérieux coup dans l'aile	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un coup dans les carreaux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un coup au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un coup dans le nez	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un sérieux coup dans le nez	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un coup sur la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un créneau dans son emploi du temps	0+inv+inv+inv+det-son+inv+inv+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un creux au estomac	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le cul entre deux chaises	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un décès dans sa famille	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une décoration à sa boutonnière	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un découvert à la banque	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un découvert en banque	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des démêlés avec la justice	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+en {avoir} deux comme papa	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+avoir le diable au corps	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le diable dans la peau	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} ni Dieu ni maître	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir des difficultés à joindre les deux bouts	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir dix sur dix	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le doigt sur la détente	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le dos au mur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas le droit à l'erreur	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas droit à l'erreur	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir droit aux honneurs de la presse	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le droit pour lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir droit au respect de sa vie privée	0+inv+inv+inv+inv+det-sa+inv+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir l'eau à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'eau jusqu'à la ceinture	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'eau jusqu'à micuisse	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir de l'eau jusqu'à le Npc	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'eau jusqu'à les oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'eau jusqu'à la taille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la énergie à revendre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM enfant à charge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un _NUM enfant en route	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir une épée dans les reins	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une éponge dans le gosier	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de l'esprit jusqu'à le bout des ongles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la éternité à lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la éternité devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir eu un sale coup	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas eu de enfance	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir eu une belle fin	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir eu une triste fin	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir eu une belle mort	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir fait quoi	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir fait son temps	0+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une famille à charge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir une femme à charge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir une femme dans chaque port	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une femme dans sa vie	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir deux fers au feu	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir plusieurs fers au feu	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les fers aux pieds	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les fesses au chaud	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le feu au cul	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le feu au derrière	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le feu aux fesses	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} ni feu ni lieu	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir du feu dans les veines	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un fil à la patte	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM fille et _NUM garçon	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} ni fin ni trève	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir une flamme dans le regard	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une fleur à la boutonnière	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la fleur au fusil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir foi dans l'avenir	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir foi en l'avenir	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir foi en DIEU	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir foi dans son étoile	0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir foi dans sa bonne étoile	0+inv+inv+det-sa+inv+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir foi en son étoile	0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir foi en sa bonne étoile	0+inv+inv+det-sa+inv+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} ni foi ni loi	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir foi dans le progrès	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du foin dans ses bottes	0+inv+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la force dans les bras	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la force dans les doigts	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la force dans les mains	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la force dans les poignets	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des fourmis dans les jambes	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du fric de côté	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de le fric devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de le fric sur lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir froid aux mains	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir froid Loc le Npc	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir froid aux oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir froid aux pieds	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas froid aux yeux	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir _NUM garçon et _NUM fille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un genou en terre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du goût pour la peinture	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un goût amer dans la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la goutte au nez	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM gramme d'alcool dans le sang	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des grenouilles dans le ventre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+en {avoir} gros sur le coeur	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+en {avoir} gros sur la conscience	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+en {avoir} gros sur la patate	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+avoir une guerre de retard	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas une gueule à sucer de la glace	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une gueule à sucer des glaçons	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir de la haine dans le regard	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la haine dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des hauts et des bas	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM heure à sa montre	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un homme dans sa vie	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une idée sur la question	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir une idée derrière la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une idée en tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un instant à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir la insulte à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des intelligences dans la place	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la joie au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de beaux jours devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM kilo de trop	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM kilo en trop	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM kilomètres dans les jambes	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM kilomètres dans les pattes	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir quelques kilos en moins	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un kopeck à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un kopeck devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un kopeck sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir du lait dans les oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir sa langue dans sa poche	0+det-sa+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la larme au oeil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des larmes dans la voix	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les larmes aux yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des larmes dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un liard de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir|mettre;%default
+n' {avoir} pas un liard à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un liard devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un liard sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un liard en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir|mettre;%default
+avoir _NUM lits pour le prix de deux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la loi pour lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas loin à aller	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+en {avoir} lourd sur le coeur	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+en {avoir} lourd sur la conscience	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+en {avoir} lourd sur la patate	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+avoir la main au bonnet	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la main sur le coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la main à la pâte	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une main de fer dans un gant de velours	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les mains dans le cambouis	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les mains derrière le dos	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les mains dans la graisse	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les mains dans la merde	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la maison à payer	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal aux cheveux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal aux dents	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal au estomac	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal au foie	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du mal à joindre les deux bouts	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du mal à se mobiliser	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir mal Loc le Npc	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir mal au Npc	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal aux oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal dans les oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir du mal à parler de N	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du mal à passer	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal aux pieds	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal aux reins	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal à la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir mal aux yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un maravédis de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un maravédis à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un maravédis devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un maravédis sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un maravédis en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir la marche à suivre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le marché en mains	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un mari à charge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir martel en tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une médaille d'argent aux J.O.	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une médaille de bronze aux J.O.	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une médaille d'or aux J.O.	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un mégot à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un mégot aux lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les menottes aux poignets	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la merde dans les oreilles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la merde dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir sa vieille mère à charge	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de circonférence	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de diamètre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de haut	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de hauteur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de large	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de largeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de long	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de longueur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre de tour	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre carré de surface	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM mètre cube de volume	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des mille et des cents	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas une minute à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une minute à perdre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir six mois à vivre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+n' {avoir} pas un moment à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir du monde à déjeuner	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du monde à dîner	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du monde à goûter	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du monde à manger	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du monde à souper	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une moquette sur la langue	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la mort dans la âme	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un mort dans sa famille	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} que un mot à la bouche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir|mettre;%default
+avoir son mot à dire	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le mot aux lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir le mot pour rire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le nez en l'air	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM N-hum pour le prix de _NUM	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM N-hum pour le prix d'un	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM N-hum pour le prix d'un seul	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir _NUM Nmesure de circonférence	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de diamètre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de haut	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de hauteur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de large	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de largeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de long	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de longueur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de surface	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de tour	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de tour de hanches	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de tour de poitrine	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de tour de taille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de trop	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure en trop	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM Nmesure de volume	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un noeud dans la gorge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un nom à particule	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un nom à rallonge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des noms à particule	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des noms à rallonge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+#avoir _NUM Ntps à vivre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir l'oeil à tout	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un oeil qui joue au billard et l'autre qui marque les points	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir n' de ordres à recevoir de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un os à ronger	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} jamais ouvert un livre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir du pain sur la planche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir ses vieux parent à charge	0+det-ses+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+n' {avoir} nulle part où aller	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir une participation croisée dans une entreprise	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir des participations croisées dans une entreprise	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un passage à vide	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un pavé sur l'estomac	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} que la peau et les os	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir de la peine à joindre les deux bouts	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas perdu sa journée	0+0+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas perdu son temps	0+0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir son vieux père à charge	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir _NUM personne à charge	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir peu à faire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir plus de peur que de mal	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir peur des mots	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir peur de son ombre	0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la peur au ventre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du pèze de côté	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du pèze devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du pèze sur lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le pied au étrier	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un pied dans la fosse	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir bon pied bon oeil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un pied dans la place	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un pied dans la tombe	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les deux pieds dans le même sabot	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les deux pieds dans le même soulier	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les pieds sur terre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une pierre dans son jardin	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une pierre à la place du coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir pignon sur rue	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un pincement au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la pipe à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le pistolet au poing	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas de pitié pour les canards boiteux	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+#avoir une place dans le coeur de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une place au soleil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir une place dans la vie de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir une grande place dans la vie de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir une petite place dans la vie de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du plomb dans l'aile	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du plomb dans la cervelle	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du plomb dans la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des poches sous les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un poids sur l'estomac	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un poids de moins sur le coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un poids de moins sur la conscience	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un poil sur le caillou	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir un poil dans la main	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du poil au menton	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un poil de sec	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir un point dans le dos	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une poire pour la soif	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un polichinelle dans le tiroir	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une poussière dans l'oeil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir du prix aux yeux de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la puce à l'oreille	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à ajouter	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le buffet	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le caleçon	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le cerveau	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans la cervelle	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le ciboulot	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le citron	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose sur le coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le coffre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le crâne	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans la culotte	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à déclarer	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à dire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans l'estomac	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à faire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir quelque chose à gagner Loc N	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à mettre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à se mettre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à se mettre sous la dent	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir quelque chose contre le Nmaladie	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir quelque chose pour le Nmaladie	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose à se reprocher	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose contre la toux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose pour la toux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir quelque chose dans le ventre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les questions mais pas les réponses	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la queue entre les jambes	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} ni queue ni tête	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un radis de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir pas un radis à lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir pas un radis devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir pas un radis sur lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un radis en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir la rage au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la rage dans le regard	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la rage au ventre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la rage dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir raison cent fois	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir raison mille fois	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un certain rapport à l'argent	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un regard en coin	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un regard en coulisse	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir le règlement pour lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir réponse à tout	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du retard à l'allumage	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le revolver au poing	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#ne {avoir} plus rien à attendre de N	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien à cacher	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien dans le cerveau	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien dans la cervelle	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien dans le ciboulot	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien dans le citron	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien dans le coco	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+#avoir n' rien à craindre de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} rien dans le crâne	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} plus rien à désirer	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien de extraordinaire	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien à faire	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien de bien malin	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien à mettre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien à se mettre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien de mystérieux	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} plus rien à perdre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien pour rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien de sorcier	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien dans la tête	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} rien dans le ventre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} jamais rien vu	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} ni rime ni raison	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+#avoir un rôle dans la vie de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir un grand rôle dans la vie de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir un rôle à jouer dans la vie de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un rond de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un rond devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un rond sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un rond en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir des ronds de côté	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un rotin de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un rotin à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un rotin devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un rotin sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un rotin en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir plus d'une ruse dans son sac	0+inv+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une saleté dans l'oeil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du sang sur les mains	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du sang bleu dans les veines	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du sang de navet dans les veines	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des sanglots dans la voix	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas une seconde à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une seconde à perdre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} de secret pour personne	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir les seins à l'air	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la situation en main	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la situation en mains	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas un sou de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un sou à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un sou devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un sou sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} ni sou ni maille	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas un sou en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas de souci à se faire	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir|mettre;%default
+avoir un souci en tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un souci de moins à se faire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un souffle au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un sourire en coin	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le sourire au coin des lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un sourire aux lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un sourire idiot aux lèvres	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir suffisamment à faire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la suite dans les idées	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du temps pour ses amis	0+inv+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du temps devant lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas de temps à perdre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir la tête en l'air	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la tête en bas	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir une tête à caler les roues de corbillard	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une tête à claques	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir la tête au creux de l'épaule de Nhum	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la tête hors de l'eau	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir une tête à gifles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} plus sa tête à lui	0+0+inv+det-sa+inv+inv+pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir la tête comme une passoire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas une tête à sucer de la glace	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une tête à sucer des glaçons	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une thune de côté	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une thune à lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une thune devant lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une thune sur lui	0+0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une thune en poche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir un tigre dans son moteur	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir plus d'un tour dans son sac	0+inv+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un tournant dans sa vie	0+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir tout pour lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+#avoir tout de le N	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir tout pour plaire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un train de retard	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un transport au cerveau	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir du travail par dessus la tête	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des trémolos dans la voix	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les tripes à l'air	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir les tripes au soleil	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+n' {avoir} pas une tronche à sucer de la glace	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas une tronche à sucer des glaçons	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir trop à faire	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un trou dans son emploi du temps	0+inv+inv+inv+det-son+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un trou dans le talon	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un trou de _MONTANT dans sa caisse	0+inv+inv+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un trou de _MONTANT dans sa comptabilité	0+inv+inv+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un trou de _MONTANT dans ses comptes	0+inv+inv+inv+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un trou de yens dans sa caisse	0+inv+inv+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un trou de yens dans sa comptabilité	0+inv+inv+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un trou de yens dans ses comptes	0+inv+inv+inv+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du vague à la âme	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir des valises sous les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir de la veine au jeu	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir le vent en poupe	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir du vent dans les voiles	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un verre dans le nez	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir|mettre;%default
+avoir un vide au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir vingt sur vingt	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir un voile devant les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir la voiture à payer	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+avoir voix au chapitre	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+en {avoir} vu assez	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+avoir vu le loup	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default
+en {avoir} vu trop	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,lightverb=avoir;%default
+n' {avoir} plus que les yeux pour pleurer	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+n' {avoir} pas les yeux dans sa poche	0+0+inv+inv+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,lightverb=avoir;%default
+avoir des yeux pour voir	0+	100;Lemma;cf;<Suj:cln|sn>;lightverb=avoir;%default

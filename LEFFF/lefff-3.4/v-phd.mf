@@ -1,0 +1,4 @@
+courbatu	courbaturer	Kms
+courbatue	courbaturer	Kfs
+courbatus	courbaturer	Kmp
+courbatues	courbaturer	Kfp

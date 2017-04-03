@@ -1,0 +1,71 @@
+## Traitement des groupes nomniaux
+
+%start S
+
+S[AGR=?n,SEM=[BO={?b1+?b2},CORE=<?v(?s)>]] -> NP[AGR=?n,SEM=[BO=?b1, CORE=?s]] VP[AGR=?n,SEM=[BO=?b2,CORE=?v]]
+
+NP[AGR=?n,SEM=[BO={?b1+?b2+{bo(?d(?q),@x)}},CORE=<@x>]] -> D[AGR=?n,PHON=?p,SEM=[BO=?b1,CORE=?d]] Nbar[AGR=?n,PHON=?p,SEM=[BO=?b2,CORE=?q]]
+NP[AGR=?n,SEM=?q] -> NPP[AGR=?n,SEM=?q]
+
+Nbar[AGR=?n,PHON=?p,SEM=[BO={?b1+?b2}, CORE=<?a(?m)>]] -> Nbar[AGR=?n,PHON=?p,SEM=[BO=?b1, CORE=?a]] PP[SEM=[BO=?b2, CORE=?m]]
+Nbar[AGR=?n,PHON=?p,SEM=[BO={?b1+?b2}, CORE=<?a(?m)>]] -> Nbar[AGR=?n,PHON=?p,SEM=[BO=?b1, CORE=?a]] RelP[SEM=[BO=?b2, CORE=?m]]
+Nbar[AGR=?n,PHON=?p,SEM=[BO={?b1+?b2}, CORE=<?a(?m)>]] -> Nbar[AGR=?n,PHON=?p] RelP[]
+Nbar[AGR=?n,PHON=?p,SEM=[BO={?b1+?b2}, CORE=<?a(?m)>]] -> Nbar[AGR=?n,PHON=?p] AP[AGR=?n]
+Nbar[AGR=?n,PHON=?p,SEM=[BO={?b1+?b2}, CORE=<?a(?m)>]] -> AP[AGR=?n,PHON=?p] Nbar[AGR=?n]
+Nbar[AGR=?n,PHON=?p,SEM=[BO={?b1+?b2}, CORE=<?a(?m)>]] -> N[AGR=?n,PHON=?p] AP[AGR=?n]
+Nbar[AGR=?n,PHON=?p,SEM=[BO={?b1+?b2}, CORE=<?a(?m)>]] -> AP[AGR=?n,PHON=?p,SEM=[BO=?b1, CORE=?a]] N[AGR=?n,SEM=[BO=?b2, CORE=?m]]
+Nbar[AGR=?n,PHON=?p,SEM=?s] -> N[AGR=?n,PHON=?p,SEM=?s]
+
+PP -> P NP
+
+VP[AGR=?n] -> Vbar[AGR=?n]
+VP[AGR=?n] -> Vbar[AGR=?n] PP[SEM=?q]
+Vbar[AGR=?n] -> V[AGR=?n]
+Vbar[AGR=?n] -> V[AGR=?n] NP
+
+
+NPP[SEM=[BO={bo(\P.P(Jean), @x)}, CORE=<@x>]] -> 'Jean'
+NPP[SEM=[BO={bo(\P.P(Marie), @x)}, CORE=<@x>]] -> 'Marie'
+
+N[AGR=[NUM='sg', GEN='m'],PHON=[DEB=[CONS='-']],SEM=[BO={/},CORE=<instiituteur>]] -> 'instituteur'
+N[AGR=[NUM='pl', GEN='m'],PHON=[DEB=[CONS='-']],SEM=[BO={/},CORE=<instiituteur>]] -> 'instituteurs'
+N[AGR=[NUM='sg', GEN='f'],PHON=[DEB=[CONS='-']],SEM=[BO={/},CORE=<instiituteur>]] -> 'institutrice'
+N[AGR=[NUM='pl', GEN='f'],PHON=[DEB=[CONS='-']],SEM=[BO={/},CORE=<instiituteur>]] -> 'institutrices'
+
+N[AGR=[NUM='sg', GEN='m'],PHON=[DEB=[CONS='+']],SEM=[BO={/},CORE=<chien>]] -> 'chien'
+N[AGR=[NUM='pl', GEN='m'],PHON=[DEB=[CONS='+']],SEM=[BO={/},CORE=<chien>]] -> 'chiens'
+N[AGR=[NUM='sg', GEN='f'],PHON=[DEB=[CONS='+']],SEM=[BO={/},CORE=<chien>]] -> 'chienne'
+N[AGR=[NUM='pl', GEN='f'],PHON=[DEB=[CONS='+']],SEM=[BO={/},CORE=<chien>]] -> 'chiennes'
+
+D[AGR=[NUM='sg', GEN='m'],SEM=[CORE=<\P Q.all x.(P(x) -> Q(x))>]] -> 'tout'
+D[AGR=[NUM='pl', GEN='m'],SEM=[CORE=<\P Q.all x.(P(x) -> Q(x))>]] -> 'tous'
+D[AGR=[NUM='sg', GEN='f'],SEM=[CORE=<\P Q.all x.(P(x) -> Q(x))>]] -> 'toute'
+D[AGR=[NUM='pl', GEN='f'],SEM=[CORE=<\P Q.all x.(P(x) -> Q(x))>]] -> 'toutes'
+
+D[AGR=[NUM='sg', GEN='m'],DEF='-',SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>]] -> 'un'
+D[AGR=[NUM='sg', GEN='f'],DEF='-',SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>]] -> 'une'
+D[AGR=[NUM='pl'],DEF='-',SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>]] -> 'des'
+
+D[AGR=[NUM='sg', GEN='m'],DEF='+',SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>]] -> 'le'
+D[AGR=[NUM='sg'],DEF='+',PHON=[DEB=[CONS='-']],SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>]] -> 'l'
+D[AGR=[NUM='sg', GEN='f'],DEF='+',SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>]] -> 'la'
+D[AGR=[NUM='pl'],DEF='+',SEM=[CORE=<\P Q.exists x.(P(x) & Q(x))>]] -> 'les'
+
+
+A[AGR=[NUM='sg', GEN='m'],PHON=[DEB=[CONS='+']],SEM[BO={/}, CORE=<\Q.(grand(x) & Q(x))>]] -> 'grand'
+A[AGR=[NUM='pl', GEN='m'],PHON=[DEB=[CONS='+']],SEM[BO={/}, CORE=<\Q.(grand(x) & Q(x))>]] -> 'grands'
+A[AGR=[NUM='sg', GEN='f'],PHON=[DEB=[CONS='+']],SEM[BO={/}, CORE=<\Q.(grand(x) & Q(x))>]] -> 'grande'
+A[AGR=[NUM='pl', GEN='f'],PHON=[DEB=[CONS='+']],SEM[BO={/}, CORE=<\Q.(grand(x) & Q(x))>]] -> 'grandes'
+
+V[AGR=[NUM='sg', PERS='3'], TENSE='present', MODE='indicative', SEM=[BO={/}, CORE=<\P x.P(mange(x))>]] -> 'dort'
+V[AGR=[NUM='pl', PERS='3'], TENSE='present', MODE='indicative', SEM=[BO={/}, CORE=<\x.mange(x)>]] -> 'dorment'
+
+V[AGR=[NUM='sg', PERS='3'], TENSE='present', MODE='indicative', SEM=[BO={/}, CORE=<\P x.P(\y.mange(x,y))>]] -> 'mange'
+V[AGR=[NUM='pl', PERS='3'], TENSE='present', MODE='indicative', SEM=[BO={/}, CORE=<\P x.P(\y.mange(x,y))>]] -> 'mangent'
+
+V[AGR=[NUM='sg', PERS='3'], TENSE='present', MODE='indicative', SEM=[BO={/}, CORE=<\P x.P(\y z.donner(x,y,z))>]] -> 'donne'
+V[AGR=[NUM='pl', PERS='3'], TENSE='present', MODE='indicative', SEM=[BO={/}, CORE=<\P x.P(\y z.donner(x,y,z))>]] -> 'donnent'
+
+
+REL[AGR=[CASE='subj'],SEM=[BO=, CORE=<\O B D.(B)\z.(D(z) & O(z))>]] -> 'qui'
+REL[AGR=[CASE='obj'],SEM=[BO=, CORE=<\O B D.(B)\z.(D(z) & O(z))>]] -> 'que'

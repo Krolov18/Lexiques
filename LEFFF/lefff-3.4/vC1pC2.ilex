@@ -1,0 +1,1439 @@
+# table C_c1p2
+# POSTVERB = C1 pC2 / C1 p(C de N)2 ; problème: interdire POSTVERB = de N2.2 C1 p C2.1
+abandonner la proie pour l'ombre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#accorder Poss0 flûtes avec les flûtes	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#accorder Poss0 violon avec le violon	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+aimer mieux cela	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# était "aimer cela mieux"
+aimer mieux ça	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté
+#aligner Poss0 position sur la position	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+aller droit au but	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+aller droit au fait	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+n' {aller} jamais à pareille fête	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+aller vite en besogne	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+aller plus vite que la musique	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+aller plus vite que les violons	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#allumer un brasier dans le coeur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+allumer une flamme de colère dans le regard	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une flamme de colère dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une flamme de haine dans le regard	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une flamme de haine dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une flamme de rage dans le regard	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une flamme de rage dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une lueur de colère dans le regard	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une lueur de colère dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une lueur de haine dans le regard	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une lueur de haine dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une lueur de rage dans le regard	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+allumer une lueur de rage dans les yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#amener un sourire sur les lèvres	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#amener un sourire sur le visage	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+amener le beau temps	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+amener le beau temps avec lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+amener le mauvais temps	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+amener le mauvais temps avec lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#ancrer une idée dans le cerveau	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ancrer une idée dans la cervelle	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ancrer une idée dans le ciboulot	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ancrer une idée dans le crâne	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ancrer une idée dans le esprit	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ancrer une idée dans la tête	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+appeler un chat un chat	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#appeler les choses par Poss1 nom	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#apporter de la eau au moulin	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#apporter Poss0 pierre à un édifice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#arborer une décoration à la boutonnière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+s' {arracher} les veines avec les dents	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#arroser la terre de Poss0 sang	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#arroser Poss0 visage de larmes	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#arroser Poss0 visage de pleurs	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+assassiner père et mère	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#attacher une casserole à la queue	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#attacher un chien avec des saucisses	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#attaquer le mal à la racine	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#attaquer le mal par la racine	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+n' {attendre} plus rien de la vie	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#attirer les foudres à Lui-0	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+attraper la balle au bond	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#attraper la balle au vol	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#attraper la chance au vol	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+attraper la lune avec Poss0 dents	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#attraper la occasion aux cheveux	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#attraper la occasion au vol	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+attraper le taureau par les cornes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+augurer bien de la suite	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+augurer favorablement de la suite	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+augurer mal de la suite	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+avaler la mer et les poissons	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#avancer un pion	# ajouté car la seconde partie de l'evf suivante est facultative
+#avancer un pion sur le échiquier	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+avoir entendu ça déjà	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+avoir fait du cheval sur un tonneau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+n' {avoir} jamais ouvert un livre 	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# "jamais" était après "un livre"!!
+#n' {avoir} vu rien encore	0+0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+n' {avoir} encore rien vu	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# remplace le précédent, que je trouve bizarre
+#baigner la terre de Poss0 sang	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#baigner le visage de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#baigner le visage de pleurs	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+balancer son poing dans la figure	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+balancer son poing dans la gueule	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#bâtir des châteaux en Espagne	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#battre le fer quand il est chaud	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#battre le fer tant que il est chaud	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#battre des oeufs	# ajouté car la seconde partie de l'evf suivante est facultative
+#battre des oeufs en neige	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#boire une bouteille	# ajouté car la seconde partie de l'evf suivante est facultative
+boire en l'honneur	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#boire une bouteille en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#boire le calice jusqu'à la lie	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+boire la mer et les poissons	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#brasser del' argent	# ajouté car la seconde partie de l'evf suivante est facultative
+#brasser del' argent à la pelle	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#brasser des millions	# ajouté car la seconde partie de l'evf suivante est facultative
+#brasser des millions à la pelle	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+brûler la chandelle par les deux bouts	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#calculer Poss0 coup Advm	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#caler Poss0 yeux avec des bouts d'allumettes	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#camper un personnage	# ajouté car la seconde partie de l'evf suivante est facultative
+#camper un personnage à la intention	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+casser du sucre sur le dos	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+ne {casser} pas trois pattes à un canard	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+changer un cheval borgne contre un aveugle	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+changer son fusil de épaule	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+changer le poisson d'eau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#changer quelque chose	# ajouté car la seconde partie de l'evf suivante est facultative
+#changer quelque chose à la affaire	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+chanter la Marseillaise en Breton	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#chasser les marchands du temple	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#chasser une pensée du esprit	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+chercher une aiguille dans une botte de foin	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+chercher une aiguille dans une meule de foin	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+chercher midi à quatorze heures	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+chercher des poux dans la tête	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+chercher son salut dans la fuite	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#cheviller la âme au corps	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+choisir entre deux maux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+choisir le moindre entre deux maux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#circonscrire un cercle à un triangle	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#claquer la porte au nez	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+se {cogner} la tête contre les murs	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#coller la langue au palais	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+coller son poing dans la figure	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+combattre le mal par le mal	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#commettre un avocat	# ajouté car la seconde partie de l'evf suivante est facultative
+#commettre un avocat de office	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {comprendre} rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {comprendre} rien à rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+compter une mesure pour rien	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#concilier un point de vue avec un point de vue	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#concilier certaines vues avec d'autres vues	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 affaires Advm	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 affaires bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 affaires seul	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 barque Advm	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 barque bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 barque seul	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 existence Advm	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 existence bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 existence seul	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 vie Advm	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 vie bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#conduire Poss0 vie seul	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#connaître le air mais pas la chanson	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+connaître le fond	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default	# ajouté
+connaître le fond et le tréfond	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#connaître une histoire	# ajouté car la seconde partie de l'evf suivante est facultative
+#connaître une histoire dans les coins	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {connaître} rien à rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#connaître tout et le reste	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {connaître} ni dieu ni diable	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#conserver le souvenir intact dans Poss-mémoire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#conserver le souvenir dans Poss0 mémoire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#conserver le souvenir vivant dans Poss-mémoire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+conserver la tête froide	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#contempler les choses en face	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+contempler la mort en face	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#convoquer le ban et l'arrière ban	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#coter une action en bourse	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+couper les cheveux en quatre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#couper la herbe sous le pied	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#couper la poire en deux	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#couper du vin avec de la eau	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#courir deux lièvres à la fois	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+courtiser la blonde et la brune	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+coûter trois fois rien	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+coûter zéro franc	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+coûter zéro franc zéro centime	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+coûter des mille et des cents	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+coûter moins que rien	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+coûter _NUM francs _NUM sous	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté pour "3 francs 6 sous"
+coûter la peau des fesses	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté
+coûter la peau du cul	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté
+ne {coûter} pas un sou	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {coûter} pas un sou pas un centime	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#couvrir un mur de affiches	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {craindre} ni dieu ni diable	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+creuser sa tombe	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+creuser sa tombe avec ses dents	0+det-sa+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#crever un cheval	# ajouté car la seconde partie de l'evf suivante est facultative
+#crever un cheval sous Lui-0	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+crever la gueule ouverte	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+crier famine sur un tas de blé	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+crier haro sur le baudet	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {croire} tout permis	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#cuire un oeuf à la coque	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#cuire un oeuf dur	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#cuire une pomme de terre en robe de chambre	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#cuire une pomme de terre en robe des champs	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#débarrasser les lieux	# ajouté car la seconde partie de l'evf suivante est facultative
+#débarrasser de Poss0 présence	@evf_intransitive	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#débarrasser les lieux de Poss0 présence	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#débarrasser le plancher	# ajouté car la seconde partie de l'evf suivante est facultative
+#débarrasser de Poss0 présence	@evf_intransitive	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#débarrasser le plancher de Poss0 présence	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#déboucher une bouteille	# ajouté car la seconde partie de l'evf suivante est facultative
+#déboucher une bouteille en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#déclarer un poste vacant	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#décomposer un nombre en facteurs premiers	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+défendre sa peau	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+défendre sa peau chèrement	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+défendre chèrement sa peau	0+inv+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+défendre la veuve et l'orphelin	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+dégager en touche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+dégager la balle en touche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+dégager le ballon en touche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+dégueuler tripes et boyaux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {demander} rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {demander} rien à personne	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#dépenser Poss0 salive	# ajouté car la seconde partie de l'evf suivante est facultative
+#dépenser Poss0 salive en pure perte	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#dépenser Poss0 salive	# ajouté car la seconde partie de l'evf suivante est facultative
+#dépenser Poss0 salive pour rien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#déposer un baiser sur le front	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#déposer Poss0 flamme aux pieds	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#déposer Poss0 hommages aux pieds	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#déposer un titre dans une banque	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#déposer un titre auprès de une banque	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#déshabiller Pierre pour habiller Paul	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#désigner une cible	# ajouté car la seconde partie de l'evf suivante est facultative
+#désigner une cible aux coups	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+ne {devoir} rien à personne	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#ne devoir que Poss0 salut à la fuite	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+différer deux à deux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+dire ça pour rire	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+dire cela pour rire	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+dire quoi au juste ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {dire} ni oui ni non	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+discerner le vrai du faux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+distinguer le vrai du faux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+donner son âme au diable	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#donner un bal	# ajouté car la seconde partie de l'evf suivante est facultative
+#donner un bal en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#donner de la confiture aux cochons	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+donner les cornes à son mari	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#donner Poss0 corps à la science	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#donner un coup de canif dans le contrat	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#donner un coup de pied dans une fourmilière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+donner un coup de poing sur la table	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+donner un coup d'épée dans la eau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#donner un déjeuner	# ajouté car la seconde partie de l'evf suivante est facultative
+#donner un déjeuner en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#donner un dîner	# ajouté car la seconde partie de l'evf suivante est facultative
+#donner un dîner en l'honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#donner une fête	# ajouté car la seconde partie de l'evf suivante est facultative
+#donner une fête en l'honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+donner sa langue au chat	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#donner la parole à la accusation	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#donner la parole à la défense	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {donner} sa part aux chiens	0+0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#donner une réception	# ajouté car la seconde partie de l'evf suivante est facultative
+#donner une réception en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#donner ce que Il-0 reprend de l'autre de une main	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {donner} rien pour rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#donner un souper	# ajouté car la seconde partie de l'evf suivante est facultative
+#donner un souper en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+donner une tape dans le dos	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+donner dans le panneau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+donner tête baissée dans le panneau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#donner un tour de clé à la serrure	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne se {donner} pas des coups de pied dans les chevilles	0+0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#dresser les cheveux sur la tête	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+durer moins que les impôts	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+échanger un cheval borgne contre un aveugle	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#n' échangerait pas Poss0 baril contre deux barils	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#éclairer le visage de une certaine joie	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#éclairer le visage de un certain sourire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#effacer un souvenir	# ajouté car la seconde partie de l'evf suivante est facultative
+#effacer un souvenir de la mémoire	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#élever un monument à la mémoire	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#élever une statue à la gloire	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#embuer le regard de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#embuer les yeux	# ajouté car la seconde partie de l'evf suivante est facultative
+#embuer les yeux de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#employer le fer et le feu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+emporter son secret dans la tombe	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+enfermer le loup dans la bergerie	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#enfoncer un couteau dans le coeur	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#enfoncer la tête dans les épaules	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#enfoncer les yeux dans les orbites	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#enfouir Poss0 haine dans Poss0 coeur	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#enfouir Poss0 tête dans Poss0 mains	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#enfouir Poss0 visage dans Poss0 mains	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#enfumer le renard dans Poss1 tanière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#engager une action en fustice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+enlever son cheval	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+enlever son cheval au galop	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#enlever une épine du pied	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+enlever le pain de la bouche	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#enlever un poids	# ajouté car la seconde partie de l'evf suivante est facultative
+#enlever un poids de la conscience	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#enlever un poids	# ajouté car la seconde partie de l'evf suivante est facultative
+#enlever un poids du estomac	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#entamer une action	# ajouté car la seconde partie de l'evf suivante est facultative
+#entamer une action en justice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#entendre la voix dans le concert des Nations	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+n' {entendre} ni rime ni raison	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+entrer vivant dans la légende	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#envisager le avenir avec optimisme	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#envisager le avenir avec pessimisme	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+envoyer son poing dans la figure	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#estomper un souvenir	# ajouté car la seconde partie de l'evf suivante est facultative
+#estomper un souvenir de la mémoire	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+être bon chic bon genre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+être _NUM heures au téléphone	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+être le premier levé	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+être le premier levé et le dernier couché	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+être la première levée	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+être la première levée et la dernière couchée	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+être du pareil au même	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+n' {être} un secret pour personne	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#éveiller un souvenir	# ajouté car la seconde partie de l'evf suivante est facultative
+#éveiller un souvenir dans la mémoire	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#exercer Poss0 talents ailleurs	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+expédier Poss0 poing dans la figure	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#exposer les jours à un danger	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#exposer la vie à un danger	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#faire appel	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire appel de la décision	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire appel à maxima	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire appel à minima	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un appel au peuple	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire appel à la raison	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+faire argent de tout	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire armes de tout	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire autorité	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire autorité en la matière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire bande à part	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire son âge	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+faire bien Poss0 âge	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire ses _NUM ans	0+det-ses+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+faire bien ses _NUM ans	0+inv+det-ses+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire bien	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire bien dans le décor	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire bien dans le paysage	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire bien dans le tableau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire bip	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire bip bip	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire une blessure au coeur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#faire un bond	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire un bond en avant	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire bourse à part	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire du bruit	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire du bruit dans Landernau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire plus de bruit que de mal	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire un bruit à réveiller un mort	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire caca	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire dans sa culotte	0+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+faire caca dans sa culotte	0+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire la chasse aux mouches	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire des châteaux en Espagne	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire chaud au coeur	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire le chemin seul	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire son chemin dans la vie	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire bon chic bon genre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire les choses bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire les choses en grand	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire les choses grandement	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire les choses largement	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {faire} les choses à moitié	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#ne faire les choses à moitié	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire cocu bon genre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire bon coeur contre mauvaise fortune	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire contre mauvaise fortune bon coeur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté
+#faire coin coin	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire contresens	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire contresens après contresens	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire contresens sur contresens	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire un coup	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire un coup au coeur	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire coup double	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire Poss0 coup en douce	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire deux coups de une pierre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire cui cui	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire cul sec	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire date	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire date dans les annales	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire le diable à quatre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire un dîner	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire un dîner en ville	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire ding	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire ding dong	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire _NUM	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative BIZARRE
+faire du _NUM	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire du _NUM d'épaules	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire du _NUM de largeur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire du _NUM de long	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire du _NUM de longueur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire _NUM de longueur de manche	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire du _NUM de longueur de manche	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire _NUM de tour de cou	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire du _NUM de tour de cou	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire _NUM de tour de Npc	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire du _NUM de tour de Npc	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire _NUM de tour de poitrine	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire du _NUM de tour de poitrine	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#faire du _NUM km/h	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire du _NUM km/h en pointe	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire eau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire eau de partout	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire eau de toutes parts	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire un effort sur Lui-0-même	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire un éléphant de une mouche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire un enfant dans le dos	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire une entorse au règlement	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire Poss0 entrée dans le monde	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire erreur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire erreur après erreur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire erreur sur erreur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire une escale au bar	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire exception à la règle	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire une exception à la règle	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire une exception	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire une exception au règlement	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire face à une dépense	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire face	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire face à ses engagements	0+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire face à toute éventualité	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire faute après faute	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire faute sur faute	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire feu de tout bois	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire feu de les quatre fers	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire flèche de tout bois	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire flic flac	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire flic floc	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire froid dans le dos	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+faire gaffe	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire gaffe après gaffe	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire gaffe sur gaffe	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire un geste	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire un geste en faveur	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+faire plus grand que son âge	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire la grève sur le tas	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire hi han	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire hi hi	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire ho hisse	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire ho ho	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire honneur à det-ses obligations	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire honneur au repas	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire honneur à Poss0 signature	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire plus jeune que son âge	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {faire} jour	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {faire} jour dans le esprit	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;@pron,synt_head=$0;%default
+faire sa lessive à la main	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire machine arrière	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire plus de mal que de bien	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {faire} de mal	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {faire} de mal à une mouche	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+faire maladresse	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire maladresse après maladresse	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire maladresse sur maladresse	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire marche arrière	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire _NUM mètres	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire _NUM mètres de circonférence	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire _NUM mètres de tour	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire miam miam	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {faire} mine de rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+faire moche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire moche dans le paysage	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire moche dans le tableau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire le mort	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire le mort au bridge	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire mouche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire mouche à tout coup	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire naufrage au port	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire du neuf avec du vieux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire _MESURE Nmesure	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire _MESURE de circonférence	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire _MESURE	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire _MESURE de tour	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire un noeud à son mouchoir	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {faire} des noeuds	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {faire} des noeuds dans les jambes	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#faire un oeuf à la coque	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire oeuvre de ses _NUM doigts	0+inv+inv+det-ses+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# _NUM = 10
+faire oeuvre utile	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire outrage à la raison	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire outrage au bon sens	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un pacte avec le diable	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un parcours sans faute	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire un pas en arrière	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire un pas en avant	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire dans une direction	@evf_intransitive	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#faire un pas dans une direction	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un pas en direction	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+faire peau neuve	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire peine à regarder	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire peine à voir	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire un pet de travers	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire plus petit que son âge	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire plus de peur que de mal	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire les pieds au mur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire pin pon	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire pipi dans sa culotte	0+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire pipi	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire au lit	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+faire pipi au lit	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire place nette	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {faire} une place au soleil	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+faire plaisir à entendre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire plaisir	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire plaisir à regarder	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire plaisir à voir	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire des pleins et des déliés	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire du porte à porte	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire pouet pouet	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire profit de tout	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire des progrès au envers	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire des provisions	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire des provisions pour le hiver	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire quelque chose	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+faire quelque chose demain ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire quelque chose hier ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire quelque chose _DATE ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire quelque chose ce soir ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire quelque chose dans la vie	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire les questions	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire les questions et les réponses	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire un quitte ou double	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire quoi de beau ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire quoi dans cette galère ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire quoi là ?	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire un retour en arrière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un retour sur Lui-0-même	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {faire} rien à la affaire	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#ne faire rien à demi	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {faire} rien de ses _NUM doigts	0+0+inv+inv+det-ses+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# _NUM = 10
+faire des ronds dans la eau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire une rose de un artichaud	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire le sacrifice de Poss-vie	# ajouté car la seconde partie de l'evf suivante est facultative
+#faire le sacrifice de Poss-vie à la patrie	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire salle comble	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire un saut de côté	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un saut dans le inconnu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un séjour en asile psychiatrique	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire un séjour en hôpital psychiatrique	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {faire} semblant de rien	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+faire tagada tagada	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire teuf teuf	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire tic tac	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire le tour vite	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+faire _NUM tours	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+en {faire} trop ou pas assez	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,synt_head=$0;%default
+#faire tut tut	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire usage de Poss0 armes	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+faire vertu de nécessité	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#faire le vide autour de Lui-0	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire le vide dans Poss0 esprit	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#faire la vie désagréable	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#faire la vie difficile	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#faire la vie impossible	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+faire plus vieux que son âge	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire volte face	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire des yeux comme des soucoupes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire du _NUM à la heure	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+faire du _NUM de tour	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+ne {faire} ni une ni deux	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#fermer Poss0 coeur	# ajouté car la seconde partie de l'evf suivante est facultative
+#fermer Poss0 coeur à la pitié	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+ne {fermer} le oeil	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {fermer} le oeil de la nuit	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+fermer une porte	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+fermer une porte à clé	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+fermer une porte à clef	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#fermer la porte au nez	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+fermer une route	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+fermer une route à la circulation	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+fermer les yeux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+fermer les yeux définitivement	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {fiche} le doigt dans le oeil	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+se {fiche} la gueule par terre	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+fiche son poing dans la figure	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#fiche tout par terre	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#fiche Poss2c quatre vérités à la figure	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#figer le sang dans les veines	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#figer le sourire	# ajouté car la seconde partie de l'evf suivante est facultative
+#figer le sourire sur les lèvres	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+finir sur l'échafaud	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#finir Poss0 existence sur le échafaud	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+finir à l'hospice	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#finir Poss0 existence au hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+finir dans un hospice	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#finir Poss0 existence dans un hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+finir sur l'humide paille des cachots	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#finir Poss0 existence sur l'humide paille des cachots	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+finir en prison	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#finir Poss0 existence en prison	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#finir Poss0 vie sur le échafaud	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#finir Poss0 vie au hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#finir Poss0 vie dans un hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#finir Poss0 vie sur l'humide paille des cachots	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#finir Poss0 vie en prison	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#fixer une idée sur le papier	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+se {flanquer} la gueule par terre	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+flanquer son poing dans la figure	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#flanquer Poss2c quatre vérités à la figure	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+foncer droit devant lui	0+inv+inv+pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#fondre des idées dans un creuset	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+forer un trou dans la eau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+fournir une réponse à une demande	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {fourrer} le doigt dans le oeil	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+se {foutre} le doigt dans le oeil	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+se {foutre} la gueule par terre	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+foutre son pied au cul	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+foutre son poing dans la figure	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#foutre tout par terre	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#gagner le bifteck	# ajouté car la seconde partie de l'evf suivante est facultative
+#gagner le bifteck à la sueur de Poss-front	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#gagner la croûte	# ajouté car la seconde partie de l'evf suivante est facultative
+#gagner la croûte à la sueur de Poss-front	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+gagner des mille et des cents	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#gagner le pain	# ajouté car la seconde partie de l'evf suivante est facultative
+#gagner le pain à la sueur de Poss-front	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#gagner la vie	# ajouté car la seconde partie de l'evf suivante est facultative
+#gagner la vie à la sueur de Poss-front	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+garder bouche cousue	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#garder Poss0 ceinture	# ajouté car la seconde partie de l'evf suivante est facultative
+#garder Poss0 ceinture attachée	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#garder le souvenir intact dans Poss-mémoire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#garder le souvenir dans Poss0 mémoire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#garder le souvenir vivant dans Poss-mémoire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#garder la tête hors de la eau	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+garder la tête froide	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#glacer le sang dans les veines	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#glisser Poss0 bras sous le bras	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#gonfler les paupières de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#gonfler les paupières de sommeil	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#gonfler les yeux de fatigue	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#gonfler les yeux de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#gonfler les yeux de sommeil	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#graver une image dans la mémoire	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#graver un souvenir dans le coeur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#guérir le mal par le mal	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#illuminer le visage de une certaine joie	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#illuminer le visage de un certain sourire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#imposer une idée au esprit	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#injecter les yeux de sang	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#inscrire un cercle dans un triangle	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#installer un doute dans le esprit	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#interrompre une grossesse	# ajouté car la seconde partie de l'evf suivante est facultative
+#interrompre une grossesse volontairement	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#introduire une action	# ajouté car la seconde partie de l'evf suivante est facultative
+#introduire une action en justice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#introduire une action devant un tribunal	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#introduire une action auprès de un tribunal	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#introduire un doute dans le esprit	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#introduire une instance	# ajouté car la seconde partie de l'evf suivante est facultative
+#introduire une instance devant les tribunaux	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#introduire une instance	# ajouté car la seconde partie de l'evf suivante est facultative
+#introduire une instance auprès de les tribunaux	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#introduire le loup dans la bergerie	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+s'en {jeter} un 	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,@pseudo-en,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+s'en {jeter} un derrière la cravate	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,@pseudo-en,synt_head=$0;%default
+jeter du argent	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+jeter du argent par les fenêtres	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#jeter le bébé avec la eau du bain	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+jeter son bonnet par dessus les moulins	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+jeter les bras en le air	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+jeter les bras au ciel	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+jeter les bras autour du cou	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#jeter le désarroi dans le esprit	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+jeter feu et flamme	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#jeter Poss0 forces dans la bataille	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+jeter son froc aux orties	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#jeter de la huile sur le feu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#jeter une idée sur le papier	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+jeter le manche après la cognée	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+jeter des paroles en le air	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#jeter des perles aux pourceaux	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+jeter Poss0 poids dans la balance	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+jeter de la poudre aux yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#jeter la tête en arrière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+jeter le trouble	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+jeter le trouble dans le esprit	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+joindre le geste à la parole	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+joindre la insulte à la injure	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+joindre le utile au agréable	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+jouer cartes sur table	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+jouer le tout pour le tout	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+lâcher la proie pour la ombre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#lâcher tout dans Poss0 froc	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+laisser son amour-propre au vestiaire	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#laisser la bride sur le cou	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+laisser des dettes derrière lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laisser des enfants derrière lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laisser un goût amer	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+laisser un goût amer dans la bouche	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+laisser ce monde	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+laisser ce monde pour un autre monde	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laisser ce monde pour un monde meilleur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#laisser un nom	# ajouté car la seconde partie de l'evf suivante est facultative
+#laisser un nom dans la histoire	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+laisser la place aux jeunes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laisser place nette	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laisser la proie pour la ombre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laisser des regrets derrière lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laisser des regrets autour de lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#ne laisser rien au hasard	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+laisser la vie	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+#laisser la vie sauve	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+ne {laisser} pas pierre sur pierre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#lancer une idée	# ajouté car la seconde partie de l'evf suivante est facultative
+#lancer une idée en le air	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+lancer des paroles en le air	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+lancer un pavé dans la mare	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+laver son linge sale en famille	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+lever les bras	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+lever les bras au ciel	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+lever les bras vers le ciel	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+lever le pied	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+lever le pied du accélérateur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#lever Poss0 verre	# ajouté car la seconde partie de l'evf suivante est facultative
+#lever Poss0 verre à la santé	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#lever les yeux au ciel	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#lever les yeux vers le ciel	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#lier Poss0 avenir au avenir	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#lier Poss0 destin au destin	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#lier Poss0 destinée à la destinée	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#lier Poss0 sort au sort	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#lire la colère sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la colère sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la colère dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la cruauté sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la cruauté sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la cruauté dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la effroi sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la effroi syr le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la effroi dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la horreur sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la horreur sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la horreur dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la joie sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la joie sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la joie dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la méchanceté sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la méchanceté sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la méchanceté dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la peur sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la peur sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la peur dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la rage sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la rage sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la rage dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la terreur sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la terreur sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la terreur dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la tristesse sur les traits	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la tristesse sur le visage	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#lire la tristesse dans les yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter
+#loger _NUM balles dans la tête	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#maintenir la tête hors de la eau	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#manger Poss0 blé en herbe	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+manger le caviar à la louche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#manger la laine sur le dos	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+manger les pissenlits par la racine	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+manger la soupe sur la tête	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+manger les spaghettis par la racine	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mangerait le diable et ses cornes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#manier la gaffe Advm	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#manier la gaffe allègrement	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#manier la plume Advm	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#manier la plume joliment	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#marquer un point	# ajouté car la seconde partie de l'evf suivante est facultative
+#marquer un point sur le adversaire	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#masser des troupes	# ajouté car la seconde partie de l'evf suivante est facultative
+#masser des troupes à une frontière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mélanger les choses	# ajouté car la seconde partie de l'evf suivante est facultative
+#mélanger les choses dans Poss0 tête	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mélanger les torchons avec les serviettes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mélanger les torchons et les serviettes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté
+#mélanger tout	# ajouté car la seconde partie de l'evf suivante est facultative
+#mélanger tout dans Poss0 tête	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mêler les choses	# ajouté car la seconde partie de l'evf suivante est facultative
+#mêler les choses dans Poss0 tête	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mêler tout	# ajouté car la seconde partie de l'evf suivante est facultative
+#mêler tout dans Poss0 tête	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mêler Poss0 voix à la voix	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ménager la chèvre et le chou	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mener Poss0 affaires Advm	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mener Poss0 barque Advm	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mener une campagne en faveur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+mener la vie à grandes guides	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre Poss0 amour-propre au vestiaire	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre les armes bas	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre _NUM balles dans la tête	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+mettre des bâtons dans les roues	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#mettre du baume dans la âme	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+mettre du baume au coeur	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre du beurre dans les épinards	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre les bouchées doubles	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre une bouteille au cancer	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre des bouts d'allumettes sous les yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#mettre les bras en croix	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre un bulletin dans la urne	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre le cap au est	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre le cap au nord	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre le cap au ouest	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre le cap au sud	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre cartes sur tables	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre toutes les chances de Poss0 côté	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#mettre la charrue avant les boeufs	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre la charrue devant les boeufs	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre les choses au mieux	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre les choses au pire	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre la clé sous le paillasson	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre la clé sous la porte	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {mettre} la corde au cou	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;@pron,synt_head=$0;%default
+#mettre la corde au cou	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#mettre un coup au but	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre la crosse en le air	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre de la distance entre Lui-0 et N	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre le doigt sur la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {mettre} le doigt dans le oeil	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+mettre le doigt sur la plaie	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre de la eau dans le vin	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre son épée dans les reins	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#mettre Poss0 épée au service	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#mettre du espace entre Lui-0 et N	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre le feu aux poudres	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre fin à son existence	0+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre fin à ses jours	0+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre fin à sa vie	0+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre flamberge au vent	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre un genou en terre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre de l'huile dans les rouages	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#mettre une idée sur le papier	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre le lit en portefeuille	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+mettre la main à la bouche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre la main sur le coeur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre la main au collet	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre la main au ouvrage	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre la main sur le paletot	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre la main au panier	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre la main à la pâte	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre la main à la plume	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre la main à la poche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre les mains en le air	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre ses mains dans la merde	0+det-ses+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre un marché entre les mains	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#mettre un marché dans les mains	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+mettre martel en tête	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+se {mettre} martel en tête	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;@pron,synt_head=$0;%default	# ajouté
+mettre le masque bas	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre bas les masques	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté
+#mettre Poss0 menace à exécution	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre le nez dans Poss0 caca	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+mettre le nez dehors	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre le nez à la fenêtre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre le nez dans Poss0 merde	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+se {mettre} du noir	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {mettre} du noir aux yeux	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#mettre un nom sur le visage	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#mettre Poss0 oeufs dans le même panier	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre du ordre dans Poss0 affaires	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#mettre du ordre dans Poss0 idées	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+mettre son orgueil dans sa poche	0+det-son+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre Pâques avant Rameaux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre le pied dans ce que tu penses	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre le pied dans ce que vous pensez	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre le pied sur un sol	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre pied à terre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre le pied sur une terre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre les pieds dans le plat	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre Poss0 plan à exécution	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre les petits plats dans les grands	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+mettre son poing dans la figure	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre les poings sur les hanches	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre les points sur les i	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#mettre un principe en application	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre Poss0 projet à exécution	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre Poss0 quelque chose sur le dos	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+mettre sa queue sur la table	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#mettre le réveil	# ajouté car la seconde partie de l'evf suivante est facultative
+#mettre le réveil à _NUM heure	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+se {mettre} du rouge	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {mettre} du rouge aux lèvres	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+mettre sabre au clair	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+mettre un sac sur la tête	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+mettre du sel sur la queue	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#mettre la tête au carré	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#mettre la tête à prix	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#mettre la tête sous le robinet	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#mettre la tête sous le robinet d'eau froide	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#mettre une théorie en application	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre un tigre dans Poss0 moteur	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mettre les tripes au soleil	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+mettre toutes voiles dehors	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#monter des oeufs en neige	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#mouiller le regard	# ajouté car la seconde partie de l'evf suivante est facultative
+#mouiller le regard de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#mouiller les yeux	# ajouté car la seconde partie de l'evf suivante est facultative
+#mouiller les yeux de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#multiplier une matrice par une matrice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#multiplier un nombre par un nombre	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#nommer les choses par leur nom	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#nourrir de la estime au égard de	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#nourrir de la haine au égard de	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#nourrir de la rancune au égard de	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#nourrir du respect au égard de	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#nourrir un serpent dans Poss0 sein	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#nourrir une vipère en Poss0 sein	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+noyer une révolte	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+noyer une révolte dans un bain de sang	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#noyer une révolte dans le sang	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#noyer les yeux	# ajouté car la seconde partie de l'evf suivante est facultative
+#noyer les yeux de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#noyer les yeux	# ajouté car la seconde partie de l'evf suivante est facultative
+#noyer les yeux de pleurs	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#offrir un déjeuner	# ajouté car la seconde partie de l'evf suivante est facultative
+#offrir un déjeuner en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#offrir un dîner	# ajouté car la seconde partie de l'evf suivante est facultative
+#offrir un dîner en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#offrir une réception	# ajouté car la seconde partie de l'evf suivante est facultative
+#offrir une réception en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#offrir un souper	# ajouté car la seconde partie de l'evf suivante est facultative
+#offrir un souper en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#opposer la force à la force	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#opposer un refus à une demande	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#opposer la violence à la violence	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#orienter le vecteur vitesse vers la sortie	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ôter une épine du pied	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ôter le pain de la bouche	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ôter un poids	# ajouté car la seconde partie de l'evf suivante est facultative
+#ôter un poids de la conscience	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ôter un poids	# ajouté car la seconde partie de l'evf suivante est facultative
+#ôter un poids du estomac	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ouvrir la bouche	# ajouté car la seconde partie de l'evf suivante est facultative
+#ouvrir la bouche toute grande	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#ouvrir une bouteille	# ajouté car la seconde partie de l'evf suivante est facultative
+#ouvrir une bouteille en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ouvrir une fenêtre	# ajouté car la seconde partie de l'evf suivante est facultative
+#ouvrir une fenêtre grande	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#ouvrir une information contre X	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ouvrir le oeil	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ouvrir le oeil et le bon	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#ouvrir une porte aux abus	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#ouvrir la porte à un compromis	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#ouvrir une porte	# ajouté car la seconde partie de l'evf suivante est facultative
+#ouvrir une porte grande	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ouvrir des yeux comme des soucoupes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+parler la bouche pleine	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+parler le français comme un basque espagnol	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+parler français comme une vache espagnole	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+parler haut	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+parler haut et fort	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+partir les pieds devant	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#passer le anneau au doigt	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+passer la arme à gauche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+passer la bague au doigt	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#passer Poss0 bras sous le bras	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+passer la corde au cou	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#passer Poss0 doigts dans la chevelure	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#passer Poss0 doigts dans les cheveux	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#passer de la eau sur le visage	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#passer un film	# ajouté car la seconde partie de l'evf suivante est facultative
+#passer un film en exclusivité	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+passer un hiver au balcon	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+passer inaperçu	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+passer inaperçu aux yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#passer Poss0 main dans la chevelure	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#passer Poss0 main dans les cheveux	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+passer la main dans le dos	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#passer les mains à la eau	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+passer maître dans le art	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sinf>;synt_head=$0;%default	# dans l'art de V W
+#passer la nuit au poste	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#passer Poss0 vie derrière un comptoir	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#passer Poss0 vie à ne faire rien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+payer sa dette	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+#payer Poss0 dette à la société	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#payer le tribut à la nature	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+perdre du poil de la bête	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {perdre} rien pour attendre	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+peser lourd	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+peser lourd dans la balance	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#peser le pour et le contre de N-hum	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {peser} pas lourd	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {peser} pas lourd en face	0+0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;clneg =c +,synt_head=$0;%default
+#péter plus haut que Il-0 avoir le trou	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+péter plus haut que son cul	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+péter plus haut que le trou	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#placer un nom sur le visage	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+placer le pied sur un sol	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+placer le pied sur une terre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+planter un baiser sur le front	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+planter un baiser sur la joue	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#planter un baiser sur les lèvres	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#planter un chapeau sur la tête	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#planter un couteau dans le dos	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+planter son regard dans les yeux	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+planter son yeux dans les yeux	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#plonger Poss0 poignard dans le coeur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+porter une affaire devant un tribunal	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+porter bien son âge	0+inv+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+porter bien ses _NUM ans	0+inv+det-ses+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+porter bien son nom	0+inv+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#porter un corps en terre	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter la culotte	# ajouté car la seconde partie de l'evf suivante est facultative
+#porter la culotte dans le ménage	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter un débat sur la place publique	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter les doigts à la bouche	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#porter les doigts aux lèvres	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#porter de la eau à la mer	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter de la eau à la rivière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter le germe de N-hum en Lui-0	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#porter un litige au fond	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+porter la main à son chapeau	0+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#porter la main aux lèvres	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#porter le nombre des N à _NUM	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter plainte en diffamation	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter plainte contre X	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#porter la tête droite	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#porter la tête haute	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+se {poser} un peu là	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+posséder son rôle	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+posséder bien son rôle	0+inv+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+posséder son sujet	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+posséder bien son sujet	0+inv+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+posséder parfaitement son rôle	0+inv+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+posséder parfaitement son sujet	0+inv+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#pousser une analyse loin	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#pousser un art loin	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+pousser le bouchon trop loin	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#pousser grand-mère dans les bégonias	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+pousser grand-mère dans les orties	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#pousser une hypothèse loin	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#pousser une idée loin	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+pousser quelque chose à cela	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#pousser une spéculation loin	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre une affaire en mains	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre Poss0 appel	# ajouté car la seconde partie de l'evf suivante est facultative
+#prendre Poss0 appel de un pied	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+prendre le argent où il est	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre la balle	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+prendre la balle au bond	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre un chaud et froid	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre les chose en mains	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre les choses du bon côté	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre les choses par le bon côté	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre les choses en main	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+prendre une claque	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+prendre une claque dans la gueule	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre Poss0 cliques et Poss0 claques	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+en {prendre} un coup	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+en {prendre} dans les gencives	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+en {prendre} un coup dans les gencives	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,synt_head=$0;%default
+#prendre un dernier coup	# ajouté car la seconde partie de l'evf suivante est facultative
+#prendre un dernier coup pour la route	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+prendre un coup sur la tête	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {prendre} des coups	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {prendre} des coups dans la gueule	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+prendre son courage à deux mains	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre ses désirs pour des réalités	0+det-ses+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre le destin en main	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+prendre ses distances au égard	0+det-ses+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+prendre un e au féminin	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre effet _DATE	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre les enfants du bon Dieu pour des canards sauvages	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre une hypothèque sur le avenir	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+prendre ses jambes à son cou	0+det-ses+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre la lune avec ses dents	0+inv+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre son mal en patience	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre le mal à la racine	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre le mal par la racine	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre une mesure en faveur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+prendre le mors aux dents	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre un dernier N-hum	# ajouté car la seconde partie de l'evf suivante est facultative
+#prendre un dernier N-hum pour la route	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+prendre la occasion aux cheveux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre le pain de la bouche	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#prendre un pari sur le avenir	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre le pied au cul	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#prendre le pied aux fesses	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#prendre le Piree pour un homme	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+en {prendre} pour son grade	0+0+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,synt_head=$0;%default
+prendre un s au pluriel	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre une sanction au égard de	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#prendre le symétrique de N par rapport à une droite	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre le symétrique de N par rapport à un plan	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre le symétrique de N par rapport à un point	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+prendre le taureau par les cornes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {prendre} la tête à deux mains	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+prendre sa tête entre ses mains	0+det-sa+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prendre le train en marche	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre un dernier verre	# ajouté car la seconde partie de l'evf suivante est facultative
+#prendre un dernier verre pour la route	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+prendre des vessies pour des lanternes	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prendre la vie du bon côté	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#prendre un virage	# ajouté car la seconde partie de l'evf suivante est facultative
+#prendre un virage à la corde	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#préparer un oeuf à la coque	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#présenter un front uni	# ajouté car la seconde partie de l'evf suivante est facultative
+#présenter un front uni au adversaire	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#presser le citron jusqu'à la dernière goutte	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+présumer de ses forces	0+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+présumer trop de ses forces	0+inv+inv+det-ses+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+prêter le flanc	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+prêter le flanc à la critique	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#prêter une oreille attentive aux paroles	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#prêter une oreille distraite aux paroles	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#prêter une oreille favorable aux paroles	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#prouver le mouvement en marchant	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+quitter ce monde	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+quitter ce monde pour un autre monde	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+quitter ce monde pour un monde meilleur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+quitter la robe	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+quitter la robe pour la épée	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#ramasser du argent	# ajouté car la seconde partie de l'evf suivante est facultative
+#ramasser du argent à la pelle	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ramasser des coups	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ramasser des coups dans la gueule	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#ramasser Poss0 genoux sous Poss0 menton	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#ramasser Poss0 jambes sous Poss0 menton	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 buste en arrière	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener le calme dans la âme	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+ramener le calme dans l'esprit	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#ramener Poss0 cheveux en arrière	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 cheveux sur Poss0 front	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 cheveux sur Poss0 yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 corps en arrière	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 jambes en arrière	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 mèche en arrière	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 mèche sur Poss0 front	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#ramener Poss0 mèche sur Poss0 yeux	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+ramener la paix dans la âme	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#ramener la paix dans le esprit	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#ramener tout à Lui-0	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#rapporter tout à Lui-0	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+rater un éléphant dans un couloir	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+rater une vache dans un couloir	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+rattraper la balle au bond	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+recevoir douze balles dans la peau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+recevoir un coup sur le ciboulot	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+recevoir un coup sur le cigare	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+recevoir un coup sur le citron	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+recevoir un coup au coeur	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+recevoir un coup sur la tête	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#recevoir le message bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+ne {recevoir} de ordres de personne	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+#réchauffer un serpent dans Poss0 sein	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#réchauffer une vipère dans Poss0 sein	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+rechercher son salut dans la fuite	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#recommander la âme à Dieu	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#réconcilier un point de vue avec un point de vue	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#réconcilier certaines vues avec d'autres vues	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#réduire des fractions au même dénominateur	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#réduire des fractions à un dénominateur commun	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#regarder les choses en face	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+regarder la feuille au envers	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+regarder la mort en face	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#regarder la réalité en face	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#regarder la situation en face	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+regarder le soleil à travers une passoire	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+regarder la vérité en face	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#régler Poss0 marche sur la marche	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+rejeter le buste en arrière	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#rejeter Poss0 cheveux en arrière	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#rejeter la fumée par les narines	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#rejeter la fumée par le nez	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#rejeter Poss0 mèche en arrière	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+rejeter la tête en arrière	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#remettre Poss0 avenir entre les mains	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre la balle en jeu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remettre les boyaux en place	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre les choses en place	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remettre le coeur au endroit	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre le coeur au envers	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#remettre le coeur en place	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre Poss0 destin entre les mains	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre Poss0 destinée entre les mains	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre les pendules à la heure	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remettre Poss0 sort entre les mains	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre les tripes en place	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre Poss0 vie entre les mains	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#remettre Poss0 vie entre les mains de Dieu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remettre Poss0 vie entre les mains du Seigneur	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remettre les yeux en face des trous	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remplir du creux avec du vide	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remplir Poss0 journées bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remuer du argent	# ajouté car la seconde partie de l'evf suivante est facultative
+#remuer du argent à la pelle	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#remuer ciel et terre	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+remuer le couteau dans la plaie	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#rendre Poss0 âme	# ajouté car la seconde partie de l'evf suivante est facultative
+#rendre Poss0 âme au Ciel	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#rendre à Dieu	@evf_intransitive	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#rendre Poss0 âme à Dieu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#rendre la antenne au studio	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#rendre la antenne aux studios	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#rendre ce qui appartient à César à Cesar	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+rendre le bien pour le mal	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+rendre coup pour coup	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+rendre injure pour injure	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+rendre tripes et boyaux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#rendre la vie désagréable	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#rendre la vie difficile	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#rendre la vie impossible	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#rentrer la tête	# ajouté car la seconde partie de l'evf suivante est facultative
+#rentrer la tête dans les épaules	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#renverser le buste	# ajouté car la seconde partie de l'evf suivante est facultative
+#renverser le buste en arrière	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+renverser la tête	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+renverser la tête en arrière	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#replier Poss0 genoux sous Poss0 menton	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#replier Poss0 jambes	# ajouté car la seconde partie de l'evf suivante est facultative
+#replier Poss0 jambes sous Lui-0	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#replier Poss0 jambes sous Poss0 menton	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+répondre présent	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+répondre présent au appel	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#reporter le jugement à huitaine	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#reprendre le flambeau de N-hum	# ajouté car la seconde partie de l'evf suivante est facultative
+#reprendre le flambeau de N-hum de les mains	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+reprendre goût à la vie	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+reprendre du poil	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+reprendre du poil de la bête	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#reprendre le témoin de N-hum	# ajouté car la seconde partie de l'evf suivante est facultative
+#reprendre le témoin de N-hum de les mains	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#rétablir le calme	# ajouté car la seconde partie de l'evf suivante est facultative
+#rétablir le calme dans le esprit	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#retenir un impôt	# ajouté car la seconde partie de l'evf suivante est facultative
+#retenir un impôt à la source	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#retirer une épine du pied	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+retirer son épingle du jeu	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#retirer un impôt	# ajouté car la seconde partie de l'evf suivante est facultative
+#retirer un impôt à la source	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#retirer Poss0 mains de Poss0 poches	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+retirer le pain de la bouche	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#retirer une pièce de la affiche	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#retirer un poids de la conscience	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#retirer un poids du estomac	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#retourner le argument contre Lui-1c	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#retourner une arme contre Lui-0	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+retourner le couteau dans la plaie	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {retourner} toute la nuit dans son lit	0+0+inv+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#retourner le problème	# ajouté car la seconde partie de l'evf suivante est facultative
+#retourner le problème dans tous les sens	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#retourner la question	# ajouté car la seconde partie de l'evf suivante est facultative
+#retourner la question dans tous les sens	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#retourner la situation	# ajouté car la seconde partie de l'evf suivante est facultative
+#retourner la situation en Poss0 faveur	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#réveiller un souvenir	# ajouté car la seconde partie de l'evf suivante est facultative
+#réveiller un souvenir dans la mémoire	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+rêver plaies et bosses	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+revêtir une importance	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+revêtir une importance aux yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+risquer le tout pour le tout	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#river Poss0 regard sur le regard	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#rougir les mains	# ajouté car la seconde partie de l'evf suivante est facultative
+#rougir les mains du sang	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#rougir la terre du sang	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#rougir les yeux de larmes	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+saisir la balle au bond	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#saisir la balle au vol	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#saisir la chance au vol	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+saisir la occasion	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+saisir la occasion aux cheveux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#saisir la occasion au vol	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#savoir tout et le reste	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#semer le chemin de embûches	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#semer le chemin de obstacles	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#semer le trouble dans le esprit	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#séparer le bon grain de la ivraie	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+serrer sa ceinture	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+serrer sa ceinture de un cran	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#signer un pacte avec le démon	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#signer un pacte avec le diable	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#signer un pacte avec Satan	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#soigner le mal par le mal	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+sonder les coeurs	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+sonder les coeurs et les reins	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+sonder les reins et les coeurs	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#sortir une bouteille	# ajouté car la seconde partie de l'evf suivante est facultative
+#sortir une bouteille en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#sortir Poss0 mains de Poss0 poches	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+souffler le chaud et le froid	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#souffler la fumée par les narines	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#souffler la fumée par le nez	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#souiller les mains	# ajouté car la seconde partie de l'evf suivante est facultative
+#souiller les mains de sang	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+en {subir} des vertes et des pas mûres	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,synt_head=$0;%default
+suer sang et eau	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#supposer le problème résolu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tacher les mains	# ajouté car la seconde partie de l'evf suivante est facultative
+#tacher les mains de sang	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#tailler les oreilles en pointe	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+se {tailler} une place au soleil	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+se {taper} le cul par terre	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+se {taper} le derrière par terre	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+se {taper} la tête contre les murs	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#teinter Poss0 eau	# ajouté car la seconde partie de l'evf suivante est facultative
+#teinter Poss0 eau de vin	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tenir le avenir entre Poss0 mains	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#tenir la banque	# ajouté car la seconde partie de l'evf suivante est facultative
+#tenir la banque au Baccarat	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tenir la banque	# ajouté car la seconde partie de l'evf suivante est facultative
+#tenir la banque au Njeu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+se {tenir} bien à table	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+tenir bon la rampe	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#tenir Poss0 ceinture	# ajouté car la seconde partie de l'evf suivante est facultative
+#tenir Poss0 ceinture attachée	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+se {tenir} cela pour dit	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+se {tenir} les côtes	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {tenir} les côtes de rire	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#tenir le destin entre Poss0 mains	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#tenir la destinée entre Poss0 mains	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+#se {tenir} le Npc-0	0+0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+#se {tenir} le Npc-0 de douleur	0+0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#tenir le sort entre Poss0 mains	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+tenir table ouverte	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+se {tenir} le ventre	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {tenir} le ventre de douleur	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#tenir la vie entre Poss0 mains	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+terminer sur l'échafaud	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#terminer Poss0 jours sur le échafaud	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+terminer à l'hospice	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#terminer Poss0 jours au hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+terminer dans un hospice	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#terminer Poss0 jours dans un hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+terminer sur l'humide paille des cachots	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#terminer Poss0 jours sur l'humide paille des cachots	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+terminer en prison	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#terminer Poss0 jours en prison	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+terminer sur le échafaud	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#terminer Poss0 vie sur le échafaud	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#terminer Poss0 vie au hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#terminer Poss0 vie dans un hospice	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#terminer Poss0 vie sur la humide paille des cachots	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#terminer Poss0 vie en prison	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tirer une affaire au clair	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tirer une affaire au net	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tirer deux ans	# ajouté car la seconde partie de l'evf suivante est facultative
+#tirer deux ans en taule	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+tirer la couverture à lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tirer le diable par la queue	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tirer une épine du pied	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+tirer son épingle du jeu	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#tirer la leçon de les événements	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tirer la leçon de la expérience	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tirer la leçon de la histoire	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+tirer la moelle de les os	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#tirer _NUM Ntps	# ajouté car la seconde partie de l'evf suivante est facultative
+#tirer _NUM Ntps en cabane	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tirer _NUM Ntps en centrale	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tirer _NUM Ntps en taule	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+tirer des pets d'un âne mort	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tirer des plans	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+tirer des plans sur la comète	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tirer sa poudre aux moineaux	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tirer une traite sur le avenir	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tirer les vers du nez	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+tomber la face contre terre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tondre la laine sur le dos	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+se {tordre} les côtes	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+se {tordre} de rire	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+se {tordre} les côtes de rire	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pron,synt_head=$0;%default
+#tordre les côtes de rire	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+tordre le cou à une bouteille	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+toucher la question	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+toucher la question du doigt	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#toucher la réalité	# ajouté car la seconde partie de l'evf suivante est facultative
+#toucher la réalité du doigt	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+toucher le sol	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+toucher le sol de les deux épaules	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#tourner une clé	# ajouté car la seconde partie de l'evf suivante est facultative
+#tourner une clé dans une serrure	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tourner un compliment bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tourner le dos à Poss0 passé	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tourner les pieds en dedans	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#tourner les pieds en dehors	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+traîner un boulet	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+traîner un boulet derrière lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+traîner un boulet au pied	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#transformer un rêve en réalité	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#transformer ce que Il-0 touche en or	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+tremper sa mains dans le sang	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#tremper Poss0 plume dans le fiel	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#tremper Poss0 plume dans le vitriol	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+trouver buisson creux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+trouver ça tout seul	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+trouver chaussure à Poss0 pied	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+trouver une consolation	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+trouver une consolation dans le travail	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#trouver dix	# ajouté car la seconde partie de l'evf suivante est facultative
+#trouver dix comme résultat	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#trouver _NUM	# ajouté car la seconde partie de l'evf suivante est facultative
+#trouver _NUM comme résultat	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+trouver plus fort que lui	0++pro-lui	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+trouver grâce aux yeux	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+#trouver les oiseaux au nid	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#trouver la pilule amère	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+trouver porte close	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+trouver son salut dans la fuite	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+trouver le temps long	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tuer les mouches à quinze pas	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+tuer père et mère	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#unir le destin au destin	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+#unir la destinée à la destinée	@evf_de-obj	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+user son fond de culotte sur les bancs	0+det-son+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+user sa salive	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+user sa salive pour rien	0+det-sa+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+valoir trois fois rien	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+valoir zéro franc	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+valoir zéro franc zéro centime	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+valoir des mille et des cents	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+valoir moins que rien	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {valoir} pas un sou	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {valoir} pas un sou pas un centime	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+vendre son âme	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+vendre son âme au diable	0+det-son+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#vendre Poss0 peau chèrement	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+vendre Poss0 vie chèrement	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#verser de la huile sur le feu	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#verser une pièce au dossier	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#vider une bouteille	# ajouté car la seconde partie de l'evf suivante est facultative
+#vider en le honneur	@evf_de-obj	# passivable facultatif: qd le C1 est ommis, c'est effectivement assez figé
+#vider une bouteille en le honneur	@evf_de-obj   # c'est passivable donc c'est pas vraiment figé
+#visser Poss0 regard sur le regard	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter ; # c'est passivable donc c'est pas vraiment figé
+voir tout en noir	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+voir tout en rose	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+voir ça d'ici	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#voir cela de haut	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#voir les choses bien	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#voir les choses en face	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#voir les choses de façon Adj	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#voir les choses de façon distante	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#voir les choses en grand	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+#voir les choses de haut	@evf_intransitive   # c'est passivable donc c'est pas vraiment figé
+voir clair	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+voir dans le jeu	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default	# ajouté car le premier complément figé dans l'evf ci-dessous est facultatif
+voir clair dans le jeu	0+	100;Lemma;cf;<Suj:cln|sn,Objde:de-sn|en>;synt_head=$0;%default
+voir la feuille à l'envers	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {voir} plus loin que le bout de son nez	0+0+inv+inv+inv+inv+inv+inv+det-son+inv	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default
+voir le mal partout	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+voir midi à sa porte	0+inv+inv+det-sa+inv	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+voir la mort en face	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+voir la mort de près	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+#voir la tête de ici	@evf_intransitive	# (C de N)1 C2 : je ne sais pas traiter
+en {voir} des vertes et des pas mûres	0+0+	100;Lemma;cf;<Suj:cln|sn>;@pseudo-en,synt_head=$0;%default
+voir la vie en rose	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+vomir tripes et boyaux	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+vouloir le beurre et le argent du beurre	0+	100;Lemma;cf;<Suj:cln|sn>;synt_head=$0;%default
+ne {vouloir} de ça	0+0+	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default	# ajouté car la seconde partie de l'evf suivante est facultative
+ne {vouloir} de ça chez lui	0+0+inv+inv+inv+pro-lui	100;Lemma;cf;<Suj:cln|sn>;clneg =c +,synt_head=$0;%default

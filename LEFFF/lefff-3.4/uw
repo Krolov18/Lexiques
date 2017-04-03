@@ -1,0 +1,70 @@
+_Uw	50	np	[pred="Uw<Suj:(sn)>"]	Uw	Default	
+#_Uw	40	nc	[pred="Uw<Suj:(sn),Objde:(de-sn),Objde:(de-sinf|à-sinf)>", cat = nc]	Uw	Default	
+
+_uw	50	v	[pred="uw<Suj:sn|sinf|scompl,Obj:sn>",cat=v,@active,@avoir,@K]	uw	Default	
+_uw	50	v	[pred="uw<Suj:sn|sinf|scompl,Obl:(par-sn)>",cat=v,@passive,@K]	uw	Default	
+_uw	50	v	[pred="uwSe<Suj:sn>Obj",cat=v,@active,@être,@pron,@K]	uwSe	Default	
+_uw	50	v	[pred="uw<Suj:sn,Obj:sn>",cat=v,@imperative,@Y]	uw	Default	
+_uw	50	v	[pred="uw<Suj:(sn|sinf|scompl),Obj:sn>",cat=v,@W]	uw	Default	
+_uw	50	v	[pred="uwSe<Suj:(sn)>Obj",cat=v,@pron,@W]	uwSe	Default	
+_uw	50	v	[pred="uw<Suj:sn|sinf|scompl,Obj:sn>",cat=v,@G]	uw	Default	
+_uw	50	v	[pred="uw<Suj:sn|sinf|scompl,Obj:sn>",cat=v,@PFIJTSC]	uw	Default	
+_uw	50	v	[pred="uwSe<Suj:sn>Obj",cat=v,@pron,@G]	uwSe	Default	
+_uw	50	v	[pred="uwSe<Suj:sn>Obj",cat=v,@pron,@PFIJTSC]	uwSe	Default	
+_uw	70	adj	[pred="uw<Suj:(sn),Objde:(de-sinf|à-sinf)>",cat = adj]	uw	Default	
+_uw	80	nc	[pred="uw<Suj:(sn),Objde:(de-sn),Objà:(de-sinf|à-sinf)>",cat = nc]	uw	Default	
+_uw	60	adv	[pred="uw",cat = adv]	uw	Default	
+_uw	40	etr	[pred="_ETR", cat=etr]	_ETR	Default	
+
+
+
+#_error comme verbe est dans v.ilex
+_error		np	[pred="np___error<Suj:(sn)>", @s]	np___error	Default	
+_error		adj	[pred="adj___error<Suj:(sn),Objde:(de-sinf|à-sinf)>",cat = adj]	adj___error	Default	
+_error		nc	[pred="nc___error<Suj:(sn),Objde:(de-sn),Objà:(de-sinf|à-sinf)>",cat = nc]	nc___error	Default	
+_error		adv	[pred="adv___error",cat = adv]	adv___error	Default	
+_error		etr	[pred="etr___error", cat=etr]	etr___error	Default	
+_error		advneg	[neg=+]	advneg___error	Default	
+_error		auxAvoir	[@favoir,@active,@PFIJTSC]	auxAvoir___error	Default	
+_error		auxEtre	[@fêtre,@active,@PFIJTSC]	auxEtre___error	Default	
+_error		auxEtre	[@fêtre,@passive,@PFIJTSC]	auxEtre___error	Default	
+_error		cla	[pred="pro___error",case=acc]	pro___error	Default	
+_error		cld	[pred="pro___error",case=dat]	pro___error	Default	
+_error		clg	[pred="pro___error",case=gen]	pro___error	Default	
+_error		cll	[pred="pro___error",case=loc]	pro___error	Default	
+_error		cln	[pred="pro___error",case=nom]	pro___error	Default	
+_error		clneg	[clneg=+]	clneg___error	Default	
+_error		clr	[pred="pro___error"]	pro___error	Default	
+_error		coo	[pred="coo___error<arg1,arg2>",cat = coo]	coo___error	Default	
+_error		csu	[]	csu___error	Default	
+_error		det	[det=+]	det___error	Default	
+_error		cf	[pred="cf___error<Suj:sn,Obj:(sn)>",cat=nc]	cf___error	Default	
+_error		cfi	[pred="cfi___error<Suj:sn,Obj:(sn)>",cat=nc]	cfi___error	Default	
+_error		poncts	[]	poncts___error	Default	
+_error		ponctw	[]	ponctw___error	Default	
+_error		prel	[pred="prel___error", @pro_gen]	prel___error	Default	
+_error		prel	[pred="prel___error", @pro_nom]	prel___error	Default	
+_error		prel	[pred="prel___error", @pro_loc]	prel___error	Default	
+_error		prel	[pred="prel___error", @pro_acc]	prel___error	Default	
+_error		prel	[pred="prel___error"]	prel___error	Default	
+_error		pri	[pred="pri___error", @pro_nom]	pri___error	Default	
+_error		pri	[pred="pri___error", @pro_loc]	pri___error	Default	
+_error		pri	[pred="pri___error", @pro_acc]	pri___error	Default	
+_error		pri	[pred="pri___error"]	pri___error	Default	
+_error		prep	[pred="prep___error<Obj:sn|sa|sinf>"]	prep___error	Default	
+_error		pres	[]	pres___error	Default	
+_error		pro	[pred="pro___error"]	pro___error	Default	
+_error		sbound	[]	sbound___error	Default	
+
+_MARKUP		GN:	[]	_MARKUP	Default	
+_MARKUP		:GN	[]	_MARKUP	Default	
+_MARKUP		GA:	[]	_MARKUP	Default	
+_MARKUP		:GA	[]	_MARKUP	Default	
+_MARKUP		GP:	[]	_MARKUP	Default	
+_MARKUP		:GP	[]	_MARKUP	Default	
+_MARKUP		GR:	[]	_MARKUP	Default	
+_MARKUP		:GR	[]	_MARKUP	Default	
+_MARKUP		NV:	[]	_MARKUP	Default	
+_MARKUP		:NV	[]	_MARKUP	Default	
+_MARKUP		PV:	[]	_MARKUP	Default	
+_MARKUP		:PV	[]	_MARKUP	Default	

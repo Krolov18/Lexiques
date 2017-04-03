@@ -1,0 +1,19 @@
+class Regex(re.Search):
+ def init(self, pattern):
+  self.pattern = pattern
+  self.alphabet = re.search('\w', pattern) # ensemble des symboles qui ne sont pas de la syntax regex
+
+ def count(seq):
+  # chercher le nombre de fois
+  # où self.pattern matche dans seq
+  # pour cela on va appliquer pattern une première fois sur seq puis récursivement, supprimer un bout de la regex dans
+  # seq et réappliquer la recherche. tant que la regex match on incrémente le compteur. on peut donc a priori compter
+  # des regex imbriquées.
+  # exemple:
+  #  pattern = 'b..*r'
+  #  seq = "bonjourbonjour"
+  # on va d'abord trouver la totalité de la séquence au premier tours. Au deuxième tours, on va retirer le premier
+  # "b" qu'on trouve dans seq et on réapplique la regex sur seq. on obtient alors uniquement "bonjour" de 6 à la fin
+  # de la chaine. on sait donc qu'il n'y a plus d'occurence de la regex dans la portion [0:6[.
+  # en refaisant ce schéma, en supprimant le premier "b" qu'on trouve dans seq (maintenant seq = "bonjour", la regex
+  # ne matche plus rien. alors on peut renvoyer la réponse qui est 2.

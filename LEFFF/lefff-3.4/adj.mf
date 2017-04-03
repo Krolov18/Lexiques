@@ -1,0 +1,334 @@
+aigre-douce	aigre-doux	fs
+aigre-doux	aigre-doux	ms
+aigres-douces	aigre-doux	fp
+aigres-doux	aigre-doux	mp
+banal	banal	ms
+banale	banal	fs
+banales	banal	fp
+banals	banal	mp
+banaux	banal	mp
+natal	natal	ms
+natale	natal	fs
+natales	natal	fp
+natals	natal	mp
+nataux	natal	mp
+canon	canon	p
+canon	canon	s
+canons	canon	p
+causal	causal	ms
+causale	causal	fs
+causales	causal	fp
+causals	causal	mp
+causaux	causal	mp
+choral	choral	ms
+chorale	choral	fs
+chorales	choral	fp
+chorals	choral	mp
+choraux	choral	mp
+ci-joint	ci-joint	
+ci-joint	ci-joint	ms
+ci-jointe	ci-joint	fs
+ci-jointes	ci-joint	fp
+ci-joints	ci-joint	mp
+con	con	
+con	con	ms
+conne	con	fs
+connes	con	fp
+cons	con	mp
+dernier-né	dernier-né	ms
+derniers-nés	dernier-né	mp
+dernière-née	dernier-né	fs
+dernières-nées	dernier-né	fp
+double-crème	double-crème	fs
+double-crème	double-crème	ms
+doubles-crèmes	double-crème	fp
+doubles-crèmes	double-crème	mp
+douce-amère	doux-amer	fs
+douces-amères	doux-amer	fp
+doux-amer	doux-amer	ms
+doux-amers	doux-amer	mp
+démocrate-chrétien	démocrate-chrétien	ms
+démocrate-chrétienne	démocrate-chrétien	fs
+démocrates-chrétiennes	démocrate-chrétien	fp
+démocrates-chrétiens	démocrate-chrétien	mp
+facial	facial	ms
+faciale	facial	fs
+faciales	facial	fp
+facials	facial	mp
+faciaux	facial	mp
+final	final	ms
+finale	final	fs
+finales	final	fp
+finals	final	mp
+finaux	final	mp
+franc	franc	ms
+franc-maçon	franc-maçon	ms
+francs-maçons	franc-maçon	mp
+franc-maçonne	franc-maçon	fs
+franc-maçonnes	franc-maçon	fp
+franche	franc	fs
+franches	franc	fp
+francs	franc	mp
+franque	franc	fs
+franques	franc	fp
+gay	gay	p
+gay	gay	s
+gays	gay	p
+glacial	glacial	ms
+glaciale	glacial	fs
+glaciales	glacial	fp
+glacials	glacial	mp
+glaciaux	glacial	mp
+haute-contre	haute-contre	fs
+haute-contre	haute-contre	ms
+hautes-contre	haute-contre	fp
+hautes-contre	haute-contre	mp
+idéal	idéal	ms
+idéale	idéal	fs
+idéales	idéal	fp
+idéals	idéal	mp
+idéaux	idéal	mp
+naval	naval	ms
+navale	naval	fs
+navales	naval	fp
+navals	naval	mp
+navaux	naval	mp
+nouveau	nouveau	ms
+nouveaux	nouveau	mp
+nouvel	nouveau	ms
+nouvelle	nouveau	fs
+nouvelles	nouveau	fp
+quelqu'	quelque	s
+quelque	quelque	s
+quelques	quelque	p
+quéqu'	quelque	
+social	social	ms
+socials	social	mp
+sociale	social	fs
+sociales	social	fp
+sociaux	social	mp
+spatial	spatial	ms
+spatials	spatial	mp
+spatiale	spatial	fs
+spatiales	spatial	fp
+spatiaux	spatial	mp
+territorial	territorial	ms
+territoriale	territorial	fs
+territoriales	territorial	fp
+territorials	territorial	mp
+territoriaux	territorial	mp
+tous-petits	tout-petit	mp
+tout-petit	tout-petit	ms
+tout-petits	tout-petit	mp
+tout-puissant	tout-puissant	ms
+tout-puissants	tout-puissant	mp
+toute-petite	tout-petit	fs
+toute-puissante	tout-puissant	fs
+toutes-petites	tout-petit	fp
+toutes-puissantes	tout-puissant	fp
+rock	rock'n'roll	
+rock'n'roll	rock'n'roll	
+rock and roll	rock'n'roll	
+pauvre	pauvre	s
+pauvres	pauvre	p
+pauv'	pauvre	
+petit	petit	ms
+petite	petit	fs
+petits	petit	mp
+petites	petit	fp
+p'tit	petit	ms
+p'tit'	petit	ms
+p'tite	petit	fs
+p'tites	petit	fp
+p'tits	petit	mp
+ptit	petit	ms
+ptits	petit	mp
+ptite	petit	fs
+ptites	petit	fp
+ch'ti	petit	ms
+sal'	sale	
+sale	sale	s
+sales	sale	p
+grand'	grand	s
+sq..	sequiturque	s
+sqq..	sequiturque	p
+sequiturque	sequiturque	s
+sequunturque	sequiturque	p
+suiv..	suivant	
+inf..	inférieur	
+sup..	supérieur	
+préc..	précédent	
+marxiste-léniniste	marxiste-léniniste	s
+marxistes-léninistes	marxiste-léniniste	p
+²	carré	
+bô	beau	m
+bof-bof	bof	
+impecc	impeccable	s
+pôvre	pauvre	s
+pôvres	pauvre	p
+synchro	synchronisé	
+tt	tout	ms
+tte	tout	fs
+ts	tout	mp
+ttes	tout	fp
+OK	ok	
+grec	grec	ms
+grecs	grec	mp
+grecque	grec	fs
+grecques	grec	fp
+long	long	ms
+longs	long	mp
+longue	long	fs
+longues	long	fp
+barlong	barlong	ms
+barlongs	barlong	mp
+barlongue	barlong	fs
+barlongues	barlong	fp
+oblong	oblong	ms
+oblongs	oblong	mp
+oblongue	oblong	fs
+oblongues	oblong	fp
+exprès	exprès	m
+expresse	exprès	fs
+expresses	exprès	fp
+foufou	foufou	ms
+foufous	foufou	mp
+fofolle	foufou	fs
+fofolles	foufou	fp
+frais	frais	m
+fraîche	frais	fs
+fraîches	frais	fp
+fou	fou	ms
+fol	fou	ms
+fous	fou	mp
+folle	fou	fs
+folles	fou	fp
+mou	mou	ms
+mol	mou	ms
+mous	mou	mp
+molle	mou	fs
+molles	mou	fp
+doux	doux	m
+douce	doux	fs
+douces	doux	fp
+esquimaudes	esquimau	fp
+esquimaude	esquimau	fs
+esquimaux	esquimau	mp
+esquimau	esquimau	ms
+beau	beau	ms
+bel	beau	ms
+beaux	beau	mp
+belle	beau	fs
+belles	beau	fp
+franc-bourgeois	franc-bourgeois	m
+andalou	andalou	ms
+andalous	andalou	mp
+andalouse	andalou	fs
+andalouses	andalou	fp
+doubleau	doubleau	s
+doubleaux	doubleau	p
+gémeaux	gémeaux	
+gâteau	gâteau	
+gâteaux	gâteau	p
+hébreu	hébreu	ms
+hébreux	hébreu	mp
+hébraïque	hébreu	fs
+hébraïques	hébreu	fp
+bée	bée	fs
+bées	bée	fp
+dive	dive	fs
+dives	dive	fp
+océane	océane	fs
+océanes	océane	fp
+vaticane	vaticane	fs
+vaticanes	vaticane	fp
+épinière	épinière	fs
+épinières	épinière	fp
+bénin	bénin	ms
+bénins	bénin	mp
+bénigne	bénin	fs
+bénignes	bénin	fp
+malin	malin	ms
+malins	malin	mp
+maligne	malin	fs
+malignes	malin	fp
+sec	sec	ms
+secs	sec	mp
+sèche	sec	fs
+sèches	sec	fp
+angoras	angora	p
+antimites	antimite	p
+maisons	maison	p
+bêtasse	bêta	fs
+bêtasses	bêta	fp
+bêta	bêta	m
+bêtas	bêta	mp
+chameau	chameau	s
+chameaux	chameau	p
+ouzbèke	ouzbek	fs
+ouzbèkes	ouzbek	fp
+vieux	vieux	m
+vieil	vieux	m
+vieille	vieux	fs
+vieilles	vieux	fp
+bref	bref	ms
+brefs	bref	mp
+brève	bref	fs
+brèves	bref	fp
+frère	frère	ms
+frères	frère	mp
+faux	faux	m
+fausse	faux	fs
+fausses	faux	fp
+roux	roux	m
+rousse	roux	fs
+rousses	roux	fp
+tout	tout	ms
+toute	tout	fs
+tous	tout	mp
+toutes	tout	fp
+cois	cois	m
+coite	cois	fs
+coites	cois	fp
+louf	loufoque	s
+loufs	loufoque	p
+louftingue	loufoque	s
+louftingues	loufoque	p
+premier venu	premier venu	ms
+première venue	premier venu	fs
+premiers venus	premier venu	mp
+premières venues	premier venu	fp
+
+linéaire-lancéolé	linéaire-lancéolé	ms
+linéaires-lancéolés	linéaire-lancéolé	mp
+linéaire-lancéolée	linéaire-lancéolé	fs
+linéaires-lancéolées	linéaire-lancéolé	fp
+ovale-lancéolé	ovale-lancéolé	ms
+ovales-lancéolés	ovale-lancéolé	mp
+ovale-lancéolée	ovale-lancéolé	fs
+ovales-lancéolées	ovale-lancéolé	fp
+caudé-acuminé	caudé-acuminé	ms
+caudés-acuminés	caudé-acuminé	mp
+caudé-acuminée	caudé-acuminé	fs
+caudés-acuminées	caudé-acuminé	fp
+
+$	mâle	
+Ç	femelle	
+marron	marron	p
+
+court termiste	court-termiste	s
+court termistes	court-termiste	s
+
+jumeau	jumeau	ms
+jumeaux	jumeau	mp
+jumelle	jumeau	fs
+jumelles	jumeau	fp
+
+khmer	khmer	ms
+khmère	khmer	fs
+khmers	khmer	mp
+khmères	khmer	fp
+high tech	high-tech	
+
+bottom-up	bottom up	
+top-down	top down	

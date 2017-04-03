@@ -1,0 +1,15 @@
+##### ZDN
+à la convenance personnelle	inv+inv+inv+fac	100;Lemma;adj-epX;<Suj:scompl|sinf|sn|cln,Objde:(de-sn)>;cat=adj,@Suj_nothum;%adj_personnel,%adj_impersonnel	# ZDN
+de bon aloi	deAdjbon+inv	100;Lemma;adj-epX;<Suj:scompl|sinf|sn|cln,Obl:(pour-sn)>;cat=adj,@Obl_hum;%adj_personnel,%adj_impersonnel
+
+### Z5
+à la pointe	inv	100;Lemma;adj-epX;<Suj:scompl|sinf|sn|cln,Objde:(de-sn)>;cat=adj;%adj_personnel,%adj_impersonnel
+à la décharge	inv+DetPDFS+inv	100;Lemma;adj-epX;<Suj:scompl|sinf|sn|cln,Objde:(de-sn)>;cat=adj;%adj_personnel
+
+# exemple faux illustrant malgré tout l'utilisation du .mf
+# dans le .mf, 3 colonnes: forme_fléchie_spéciale, lemme, étiquette_morphosyntaxique (qui peut être vide)
+d'intérêt général ou public	0	100;Lemma;adj-epX;<Suj:scompl|sinf|sn|cln,Obl:(pour-sn)>;cat=adj,@Obl_hum;%adj_personnel,%adj_impersonnel
+
+
+############### têtes de epX semi-figés ###############
+palmarès	inv	100;au Lemma;nc-epXh;<Suj:scompl|sinf|sn|cln,Objde:(de-sn|poss)>;cat=adj;%adj_personnel,%adj_impersonnel

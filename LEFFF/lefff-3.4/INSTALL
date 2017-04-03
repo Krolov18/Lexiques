@@ -1,0 +1,21 @@
+	Lefff 3.0b installation
+
+What you need
+=============
+
+   - alexina-tools 1.2 : https://gforge.inria.fr/frs/?group_id=482
+   - recode            : for the lexicon compilation
+
+
+How to compile and install
+==========================
+
+   - ./configure
+   - make 
+   - make install (as root)
+
+
+configure options
+=================
+
+--with-alexinatoolsdir=DIR	path where alexina-tools directory is installed

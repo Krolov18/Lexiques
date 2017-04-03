@@ -1,0 +1,181 @@
+afin que	inv-e	100;0;csu;;wh=+;%default
+ainsi	inv	100;0;csu;;;%default
+ainsi que	inv-e	100;0;csu;;wh=+;%default
+alors même que	inv-e	100;0;csu;;wh=+;%default
+alors que	inv-e	100;0;csu;;wh=+;%default
+après que	inv-e	100;0;csu;;wh=+;%default
+attendu que	inv-e	100;0;csu;;wh=+;%default
+aussi	inv	100;0;csu;;;%default
+aussi bien que	inv-e	100;0;csu;;wh=+;%default
+aussitôt que	inv-e	100;0;csu;;wh=+;%default
+autant dire que	inv-e	100;0;csu;;wh=+;%default
+autant que	inv-e	100;0;csu;;wh=+;%default
+avant même que	inv-e	100;0;csu;;wh=+;%default
+avant que	inv-e	100;0;csu;;wh=+;%default
+because	inv	100;0;csu;;;%default
+bien que	inv-e	100;0;csu;;wh=+;%default
+c'est pourquoi	inv	100;0;csu;;wh=+;%default
+#c'est-à-dire	inv	100;0;csu;;;%default
+c'est-à-dire que	inv-e	100;0;csu;;wh=+;%default
+ce que	inv-e	100;0;csu;;wh=+;%default
+cependant que	inv-e	100;0;csu;;wh=+;%default
+chaque fois que	inv-e	100;0;csu;;wh=+;%default
+comme si	inv	100;0;csu;;;%default
+considérant que	inv-e	100;0;csu;;wh=+;%default
+considéré que	inv-e	100;0;csu;;wh=+;%default
+#crainte de	inv	100;0;csu;;;%default
+d'autant plus que	inv-e	100;0;csu;;wh=+;%default
+d'autant que	inv-e	100;0;csu;;wh=+;%default
+d'où	inv	100;0;csu;;;%default
+dans la mesure où	inv	100;0;csu;;;%default
+de ce que	inv-e	100;0;csu;;wh=+;%default
+du fait que	inv-e	100;0;csu;;wh=+;%default
+du moment que	inv-e	100;0;csu;;wh=+;%default
+des fois que	inv-e	100;0;csu;;wh=+;%default
+de manière que	inv-e	100;0;csu;;wh=+;%default
+de manière à ce que	inv-e	100;0;csu;;wh=+;%default
+de même que	inv-e	100;0;csu;;wh=+;%default
+de parce que	inv-e	100;0;csu;;wh=+;%default
+de sorte que	inv-e	100;0;csu;;wh=+;%default
+de telle sorte que	inv-e	100;0;csu;;wh=+;%default
+depuis que	inv-e	100;0;csu;;wh=+;%default
+#donc	inv	100;0;csu;;;%default
+dès lors que	inv-e	100;0;csu;;wh=+;%default
+dès que	inv-e	100;0;csu;;wh=+;%default
+en ce que	inv-e	100;0;csu;;wh=+;%default
+en ce sens que	inv-e	100;0;csu;;wh=+;%default
+en même temps que	inv-e	100;0;csu;;wh=+;%default
+en sorte que	inv-e	100;0;csu;;wh=+;%default
+en tant que	inv-e	100;0;csu;;wh=+;%default
+encore que	inv-e	100;0;csu;;wh=+;%default
+et même	inv	100;0;csu;;;%default
+jusqu'à ce que	inv-e	100;0;csu;;wh=+;%default
+le moins que	inv-e	100;0;csu;;wh=+;%default
+le temps que	inv-e	100;0;csu;;wh=+;%default
+lorsque	inv-e	100;0;csu;;wh=+;%default
+maintenant que	inv-e	100;0;csu;;wh=+;%default
+même si	inv	100;0;csu;;;%default
+non que	inv-e	100;0;csu;;wh=+;%default
+outre que	inv-e	100;0;csu;;wh=+;%default
+par le fait que	inv-e	100;0;csu;;wh=+;%default
+parce que	0	100;0;csu;;mod_kind = causal,wh=+;%default
+partant	inv	100;0;csu;;;%default
+pendant que	inv-e	100;0;csu;;wh=+;%default
+plus que	inv-e	100;0;csu;;wh=+;%default
+plutôt que	inv-e	100;0;csu;;wh=+;%default
+pour autant que	inv-e	100;0;csu;;wh=+;%default
+pour cette raison que	inv-e	100;0;csu;;wh=+;%default
+pour peu que	inv-e	100;0;csu;;wh=+;%default
+pour que	inv-e	100;0;csu;;wh=+;%default
+pour une fois que	inv-e	100;0;csu;;wh=+;%default
+pourvu que	inv-e	100;0;csu;;wh=+;%default
+puis	inv	100;0;csu;;;%default
+puisque	inv-e	100;0;csu;;wh=+;%default
+quand	inv	100;0;csu;;wh=+;%default
+quand bien même	inv	100;0;csu;;wh=+;%default
+que	inv-e	100;0;que;;wh=+;%default
+quoi que	inv-e	100;0;csu;;wh=+;%default
+quoique	inv-e	100;0;csu;;wh=+;%default
+reste à savoir si	inv	100;0;csu;;;%default
+sans que	inv-e	100;0;csu;;wh=+;%default
+sauf que	inv-e	100;0;csu;;wh=+;%default
+selon que	inv-e	100;0;csu;;wh=+;%default
+si	inv	100;0;csu;;;%default
+si bien que	inv-e	100;0;csu;;wh=+;%default
+si peu que	inv-e	100;0;csu;;wh=+;%default
+sinon	inv	100;0;csu;;;%default
+sinon que	inv-e	100;0;csu;;wh=+;%default
+sitôt que	inv-e	100;0;csu;;wh=+;%default
+soit	inv	100;0;csu;;;%default
+sous prétexte que	inv-e	100;0;csu;;wh=+;%default
+sous réserve que	inv-e	100;0;csu;;wh=+;%default
+suivant que	inv-e	100;0;csu;;wh=+;%default
+tandis que	inv-e	100;0;csu;;wh=+;%default
+tant et si bien que	inv-e	100;0;csu;;wh=+;%default
+tant que	inv-e	100;0;csu;;wh=+;%default
+#tel que	inv-e	100;0;csu;;wh=+;%default
+#telle que	inv-e	100;0;csu;;wh=+;%default
+#telles que	inv-e	100;0;csu;;wh=+;%default
+#tels que	inv-e	100;0;csu;;wh=+;%default
+une fois que	inv-e	100;0;csu;;wh=+;%default
+à chaque fois que	inv-e	100;0;csu;;wh=+;%default
+à condition que	inv-e	100;0;csu;;wh=+;%default
+à l'heure où	inv	100;0;csu;;;%default
+au cas où	inv	100;0;csu;;;%default
+au fur et à mesure que	inv-e	100;0;csu;;wh=+;%default
+au moment où	inv	100;0;csu;;;%default
+au même titre que	inv-e	100;0;csu;;wh=+;%default
+au point que	inv-e	100;0;csu;;wh=+;%default
+à mesure que	inv-e	100;0;csu;;wh=+;%default
+à moins que	inv-e	100;0;csu;;wh=+;%default
+à partir du moment où	inv	100;0;csu;;;%default
+à présent que	inv-e	100;0;csu;;wh=+;%default
+à supposer que	inv-e	100;0;csu;;wh=+;%default
+à tel point que	inv-e	100;0;csu;;wh=+;%default
+à telle enseigne que	inv-e	100;0;csu;;wh=+;%default
+étant donné que	inv-e	100;0;csu;;wh=+;%default
+comme	inv	100;0;csu;;;%default
+dans le but que	inv-e	100;0;csu;;wh=+;%default
+
+non plus que	inv-e	100;0;csu;;wh=+;%default
+malgré que	inv-e	100;0;csu;;wh=+;%default	incorrect
+
+#################
+aussi longtemps que	inv-e	100;0;csu;;wh=+;%default
+cette fois que	inv-e	100;0;csu;;wh=+;%default
+dans l' espoir que	inv-e	100;0;csu;;wh=+;%default
+dans l' idée que	inv-e	100;0;csu;;wh=+;%default
+dans la crainte que	inv-e	100;0;csu;;wh=+;%default
+dans le sens que	inv-e	100;0;csu;;wh=+;%default
+de crainte que	inv-e	100;0;csu;;wh=+;%default
+de façon que	inv-e	100;0;csu;;wh=+;%default
+de peur que	inv-e	100;0;csu;;wh=+;%default
+de telle façon que	inv-e	100;0;csu;;wh=+;%default
+de telle manière que	inv-e	100;0;csu;;wh=+;%default
+déjà que	inv-e	100;0;csu;;wh=+;%default
+en admettant que	inv-e	100;0;csu;;wh=+;%default
+en dépit que	inv-e	100;0;csu;;wh=+;%default
+en supposant que	inv-e	100;0;csu;;wh=+;%default
+excepté que	inv-e	100;0;csu;;wh=+;%default
+hormis le fait que	inv-e	100;0;csu;;wh=+;%default
+hormis que	inv-e	100;0;csu;;wh=+;%default
+malgré le fait que	inv-e	100;0;csu;;wh=+;%default
+nonobstant que	inv-e	100;0;csu;;wh=+;%default
+preuve que	inv-e	100;0;csu;;wh=+;%default
+sachant que	inv-e	100;0;csu;;wh=+;%default
+sans compter que	inv-e	100;0;csu;;wh=+;%default
+sans oublier que	inv-e	100;0;csu;;wh=+;%default
+si ce n' est que	inv-e	100;0;csu;;wh=+;%default
+si tant est que	inv-e	100;0;csu;;wh=+;%default
+surtout que	inv-e	100;0;csu;;wh=+;%default
+un jour que	inv-e	100;0;csu;;wh=+;%default
+vu que	inv-e	100;0;csu;;wh=+;%default
+à ceci près que	inv-e	100;0;csu;;wh=+;%default
+à cela près que	inv-e	100;0;csu;;wh=+;%default
+à seule fin que	inv-e	100;0;csu;;wh=+;%default
+à ça près que	inv-e	100;0;csu;;wh=+;%default
+à ce point que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+à l'époque où	inv	100;0;csu;;;%default	# from LexConn
+à l'instant où	inv	100;0;csu;;;%default	# from LexConn
+à part que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+après quoi	inv	100;0;csu;;;%default	# from LexConn
+c'est à dire que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+comme ça	inv	100;0;csu;;;%default	# from LexConn
+comme quoi	inv	100;0;csu;;;%default	# from LexConn
+dans le cas où	inv	100;0;csu;;;%default	# from LexConn
+dans le sens où	inv	100;0;csu;;;%default	# from LexConn
+dans l'espoir que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+dans l'hypothèse où	inv	100;0;csu;;;%default	# from LexConn
+dans l'intention que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+de façon à ce que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+de la même façon que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+de la même manière que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+d'ici que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+du temps où	inv	100;0;csu;;;%default	# from LexConn
+en dépit du fait que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+le jour où	inv	100;0;csu;;;%default	# from LexConn
+mis à part le fait que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+mis à part que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+quand bien même que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+quitte à ce que	inv-e	100;0;csu;;wh=+;%default	# from LexConn
+si ce n'est que	inv-e	100;0;csu;;wh=+;%default	# from LexConn

@@ -1,0 +1,88 @@
+ah	inv	100;Lemma;pres;;;%default
+# easy (peut contenir de bonnes entrées...)
+eh bien	inv	100;Lemma;pres;;;%default
+allez	inv	100;Lemma;pres;;;%default
+allez donc	inv	100;Lemma;pres;;;%default
+eh ben	inv	100;Lemma;pres;;;%default
+eh quoi	inv	100;Lemma;pres;;;%default
+
+
+
+aïe	inv	100;Lemma;pres;;;%default
+aglagla	inv	100;Lemma;pres;;;%default
+glagla	inv	100;Lemma;pres;;;%default
+atchoum	inv	100;Lemma;pres;;;%default
+basta	inv	100;Lemma;pres;;;%default
+beurk	inv	100;Lemma;pres;;;%default
+bip	inv	100;Lemma;pres;;;%default
+bof	inv	100;Lemma;pres;;;%default
+bouh	inv	100;Lemma;pres;;;%default
+bah	inv	100;Lemma;pres;;;%default
+bye	inv	100;Lemma;pres;;chunk_type=GN;%default
+au revoir	inv	100;Lemma;pres;;chunk_type=GN;%default
+bonjour	inv	100;Lemma;pres;;chunk_type=GN;%default
+bonsoir	inv	100;Lemma;pres;;chunk_type=GN;%default
+buenas tardes	inv	100;Lemma;pres;;chunk_type=GN;%default
+à bientôt	inv	100;Lemma;pres;;chunk_type=GP;%default
+à plus	inv	100;Lemma;pres;;chunk_type=GP;%default
+ciao	inv	100;Lemma;pres;;chunk_type=GN;%default
+diantre	inv	100;Lemma;pres;;;%default
+carpe diem	inv	100;Lemma;pres;;;%default
+euh	inv	100;Lemma;pres;;;%default
+grrr	inv	100;Lemma;pres;;;%default
+hé	inv	100;Lemma;pres;;;%default
+hey	inv	100;Lemma;pres;;;%default
+hasta luego	inv	100;Lemma;pres;;;%default
+hihihi	inv	100;Lemma;pres;;;%default
+hola	inv	100;Lemma;pres;;;%default
+hop	inv	100;Lemma;pres;;;%default
+mhh	inv	100;Lemma;pres;;;%default
+mmh	inv	100;Lemma;pres;;;%default
+miam	inv	100;Lemma;pres;;;%default
+mmm	inv	100;Lemma;pres;;;%default
+mouais	inv	100;Lemma;pres;;;%default
+moui	inv	100;Lemma;pres;;;%default
+ouais	inv	100;Lemma;pres;;;%default
+nan	inv	100;Lemma;pres;;;%default
+niark	inv	100;Lemma;pres;;;%default
+OK	inv	100;Lemma;pres;;;%default
+oops	inv	100;Lemma;pres;;;%default
+ouah	inv	100;Lemma;pres;;;%default
+parbleu	inv	100;Lemma;pres;;;%default
+pfff	inv	100;Lemma;pres;;;%default
+pfiou	inv	100;Lemma;pres;;;%default
+pouah	inv	100;Lemma;pres;;;%default
+sangrebleu	inv	100;Lemma;pres;;;%default
+snif	inv	100;Lemma;pres;;;%default
+sorry	inv	100;Lemma;pres;;;%default
+vroum	inv	100;Lemma;pres;;;%default
+youpi	inv	100;Lemma;pres;;;%default
+hein	inv	100;Lemma;pres;;;%default
+zyva	inv	100;Lemma;pres;;;%default
+putain	inv	100;Lemma;pres;;;%default
+damned	inv	100;Lemma;pres;;;%default
+allo	inv	100;Lemma;pres;;;%default
+wie geht's	inv	100;Lemma;pres;;;%default
+meuh	inv	100;Lemma;pres;;;%default
+tchuss	inv	100;Lemma;pres;;;%default
+coucou	inv	100;Lemma;pres;;;%default
+bon appétit	inv	100;Lemma;pres;;chunk_type=GN;%default
+bonne nuit	inv	100;Lemma;pres;;chunk_type=GN;%default
+bonne journée	inv	100;Lemma;pres;;chunk_type=GN;%default
+quid	inv	100;Lemma;v;<Objde:de-sinf|de-sn>;cat=v;%actif_impersonnel
+voici	inv	100;Lemma;v;<Obj:cla|qcompl|scompl|sinf|sn,Att:(comme-sa|comme-sn|sa|sinf|sn)>;@CtrlObjAtt,cat=v;%actif
+revoici	inv	100;Lemma;v;<Obj:cla|qcompl|scompl|sinf|sn,Att:(comme-sa|comme-sn|sa|sinf|sn)>;@CtrlObjAtt,cat=v;%actif
+revoilà	inv	100;Lemma;v;<Obj:cla|qcompl|scompl|sinf|sn,Att:(comme-sa|comme-sn|sa|sinf|sn)>;@CtrlObjAtt,cat=v;%actif
+voilà	inv	100;Lemma;v;<Obj:cla|qcompl|scompl|sinf|sn,Att:(comme-sa|comme-sn|sa|sinf|sn)>;@CtrlObjAtt,cat=v;%actif
+voici	inv	100;Lemma;pres;;;%default
+revoici	inv	100;Lemma;pres;;;%default
+revoilà	inv	100;Lemma;pres;;;%default
+voilà	inv	100;Lemma;pres;;;%default
+
+chers tous	inv	100;Lemma;pres;;chunk_type=GN;%default
+
+ben	inv	100;Lemma;pres;;;%default
+
+hélas	inv	100;Lemma;pres;;;%default	# lexfix 1
+
+no comment	inv	100;Lemma;pres;;;%default

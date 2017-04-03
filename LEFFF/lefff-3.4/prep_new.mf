@@ -1,0 +1,24 @@
+de__prep	de	
+à__prep	à	
+en__prep	en	
+cf	cf	
+cf.	cf	
+conf.	cf	
+confer	cf	
+en deçà	en-deçà	
+en-deçà	en-deçà	
+par delà	par-delà	
+par-delà	par-delà	
+vs	vs	
+vs.	vs	
+versus	vs	
+au delà	au-delà	
+au-delà	au-delà	
+lès	lès	
+lez	lès	
+av.	avant	
+avt	avant	
+apr.	après	
+pdt	pendant	
+pr	pour	
+@	à	
