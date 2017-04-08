@@ -80,6 +80,8 @@ class OptimString:
         return self.__control
 
     def etendre(self):
+        if all(isinstance(x, Point) for x in self.data_pointe):
+            return ""
         l = list()
         n_p = None
         for x in self.data_pointe:
@@ -266,12 +268,12 @@ def g(mot):
 
 
 def main3():
-    tmp = OptimString(Point('.'), 'anticonstitution')
+    tmp = OptimString(Point('.'), 'il mange une orange')
     tmp1 = generate_regex(tmp)
     # for t in g('anconstitution'):
         #print(t)
     for t in tmp1:
-        print(str(t))
+        print(t.etendre(), file=open("il-mange-une-pomme.txt", "a+"))
 
 
 if __name__ == '__main__':
