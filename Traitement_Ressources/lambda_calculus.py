@@ -120,7 +120,8 @@ class ApplicationFonctionnelle(Terme):
         self.t2 = t2
 
     def __repr__(self):
-        return "({self.t1}){self.t2}".format(self=self)
+        # return "({self.t1}){self.t2}".format(self=self)
+        return "['af', {self.t1}, {self.t2}]".format(self=self)
 
     def __str__(self):
         return repr(self)
@@ -138,7 +139,8 @@ class Lambda(Terme):
         self.t = t
 
     def __repr__(self):
-        return "∆{self.a}.{self.t}".format(self=self)
+        # return "∆{self.a}.{self.t}".format(self=self)
+        return "['la', {self.a}, {self.t}]".format(self=self)
 
     def __eq__(self, other):
         return (self.a == other.a) and (self.t == other.t)
@@ -161,14 +163,15 @@ def reduce(t: Terme, trace=False) -> Terme:
     :param trace: mode debug
     :return: Cette fonction retourne un Terme ou une sous classe de Terme.
     """
-    if isinstance(t, Variable):
+    # if isinstance(t, Variable):
+    if isinstance(t, str):
         return t
-    elif isinstance(t, Lambda):
+    # elif isinstance(t, Lambda):
+    elif t[0] == "la":
         return Lambda(t.a, reduce(t.t, trace=trace))
-    elif isinstance(t, ApplicationFonctionnelle):
+    # elif isinstance(t, ApplicationFonctionnelle):
+    elif t[0] == "af":
         return application(reduce(t.t1, trace=trace), reduce(t.t2, trace=trace), trace=trace)
-    else:
-        return t
 
 
 def application(t1: Terme, t2: Terme, trace=False) -> Terme:
@@ -185,8 +188,10 @@ def application(t1: Terme, t2: Terme, trace=False) -> Terme:
     :param trace: mode debug
     :return: Cette fonction retourne un Terme ou une sous classe de Terme.
     """
-    if isinstance(t1, Lambda):
-        tmp = rename(t1.a, t2, t1.t)
+    # if isinstance(t1, Lambda):
+    if t1[0] == 'la':
+        # tmp = rename(t1.a, t2, t1.t)
+        tmp = rename(t1[1], t2, t1[2])
         if trace:
             print(
                 "étape intermédiaire: l'application fonctionnelle de ({}){} ≡ {}".format(
@@ -323,9 +328,12 @@ def main():
 
     symboles = set(map(Variable, ascii_lowercase))
 
+    succ_list = ['la', 'n', ['la', 'f', ['la', 'x', ['af', 'f', ['af', ['af', 'n', 'f'], 'x']]]]]
+    plus_liste = ['la', 'm', ['la', 'n', ['la', 'f', ['la', 'x', ['af', ['af', 'm', 'f'], ['af', ['af', 'n', 'f'], 'x']]]]]]
     succ = "∆n.∆f.∆x.(f)((n)f)x"
     plus = "∆m.∆n.∆f.∆x.((m)f)((n)f)x"
 
+    zero_liste = ['la', 'f', ['la', 'x', 'x']]
     zero = "∆f.∆x.x"
     # génération des nombres de 1 à 20
     numbers = encode_range(zero, succ, parseur, range(21))

@@ -1,11 +1,18 @@
 # coding: utf-8
-from nltk.util import ngrams, skipgrams
+#from nltk.util import ngrams, skipgrams
 # from nltk.data import find
+import typing
 from collections import defaultdict, deque
 from copy import deepcopy
 from string import punctuation
-from re import search
+from re import search, findall
 import heapdict
+import subprocess
+#import chest
+#from numpy import *
+#from math import log10
+#from _pickle import load, dump
+#from functools import reduce
 from itertools import groupby
 
 # import functools
@@ -46,18 +53,19 @@ class Point(object):
 
 
 class OptimString:
-    def __init__(self, point: Point, seq: str, pointee=None, control=None):
+    def __init__(self, point: Point, seq: typing.Sequence, pointee=None, control=None):
         self.__point = point
         self.__data = seq
         self.__data_pointe = list(seq) if not pointee else pointee
         self.__control = defaultdict(deque) if not control else control
         if not self.__control:
             self.__remplir_control(seq)
-        self.__buffer = heapdict.heapdict(self.__control)
+        tmp = list(filter(lambda x: isinstance(x, str), self.__data_pointe))
+        self.__first = tmp[0] if tmp else ''
 
     @property
-    def buffer(self):
-        return self.__buffer
+    def first(self):
+        return self.__first
 
     @property
     def get_point(self):
@@ -80,8 +88,6 @@ class OptimString:
         return self.__control
 
     def etendre(self):
-        if all(isinstance(x, Point) for x in self.data_pointe):
-            return ""
         l = list()
         n_p = None
         for x in self.data_pointe:
@@ -97,7 +103,7 @@ class OptimString:
                     n_p = Point('.+')
         if n_p is not None:
             l.append(n_p)
-        return "".join(map(str, l))
+        return OptimString(point=Point('.+'), seq=l)
 
     def __remplir_control(self, seq): list(
         map(lambda x: self.control[x[0]].append(x[1]), self.__inverse_enumerate(seq=seq))
@@ -171,7 +177,8 @@ def generate_regex(seq: OptimString):
 
     while file:
         current = file.pop()
-        yield current
+        if not all(x == '.' for x in str(current)):
+            yield current
         if not isinstance(current.data_pointe[-1], Point):
             current = current.add_point()
             file.appendleft(current)
@@ -180,15 +187,29 @@ def generate_regex(seq: OptimString):
                 file.appendleft(current)
 
 
-def count(regex, chaine: str):
+def count(regex: OptimString, chaine: str, nb=False):
+    if nb:
+        return 1 if search(str(regex), chaine) else 0
     i = 0
     rec = search(str(regex), chaine)
-    x = regex.buffer.popitem()[0]
     while rec:
         i += 1
-        chaine = chaine.replace(x, '', 1)
+        if not regex.first:
+            break
+        chaine = chaine.replace(regex.first, '', 1)
         rec = search(str(regex), chaine)
     return i
+
+
+def construire(phrases):
+    classes = Chest(path="classes", dump=dump, load=load)
+    features = Chest(path="features", dump=dump, load=load)
+
+    for p in phrases:
+        vecteur = Chest(path=p, dump=dump, load=load)
+        vecteur_log = Chest(path=p, dump=dump, load=load)
+
+        # for skip in generate_regex()
 
 
 def main():
@@ -260,21 +281,74 @@ def replace(x, y, z):
 
 
 def g(mot):
+    from re import sub
     tmp = [x for x, y in enumerate(mot)]
     for i in range(2, len(mot)+1):
         for skip in skipgrams(tmp, i, len(mot)):
-            #yield replace(mot, skip, '.')
-            yield skip
+            yield sub("\.\.+", ".+", replace(mot, skip, '.'))
+            # yield skip
+
+
+def dot(wi, x):
+    return reduce(lambda x, y: x+y, map(lambda i: wi[i]*x[i], x))
+
+
+def argmax(w, x):
+    a = str()
+    b = float()
+
+    for z, u in w.items():
+        calcul = dot(z, x)
+        if calcul > b:
+            a = u
+            b = calcul
+    return a, b
+
+
+def estime(ba):
+    classes = chest.Chest(path="classes", dump=dump, load=load)
+    features = chest.Chest(path='features', dump=dump, load=load)
+    ba_repr = chest.Chest(path='base-d-apprentissage', dump=dump, load=load)
+    for p in ba:
+        classes[p] = True
+        features[p] = True
+        for y in generate_regex(OptimString(point=Point('.'), seq=p)):
+            features[y] = True
+            ba_repr[p][y] = (1+log10(count(y, p)/pow(2, len(p))))/log10(len(ba)/sum(count(y, z, True) for z in ba))
+        features.flush()
+    classes.flush()
+    ba_repr.flush()
+
+
+def perceptron(classes, features, ba, n):
+    w = random.rand(len(classes), len(features))
+    for i in range(n):
+        for (x, y) in ba:
+            y_pred = argmax(w, x)
+            if y != y_pred:
+                for t, i in x.items():
+                    w[y][t] += i
+                    w[y_pred][t] += i
 
 
 def main3():
-    tmp = OptimString(Point('.'), 'il mange une orange')
+    chaine = "le chat dort"
+    tmp = OptimString(Point('.'), chaine)
     tmp1 = generate_regex(tmp)
-    # for t in g('anconstitution'):
-        #print(t)
+
     for t in tmp1:
-        print(t.etendre(), file=open("il-mange-une-pomme.txt", "a+"))
+        print(t.buffer)
+
+
+def main5():
+    # print(random.rand(10, 10, 10))
+    seq = "le chat"
+    a = OptimString(point=Point('.'), seq=seq)
+    tmp1 = generate_regex(a)
+    cmd = 'grep -o -e "le...." '
+    for d in tmp1:
+        print(d.etendre())
 
 
 if __name__ == '__main__':
-    main3()
+    main5()

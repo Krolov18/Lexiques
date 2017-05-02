@@ -8,9 +8,13 @@ import pickle
 
 def trier_levenshtein(X):
     F = collections.deque()
+    j = 0
     for ((i, x),(j, y)) in itertools.combinations(X, 2):
+        if not (j % 100):
+            print(j, len(X), file=stderr)
         tmp = difflib.SequenceMatcher(None, x, y)
         F.append((tmp.ratio, i, j))
+        j += 1
     return heapq.heapify(F)
 
 

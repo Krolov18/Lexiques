@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843db6a4-dded-45cd-ae8f-1fc63c66a5cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Nombres/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Nombres/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Parser.py" afterPath="$PROJECT_DIR$/Parser.py" />
-    </list>
+    <list default="true" id="843db6a4-dded-45cd-ae8f-1fc63c66a5cc" name="Default" comment="" />
     <ignored path="Traitement_Ressources.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,27 +23,50 @@
       <file leaf-file-name="lambda_calculus.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lambda_calculus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="366" column="52" lean-forward="false" selection-start-line="366" selection-start-column="52" selection-end-line="366" selection-end-column="52" />
+            <state relative-caret-position="134">
+              <caret line="227" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
+                <element signature="e#171#1666#0" expanded="false" />
+                <element signature="e#1694#1730#0" expanded="false" />
+                <element signature="e#1760#2177#0" expanded="false" />
                 <element signature="e#1827#1837#0" expanded="false" />
                 <element signature="e#1871#1884#0" expanded="false" />
                 <element signature="e#1917#1934#0" expanded="false" />
+                <element signature="e#1973#1997#0" expanded="false" />
+                <element signature="e#2031#2039#0" expanded="false" />
+                <element signature="e#2223#2624#0" expanded="false" />
                 <element signature="e#2259#2292#0" expanded="false" />
-                <element signature="e#2326#2373#0" expanded="false" />
-                <element signature="e#2462#2516#0" expanded="false" />
-                <element signature="e#2550#2558#0" expanded="false" />
-                <element signature="e#2586#2859#0" expanded="false" />
-                <element signature="e#2910#3871#0" expanded="false" />
-                <element signature="e#2910#3566#1" expanded="false" />
-                <element signature="e#3939#5076#0" expanded="false" />
-                <element signature="e#5115#5648#0" expanded="false" />
-                <element signature="e#5725#6129#0" expanded="false" />
-                <element signature="e#6179#7248#0" expanded="false" />
-                <element signature="e#7321#8278#0" expanded="false" />
-                <element signature="e#8949#9312#0" expanded="false" />
-                <element signature="e#9356#9667#0" expanded="false" />
+                <element signature="e#2326#2439#0" expanded="false" />
+                <element signature="e#2528#2582#0" expanded="false" />
+                <element signature="e#2616#2624#0" expanded="false" />
+                <element signature="e#2652#2989#0" expanded="false" />
+                <element signature="e#3040#3696#1" expanded="false" />
+                <element signature="e#4121#4843#1" expanded="false" />
+                <element signature="e#7568#8525#0" expanded="false" />
+                <element signature="e#8617#9153#0" expanded="false" />
+                <element signature="e#9196#9559#0" expanded="false" />
+                <element signature="e#9603#9914#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leveque-korantin_lambas.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leveque-korantin_lambas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="189" column="45" lean-forward="true" selection-start-line="189" selection-start-column="45" selection-end-line="189" selection-end-column="45" />
+              <folding>
+                <element signature="e#17#51#0" expanded="true" />
+                <element signature="e#129#645#0" expanded="false" />
+                <element signature="e#690#1458#0" expanded="false" />
+                <element signature="e#1488#1806#0" expanded="false" />
+                <element signature="e#1876#2417#0" expanded="false" />
+                <element signature="e#2451#2872#0" expanded="false" />
+                <element signature="e#3844#4232#0" expanded="false" />
+                <element signature="e#4258#4582#0" expanded="false" />
+                <element signature="e#4609#4886#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -55,7 +75,7 @@
       <file leaf-file-name="nltk_fcfg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nltk_fcfg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="330">
               <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="e#17#73#0" expanded="true" />
@@ -68,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/grammar0.fcfg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,32 +107,14 @@
       <file leaf-file-name="logique.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logique.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="3915">
               <caret line="273" column="20" lean-forward="false" selection-start-line="273" selection-start-column="20" selection-end-line="273" selection-end-column="20" />
-              <folding>
-                <element signature="e#16#55#0" expanded="true" />
-                <element signature="e#844#1113#0" expanded="false" />
-                <element signature="e#1579#1599#0" expanded="false" />
-                <element signature="e#1648#1667#0" expanded="false" />
-                <element signature="e#1718#1743#0" expanded="false" />
-                <element signature="e#1811#1815#0" expanded="false" />
-                <element signature="e#1859#1877#0" expanded="false" />
-                <element signature="e#1924#1945#0" expanded="false" />
-                <element signature="e#2480#2581#0" expanded="false" />
-                <element signature="e#2712#2853#0" expanded="false" />
-                <element signature="e#2888#3526#0" expanded="false" />
-                <element signature="e#3565#4152#0" expanded="false" />
-                <element signature="e#4186#4249#0" expanded="false" />
-                <element signature="e#4282#4299#0" expanded="false" />
-                <element signature="e#4338#4382#0" expanded="false" />
-                <element signature="e#4416#4424#0" expanded="false" />
-                <element signature="e#5283#5866#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unification.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="unification.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unification.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="355">
@@ -125,7 +127,7 @@
       <file leaf-file-name="heapq.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/anaconda/lib/python3.5/heapq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="2505">
               <caret line="167" column="4" lean-forward="false" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
               <folding />
             </state>
@@ -135,7 +137,7 @@
       <file leaf-file-name="clustering.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="255">
               <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
               <folding>
                 <element signature="e#33#44#0" expanded="true" />
@@ -173,6 +175,7 @@
       <find>print</find>
       <find>buffer</find>
       <find>cluster</find>
+      <find>Variable</find>
     </findStrings>
     <replaceStrings>
       <replace>\t</replace>
@@ -189,7 +192,6 @@
         <option value="$PROJECT_DIR$/ETF.py" />
         <option value="$PROJECT_DIR$/traitement_ressources.py" />
         <option value="$PROJECT_DIR$/Parser.py" />
-        <option value="$PROJECT_DIR$/lambda_calculus.py" />
         <option value="$PROJECT_DIR$/nlyk_fcfg.py" />
         <option value="$PROJECT_DIR$/grammar0.fcfg" />
         <option value="$PROJECT_DIR$/grammar.fcfg" />
@@ -199,12 +201,15 @@
         <option value="$PROJECT_DIR$/clustering.ipynb" />
         <option value="$PROJECT_DIR$/logique.py" />
         <option value="$PROJECT_DIR$/unification.py" />
+        <option value="$PROJECT_DIR$/lambda_calculus.py" />
+        <option value="$PROJECT_DIR$/leveque-korantin_lambas.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="850" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -238,6 +243,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,8 +259,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,24 +271,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.logique">
-    <configuration default="false" name="nltk_fcfg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Traitement_Ressources" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nltk_fcfg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.leveque-korantin_lambas">
     <configuration default="false" name="logique" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,23 +285,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Traitement_Ressources" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logique.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Python Console" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Traitement_Ressources" />
-      <option name="SCRIPT_NAME" value="/Python Console" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -350,6 +321,43 @@
       <option name="SCRIPT_NAME" value="/Python Console" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lambda_calculus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Traitement_Ressources" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambda_calculus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="leveque-korantin_lambas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Traitement_Ressources" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leveque-korantin_lambas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -487,19 +495,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.nltk_fcfg" />
-      <item index="1" class="java.lang.String" itemvalue="Python.logique" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Python Console" />
-      <item index="3" class="java.lang.String" itemvalue="Python.clustering" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Python Console (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.logique" />
+      <item index="1" class="java.lang.String" itemvalue="Python.clustering" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Python Console (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lambda_calculus" />
+      <item index="4" class="java.lang.String" itemvalue="Python.leveque-korantin_lambas" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.logique" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Python Console (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.clustering" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Python Console" />
-        <item index="4" class="java.lang.String" itemvalue="Python.nltk_fcfg" />
+        <item index="0" class="java.lang.String" itemvalue="Python.leveque-korantin_lambas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lambda_calculus" />
+        <item index="2" class="java.lang.String" itemvalue="Python.logique" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Python Console (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.clustering" />
       </list>
     </recent_temporary>
   </component>
@@ -529,26 +537,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="25" width="1440" height="850" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57915056" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44619104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4292624" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3153153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1981982" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34079602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -575,20 +586,73 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grammar0.fcfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar.fcfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3915">
+          <caret line="273" column="20" lean-forward="false" selection-start-line="273" selection-start-column="20" selection-end-line="273" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="167" column="4" lean-forward="false" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+          <folding>
+            <element signature="e#33#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="69" lean-forward="false" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/traitement_ressources.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#1813#2386#0" expanded="false" />
-            <element signature="e#3882#4221#1" expanded="false" />
-            <element signature="e#4997#13362#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2055">
           <caret line="138" column="56" lean-forward="false" selection-start-line="138" selection-start-column="56" selection-end-line="138" selection-end-column="56" />
-          <folding>
-            <element signature="e#17#52#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,23 +676,26 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
+            <element signature="e#171#1666#0" expanded="false" />
+            <element signature="e#1694#1730#0" expanded="false" />
+            <element signature="e#1760#2177#0" expanded="false" />
             <element signature="e#1827#1837#0" expanded="false" />
             <element signature="e#1871#1884#0" expanded="false" />
             <element signature="e#1917#1934#0" expanded="false" />
+            <element signature="e#1973#1997#0" expanded="false" />
+            <element signature="e#2031#2039#0" expanded="false" />
+            <element signature="e#2223#2624#0" expanded="false" />
             <element signature="e#2259#2292#0" expanded="false" />
-            <element signature="e#2326#2373#0" expanded="false" />
-            <element signature="e#2462#2516#0" expanded="false" />
-            <element signature="e#2550#2558#0" expanded="false" />
-            <element signature="e#2586#2859#0" expanded="false" />
-            <element signature="e#2910#3871#0" expanded="false" />
-            <element signature="e#2910#3566#1" expanded="false" />
-            <element signature="e#3939#5076#0" expanded="false" />
-            <element signature="e#5115#5648#0" expanded="false" />
-            <element signature="e#5725#6129#0" expanded="false" />
-            <element signature="e#6179#7248#0" expanded="false" />
-            <element signature="e#7321#8278#0" expanded="false" />
-            <element signature="e#8949#9312#0" expanded="false" />
-            <element signature="e#9356#9667#0" expanded="false" />
+            <element signature="e#2326#2439#0" expanded="false" />
+            <element signature="e#2528#2582#0" expanded="false" />
+            <element signature="e#2616#2624#0" expanded="false" />
+            <element signature="e#2652#2989#0" expanded="false" />
+            <element signature="e#3040#3696#1" expanded="false" />
+            <element signature="e#4121#4843#1" expanded="false" />
+            <element signature="e#7568#8525#0" expanded="false" />
+            <element signature="e#8617#9153#0" expanded="false" />
+            <element signature="e#9196#9559#0" expanded="false" />
+            <element signature="e#9603#9914#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -653,11 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#1813#2386#0" expanded="false" />
-            <element signature="e#3882#4221#1" expanded="false" />
-            <element signature="e#4997#13362#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,9 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2070">
           <caret line="138" column="56" lean-forward="true" selection-start-line="138" selection-start-column="56" selection-end-line="138" selection-end-column="56" />
-          <folding>
-            <element signature="e#17#52#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,23 +739,26 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
+            <element signature="e#171#1666#0" expanded="false" />
+            <element signature="e#1694#1730#0" expanded="false" />
+            <element signature="e#1760#2177#0" expanded="false" />
             <element signature="e#1827#1837#0" expanded="false" />
             <element signature="e#1871#1884#0" expanded="false" />
             <element signature="e#1917#1934#0" expanded="false" />
+            <element signature="e#1973#1997#0" expanded="false" />
+            <element signature="e#2031#2039#0" expanded="false" />
+            <element signature="e#2223#2624#0" expanded="false" />
             <element signature="e#2259#2292#0" expanded="false" />
-            <element signature="e#2326#2373#0" expanded="false" />
-            <element signature="e#2462#2516#0" expanded="false" />
-            <element signature="e#2550#2558#0" expanded="false" />
-            <element signature="e#2586#2859#0" expanded="false" />
-            <element signature="e#2910#3871#0" expanded="false" />
-            <element signature="e#2910#3566#1" expanded="false" />
-            <element signature="e#3939#5076#0" expanded="false" />
-            <element signature="e#5115#5648#0" expanded="false" />
-            <element signature="e#5725#6129#0" expanded="false" />
-            <element signature="e#6179#7248#0" expanded="false" />
-            <element signature="e#7321#8278#0" expanded="false" />
-            <element signature="e#8949#9312#0" expanded="false" />
-            <element signature="e#9356#9667#0" expanded="false" />
+            <element signature="e#2326#2439#0" expanded="false" />
+            <element signature="e#2528#2582#0" expanded="false" />
+            <element signature="e#2616#2624#0" expanded="false" />
+            <element signature="e#2652#2989#0" expanded="false" />
+            <element signature="e#3040#3696#1" expanded="false" />
+            <element signature="e#4121#4843#1" expanded="false" />
+            <element signature="e#7568#8525#0" expanded="false" />
+            <element signature="e#8617#9153#0" expanded="false" />
+            <element signature="e#9196#9559#0" expanded="false" />
+            <element signature="e#9603#9914#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -722,11 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1813#2386#0" expanded="false" />
-            <element signature="e#3882#4221#1" expanded="false" />
-            <element signature="e#4997#13362#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,9 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding>
-            <element signature="e#17#52#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,11 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1813#2386#0" expanded="false" />
-            <element signature="e#3882#4221#1" expanded="false" />
-            <element signature="e#4997#13362#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,7 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,9 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding>
-            <element signature="e#17#52#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -806,11 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
-          <folding>
-            <element signature="e#1813#2386#0" expanded="false" />
-            <element signature="e#3882#4221#1" expanded="false" />
-            <element signature="e#4997#13362#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,11 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1813#2386#0" expanded="false" />
-            <element signature="e#3882#4221#1" expanded="false" />
-            <element signature="e#4997#13362#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,9 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="138" column="56" lean-forward="false" selection-start-line="138" selection-start-column="56" selection-end-line="138" selection-end-column="56" />
-          <folding>
-            <element signature="e#17#52#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -873,7 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,38 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#1813#2386#0" expanded="false" />
-            <element signature="e#3882#4221#1" expanded="false" />
-            <element signature="e#4997#13362#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lambda_calculus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="366" column="52" lean-forward="false" selection-start-line="366" selection-start-column="52" selection-end-line="366" selection-end-column="52" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-            <element signature="e#1827#1837#0" expanded="false" />
-            <element signature="e#1871#1884#0" expanded="false" />
-            <element signature="e#1917#1934#0" expanded="false" />
-            <element signature="e#2259#2292#0" expanded="false" />
-            <element signature="e#2326#2373#0" expanded="false" />
-            <element signature="e#2462#2516#0" expanded="false" />
-            <element signature="e#2550#2558#0" expanded="false" />
-            <element signature="e#2586#2859#0" expanded="false" />
-            <element signature="e#2910#3871#0" expanded="false" />
-            <element signature="e#2910#3566#1" expanded="false" />
-            <element signature="e#3939#5076#0" expanded="false" />
-            <element signature="e#5115#5648#0" expanded="false" />
-            <element signature="e#5725#6129#0" expanded="false" />
-            <element signature="e#6179#7248#0" expanded="false" />
-            <element signature="e#7321#8278#0" expanded="false" />
-            <element signature="e#8949#9312#0" expanded="false" />
-            <element signature="e#9356#9667#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -920,14 +913,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-484">
           <caret line="725" column="8" lean-forward="false" selection-start-line="725" selection-start-column="8" selection-end-line="725" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grammar0.fcfg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -950,7 +942,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nltk_fcfg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="330">
           <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="e#17#73#0" expanded="true" />
@@ -970,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,13 +977,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="65" column="73" lean-forward="true" selection-start-line="65" selection-start-column="73" selection-end-line="65" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="255">
           <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
           <folding>
             <element signature="e#33#44#0" expanded="true" />
@@ -1004,46 +994,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="702" column="6" lean-forward="false" selection-start-line="702" selection-start-column="6" selection-end-line="702" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clustering.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/clustering.ipynb" />
     <entry file="file://$PROJECT_DIR$/logique.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="3915">
           <caret line="273" column="20" lean-forward="false" selection-start-line="273" selection-start-column="20" selection-end-line="273" selection-end-column="20" />
-          <folding>
-            <element signature="e#16#55#0" expanded="true" />
-            <element signature="e#844#1113#0" expanded="false" />
-            <element signature="e#1579#1599#0" expanded="false" />
-            <element signature="e#1648#1667#0" expanded="false" />
-            <element signature="e#1718#1743#0" expanded="false" />
-            <element signature="e#1811#1815#0" expanded="false" />
-            <element signature="e#1859#1877#0" expanded="false" />
-            <element signature="e#1924#1945#0" expanded="false" />
-            <element signature="e#2480#2581#0" expanded="false" />
-            <element signature="e#2712#2853#0" expanded="false" />
-            <element signature="e#2888#3526#0" expanded="false" />
-            <element signature="e#3565#4152#0" expanded="false" />
-            <element signature="e#4186#4249#0" expanded="false" />
-            <element signature="e#4282#4299#0" expanded="false" />
-            <element signature="e#4338#4382#0" expanded="false" />
-            <element signature="e#4416#4424#0" expanded="false" />
-            <element signature="e#5283#5866#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/anaconda/lib/python3.5/heapq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="2505">
           <caret line="167" column="4" lean-forward="false" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
           <folding />
         </state>
@@ -1054,6 +1019,54 @@
         <state relative-caret-position="355">
           <caret line="183" column="12" lean-forward="true" selection-start-line="183" selection-start-column="12" selection-end-line="183" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda_calculus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="227" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+            <element signature="e#171#1666#0" expanded="false" />
+            <element signature="e#1694#1730#0" expanded="false" />
+            <element signature="e#1760#2177#0" expanded="false" />
+            <element signature="e#1827#1837#0" expanded="false" />
+            <element signature="e#1871#1884#0" expanded="false" />
+            <element signature="e#1917#1934#0" expanded="false" />
+            <element signature="e#1973#1997#0" expanded="false" />
+            <element signature="e#2031#2039#0" expanded="false" />
+            <element signature="e#2223#2624#0" expanded="false" />
+            <element signature="e#2259#2292#0" expanded="false" />
+            <element signature="e#2326#2439#0" expanded="false" />
+            <element signature="e#2528#2582#0" expanded="false" />
+            <element signature="e#2616#2624#0" expanded="false" />
+            <element signature="e#2652#2989#0" expanded="false" />
+            <element signature="e#3040#3696#1" expanded="false" />
+            <element signature="e#4121#4843#1" expanded="false" />
+            <element signature="e#7568#8525#0" expanded="false" />
+            <element signature="e#8617#9153#0" expanded="false" />
+            <element signature="e#9196#9559#0" expanded="false" />
+            <element signature="e#9603#9914#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leveque-korantin_lambas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="189" column="45" lean-forward="true" selection-start-line="189" selection-start-column="45" selection-end-line="189" selection-end-column="45" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+            <element signature="e#129#645#0" expanded="false" />
+            <element signature="e#690#1458#0" expanded="false" />
+            <element signature="e#1488#1806#0" expanded="false" />
+            <element signature="e#1876#2417#0" expanded="false" />
+            <element signature="e#2451#2872#0" expanded="false" />
+            <element signature="e#3844#4232#0" expanded="false" />
+            <element signature="e#4258#4582#0" expanded="false" />
+            <element signature="e#4609#4886#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
