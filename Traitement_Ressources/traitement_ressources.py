@@ -129,7 +129,6 @@ def traiter_lexique(filename, mode='r', encoding=None, errors='strict', bufferin
                     yield [forme, number, categorie, g(iter(features), table_lefff)]
 
 
-
 def g(stream, table):
     """
         A partir d'un générteur et d'une table d'opérations sensibles
@@ -154,6 +153,7 @@ def g(stream, table):
         # print(features or relations or obligatoire or facultatif or morphologie or lemme or number or morpho or rel or fac)
         current = next(stream, False)
     return features
+
 
 def raise_error(buffer):
     raise BufferError('est-ce normal d\'avoir cela sur le buffer', buffer)
@@ -291,6 +291,7 @@ table_lefff = {
 def calculer_morpho(chaine):
     return chaine
 
+
 def main():
     # filename = "../LEFFF/lefff-2.1_utf8.txt"
     # traiter_lefff(filename=filename, encoding='utf-8', buffering=53213)
@@ -309,7 +310,9 @@ def main():
         cur = next(tmp, False)
     dump(liste, open("lexique_lefff.pickle", "wb"))
 
+
 clear_buffer = lambda : globals().__setitem__('buffer', '')
+
 
 def test():
     from nltk.featstruct import unify
@@ -330,9 +333,6 @@ def dico_add(dico1, dico2):
         print(k, v)
         dico1[k]|=(v)
     return dico1
-
-
-
 
 
 if __name__ == '__main__':

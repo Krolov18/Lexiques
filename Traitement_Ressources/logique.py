@@ -7,10 +7,12 @@ from copy import deepcopy
 from string import punctuation
 from re import search, findall
 import heapdict
+import regex
+from chest import Chest
 import subprocess
 #import chest
 #from numpy import *
-#from math import log10
+from math import log10, log
 #from _pickle import load, dump
 #from functools import reduce
 from itertools import groupby
@@ -100,10 +102,10 @@ class OptimString:
                 if n_p is None:
                     n_p = x
                 else:
-                    n_p = Point('.+')
+                    n_p = Point('.*')
         if n_p is not None:
             l.append(n_p)
-        return OptimString(point=Point('.+'), seq=l)
+        return OptimString(point=Point('.*'), seq=l)
 
     def __remplir_control(self, seq): list(
         map(lambda x: self.control[x[0]].append(x[1]), self.__inverse_enumerate(seq=seq))
@@ -169,7 +171,7 @@ def escape_char(x):
     return "\\"+x if ((str(x) in punctuation) and isinstance(x, str)) else str(x)
 
 
-def generate_regex(seq: OptimString):
+def generate_regex(seq: OptimString, memo: Chest=None):
     file = deque()
     sortie = deque()
 
@@ -178,7 +180,8 @@ def generate_regex(seq: OptimString):
     while file:
         current = file.pop()
         if not all(x == '.' for x in str(current)):
-            yield current
+            if not memo.get(current):
+                yield current
         if not isinstance(current.data_pointe[-1], Point):
             current = current.add_point()
             file.appendleft(current)
@@ -210,6 +213,123 @@ def construire(phrases):
         vecteur_log = Chest(path=p, dump=dump, load=load)
 
         # for skip in generate_regex()
+
+
+def replace(x, y, z):
+    for s in y:
+        x = x.replace(x[s], z, 1)
+    return x
+
+
+def g(mot):
+    # from re import sub
+    from nltk.util import skipgrams
+    tmp = [x for x, y in enumerate(mot)]
+    for i in range(2, len(mot)+1):
+        for skip in skipgrams(tmp, i, len(mot)):
+            # yield sub("\.\.+", ".+", replace(mot, skip, '.'))
+            yield skip
+
+
+def dot(wi, x):
+    from functools import reduce
+    from operator import mul, add
+    return reduce(add, map(lambda i: mul(wi[i], x[i]), x))
+
+
+def argmax(w, x):
+    a = str()
+    b = float()
+
+    for z, u in w.items():
+        calcul = dot(z, x)
+        if calcul > b:
+            a = u
+            b = calcul
+    return a, b
+
+
+def estime(ba):
+    classes = chest.Chest(path="classes", dump=dump, load=load)
+    features = chest.Chest(path='features', dump=dump, load=load)
+    ba_repr = chest.Chest(path='base-d-apprentissage', dump=dump, load=load)
+    for p in ba:
+        classes[p] = True
+        features[p] = True
+        for y in generate_regex(OptimString(point=Point('.'), seq=p)):
+            features[y] = True
+            ba_repr[p][y] = (1+log10(count(y, p)/pow(2, len(p))))/log10(len(ba)/sum(count(y, z, True) for z in ba))
+        features.flush()
+    classes.flush()
+    ba_repr.flush()
+
+
+def perceptron(classes, features, ba, n):
+    w = random.rand(len(classes), len(features))
+    for i in range(n):
+        for (x, y) in ba:
+            y_pred = argmax(w, x)
+            if y != y_pred:
+                for t, i in x.items():
+                    w[y][t] += i
+                    w[y_pred][t] += i
+
+
+def freq_binaire(t: str, d: str):
+    return 1 if regex.search(t, d) else 0
+
+
+def frequence_brute(t: str, d: str, overlapped=True, len_d=False) -> float:
+    return len(regex.findall(t, d, overlapped=overlapped))/len(d) if not len_d else pow(2, len(d))
+
+
+def log_norm(t: str, d: str) -> float:
+    return 1 + log(frequence_brute(t, d))
+
+
+def normal_05_max(t: str, d: str, ts, overlapped=False, len_d=False):
+    max_fr_b = float()
+    for q in ts:
+        calcul = frequence_brute(q, d, overlapped=overlapped, len_d=len_d)
+        if calcul > max_fr_b:
+            max_fr_b = calcul
+    return 0.5 + 0.5 * (frequence_brute(t, d) / max(frequence_brute(q, d) for q in ts))
+
+
+def idf(t, ds):
+    i = 0
+    for d in ds:
+        i += freq_binaire(t, d)
+    return len(ds) / i
+
+
+def tf_idf(t, d, ts, ds, tf_p: str, overlapped=True):
+    """
+        Calcul du tf-idf d'un terme pour un document
+    :param t: terme appartenant ou pas à d
+    :param d: document d appartient à ds
+    :param ts: ensembles des termes du document d
+    :param ds: corpus de documents
+    :param tf: flag peremttant de savoir quel type de tf on veut faire
+    :return: retourne le tf-idf d'un terme
+    """
+    if d not in ds:
+        return 0
+    else:
+        tf = float()
+        idf_ = idf(t, ds)
+        if tf_p in ('bin', 'freq_brut', 'log_norm', 'norm_0.5'):
+            if tf_p == 'bin':
+                tf = freq_binaire(t=t, d=d)
+            elif tf_p == "freq_brut":
+                tf = frequence_brute(t=t, d=d, overlapped=False)
+            elif tf_p == "log_norm":
+                tf = log_norm(t=t, d=d)
+            elif tf_p == "norm_0.5":
+                tf = normal_05_max(t=t, d=d, ts=ts)
+        else:
+            raise TypeError("la valeur de tf doit être dans ce tuple: ('bin', 'freq_brut', 'log_norm', 'norm_0.5')")
+    return tf * idf_
 
 
 def main():
@@ -274,81 +394,14 @@ def main2():
         # print(len(struc))
 
 
-def replace(x, y, z):
-    for s in y:
-        x = x.replace(x[s], z, 1)
-    return x
-
-
-def g(mot):
-    from re import sub
-    tmp = [x for x, y in enumerate(mot)]
-    for i in range(2, len(mot)+1):
-        for skip in skipgrams(tmp, i, len(mot)):
-            yield sub("\.\.+", ".+", replace(mot, skip, '.'))
-            # yield skip
-
-
-def dot(wi, x):
-    return reduce(lambda x, y: x+y, map(lambda i: wi[i]*x[i], x))
-
-
-def argmax(w, x):
-    a = str()
-    b = float()
-
-    for z, u in w.items():
-        calcul = dot(z, x)
-        if calcul > b:
-            a = u
-            b = calcul
-    return a, b
-
-
-def estime(ba):
-    classes = chest.Chest(path="classes", dump=dump, load=load)
-    features = chest.Chest(path='features', dump=dump, load=load)
-    ba_repr = chest.Chest(path='base-d-apprentissage', dump=dump, load=load)
-    for p in ba:
-        classes[p] = True
-        features[p] = True
-        for y in generate_regex(OptimString(point=Point('.'), seq=p)):
-            features[y] = True
-            ba_repr[p][y] = (1+log10(count(y, p)/pow(2, len(p))))/log10(len(ba)/sum(count(y, z, True) for z in ba))
-        features.flush()
-    classes.flush()
-    ba_repr.flush()
-
-
-def perceptron(classes, features, ba, n):
-    w = random.rand(len(classes), len(features))
-    for i in range(n):
-        for (x, y) in ba:
-            y_pred = argmax(w, x)
-            if y != y_pred:
-                for t, i in x.items():
-                    w[y][t] += i
-                    w[y_pred][t] += i
-
-
 def main3():
     chaine = "le chat dort"
     tmp = OptimString(Point('.'), chaine)
     tmp1 = generate_regex(tmp)
 
     for t in tmp1:
-        print(t.buffer)
-
-
-def main5():
-    # print(random.rand(10, 10, 10))
-    seq = "le chat"
-    a = OptimString(point=Point('.'), seq=seq)
-    tmp1 = generate_regex(a)
-    cmd = 'grep -o -e "le...." '
-    for d in tmp1:
-        print(d.etendre())
+        print(t.etendre())
 
 
 if __name__ == '__main__':
-    main5()
+    main3()
