@@ -6,8 +6,57 @@ from typing import Sequence
 from collections import defaultdict, deque
 from chest import Chest
 from combinations import tf_idf, frequence_brute, freq_binaire, idf, powerset
-from itertools import chain
+from itertools import chain, product
+import sqlite3
 
+
+def skip_duplicates(iterable, key=lambda x: x):
+    """
+        http://sametmax.com/saffranchir-des-doublons-dun-iterable-en-python/
+    :param iterable:
+    :param key:
+    :return:
+    """
+    # on va mettre l’empreinte unique de chaque élément dans ce set
+    fingerprints = set()
+
+    for x in iterable:
+        # chaque élement voit son emprunte calculée. Par défaut l’empreinte
+        # est l'élément lui même, ce qui fait qu'il n'y a pas besoin de
+        # spécifier 'key' pour des primitives comme les ints ou les strings.
+        fingerprint = key(x)
+
+        # On vérifie que l'empreinte est dans la liste des empreintes  des
+        # éléments précédents. Si ce n'est pas le cas, on yield l'élément, et on
+        # rajoute sont empreinte ans la liste de ceux trouvés, donc il ne sera
+        # pas yieldé si on ne le yieldera pas une seconde fois si on le
+        # rencontre à nouveau
+        if fingerprint not in fingerprints:
+            yield x
+            fingerprints.add(fingerprint)
+
+
+def remove_duplicates(lst, equals=lambda x, y: x == y):
+    """
+        http://sametmax.com/saffranchir-des-doublons-dun-iterable-en-python/
+    :param lst:
+    :param equals:
+    :return:
+    """
+    if not isinstance(lst, list):
+        raise TypeError('This function works only with lists.')
+    i1 = 0
+    l = (len(lst) - 1)
+    while i1 < l:
+        elem = lst[i1]
+        i2 = i1 + 1
+        while i2 <= l:
+            if equals(elem, lst[i2]):
+                del lst[i2]
+                l -= 1
+            i2 += 1
+        i1 += 1
+    return lst
 
 
 class Point(object):
@@ -144,23 +193,82 @@ def escape_char(x):
     return "\\"+x if ((str(x) in punctuation) and isinstance(x, str)) else str(x)
 
 
-def generate_regex(seq: OptimString, memo: dict=None):
+def generate_regex(seq: OptimString, classes, cursor: sqlite3.Cursor):
+    doublon = None
+
+    add_value_cmd = """INSERT INTO Examples(corpus_id,class_id,feature_id,value)
+    SELECT Corpus.id,Classes.id, Features.id
+    FROM Corpus,Classes,Features
+    WHERE Corpus.sequence=?
+    AND Classes.classe=?
+    AND Features.feature=?;
+    """
+    add_classes_cmd = "INSERT OR IGNORE INTO Classes(classe) VALUES (?);"
+    add_features_cmd = "INSERT OR IGNORE INTO Features(feature) VALUES (?);"
+    add_sequence_cmd = "INSERT OR IGNORE INTO Corpus(sequence) VALUES (?);"
+    add_genealogie_cmd = "INSERT OR IGNORE INTO Genealogie(pere_id, descendant_id) VALUES (?,?)"
+    select_feature = "select id from features where feature=?"
+
+    seq_id = cursor.execute(select_feature, (str(seq),)).fetchone()
+
     file = deque()
-    sortie = deque()
 
     file.appendleft(seq)
 
     while file:
         current = file.pop()
-        if not all(x == '.' for x in str(current)):
-            yield current
-        if not isinstance(current.data_pointe[-1], Point):
-            current = current.add_point()
-            if not memo.get(current):
-                file.appendleft(current)
-            for _ in range(current.control.get(current.get_point)[-1]+1, len(current.data)):
-                current = current.deplace_point()
-                if not memo.get(current):
+        # vérification de la présence de current dans la database
+        cursor.execute("select descendant_id from genealogie where pere_id=(select id from features where id=?)")
+        descendants = cursor.fetchall()
+        if descendants:
+            cursor.executemany(add_value_cmd, product((seq,), classes, descendants))
+        else:
+            if str(seq) != str(current):
+                tmp = (seq, current if not all(x == '.' for x in str(current)) else 'NULL')
+                if tmp != doublon:
+                    if tmp[1] == "NULL":
+                        # mettre à jour les exemples
+                        cursor.executemany(add_value_cmd, map(lambda x: (seq, x, current), classes))
+                        # mettre à jour généalogie
+                        cursor.execute(add_genealogie_cmd,
+                                       cursor.execute(select_feature, (str(current),)).fetchone() + ('NULL',))
+                    # mettre à jour features
+                    cursor.execute(add_features_cmd, (str(current),))
+                    # mettre à jour les exemples
+                    cursor.executemany(add_value_cmd, map(lambda x: (seq, x, current), classes))
+                    # mettre à jour généalogie
+                    cursor.execute(add_genealogie_cmd,
+                                   seq_id + cursor.execute(select_feature,(str(current),)).fetchone()
+                                   )
+
+                    doublon = tmp
+                if isinstance(current.data_pointe[-1], Point):
+                    yield current, 'NULL'
+                    # mettre à jour les exemples
+                    cursor.executemany(add_value_cmd, map(lambda x: (seq, x, current), classes))
+                    # mettre à jour généalogie
+                    cursor.execute(add_genealogie_cmd,
+                                   cursor.execute(select_feature, (str(current),)).fetchone()+('NULL',)
+                                   )
+            if not isinstance(current.data_pointe[-1], Point):
+                old = current
+                current = current.add_point()
+                tmp = (old, current if not all(x == '.' for x in str(current)) else 'NULL')
+                if tmp != doublon:
+                    yield tmp
+                    # mettre à jour features
+                    cursor.execute(add_features_cmd, (str(current),))
+                    # mettre à jour les exemples
+                    cursor.executemany(add_value_cmd, map(lambda x: (seq, x, current), classes))
+                    # mettre à jour généalogie
+                    cursor.execute(add_genealogie_cmd,
+                                   seq_id + cursor.execute(select_feature, (str(current),)).fetchone()
+                                   )
+                    doublon = tmp
+                if not all(x == '.' for x in str(current)):
+                    file.appendleft(current)
+                for _ in range(current.control.get(current.get_point)[-1]+1, len(current.data)):
+                    current = current.deplace_point()
                     file.appendleft(current)
 
 
@@ -215,5 +323,16 @@ def main():
         dico.flush()
     print(dico.items(), sep='\n')
 
+
+def main2():
+    x = 'bons'
+    tmp = OptimString(seq=x, point=Point('.'), pointee=None, control=None)
+    for x in enumerate(skip_duplicates(generate_regex(tmp))):
+        print(*x)
+    print()
+    for x in enumerate(generate_regex(tmp)):
+        print(*x)
+
+
 if __name__ == '__main__':
-    main()
+    main2()
